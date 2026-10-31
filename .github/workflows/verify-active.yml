@@ -1,0 +1,45 @@
+name: Verify 30-Day Repo Activity
+
+on:
+  schedule:
+    # Runs every Monday at 00:00 UTC to guarantee 100% active (<30d) curation
+    - cron: "0 0 * * 1"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "data/repos.json"
+      - "scripts/verify_active.py"
+
+permissions:
+  contents: write
+
+jobs:
+  audit-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run 30-Day Activity Verifier
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/verify_active.py
+
+      - name: Commit and push updated READMEs if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md README.id.md GRAVEYARD.md data/verified_status.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore(audit): automated 30-day repo activity verification [skip ci]"
+            git push
+          fi
