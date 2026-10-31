@@ -98,6 +98,76 @@
           "role_id": "Agen Riset Mendalam Otonom",
           "why_en": "Autonomous agent that conducts deep, citation-backed market and domain research using any LLM provider.",
           "why_id": "Agen otonom untuk melakukan riset pasar dan industri mendalam lengkap dengan sitasi secara otomatis."
+        },
+        {
+          "repo": "browser-use/browser-use",
+          "role_en": "AI Browser Agent Framework",
+          "role_id": "Framework Agen Browser Otonom",
+          "why_en": "The flagship open-source Python library and stealth browser framework that lets AI agents navigate, click, and extract data from any website.",
+          "why_id": "Library Python open-source utama yang memungkinkan agen AI menavigasi, mengklik, dan mengekstrak data dari website mana pun."
+        },
+        {
+          "repo": "koala73/worldmonitor",
+          "role_en": "Real-Time Global & Macro Intel",
+          "role_id": "Dashboard Intelijen Pasar & Berita Global",
+          "why_en": "AI-powered situational awareness dashboard aggregating global news, market shifts, and infrastructure signals in real time.",
+          "why_id": "Dashboard pemantau berita global, pergerakan pasar, dan tren makro secara real-time berbasis kurasi AI."
+        },
+        {
+          "repo": "NanmiCoder/MediaCrawler",
+          "role_en": "Social Video & Comment Crawler",
+          "role_id": "Scraper Konten & Komentar Sosmed Viral",
+          "why_en": "Crawls posts, videos, and user comments across TikTok/Douyin, Xiaohongshu, Bilibili, and Weibo to mine viral hooks and customer pain points.",
+          "why_id": "Mengekstrak postingan, video, dan ribuan komentar pengguna di TikTok/Douyin, Xiaohongshu, dan Bilibili untuk mencari pain point pasar."
+        },
+        {
+          "repo": "lightpanda-io/browser",
+          "role_en": "Ultra-Low-RAM Headless Browser",
+          "role_id": "Headless Browser Super Hemat RAM",
+          "why_en": "Headless browser written in Zig/C specifically for AI agents and automation—consumes 10x less memory than Chromium on a $5 VPS.",
+          "why_id": "Headless browser khusus agen AI yang 10x lebih hemat RAM dibanding Chrome—sangat ideal dijalankan di VPS $5."
+        },
+        {
+          "repo": "h4ckf0r0day/obscura",
+          "role_en": "Stealth Agent Headless Browser",
+          "role_id": "Headless Browser Stealth untuk Agen",
+          "why_en": "Headless stealth browser purpose-built for AI agents and anti-bot web scraping at scale.",
+          "why_id": "Browser tanpa antarmuka (headless) dengan fitur anti-deteksi bawaan yang dirancang khusus untuk scraping agen AI."
+        },
+        {
+          "repo": "browserbase/stagehand",
+          "role_en": "AI Web Automation SDK",
+          "role_id": "SDK Otomatisasi Web Berbasis AI",
+          "why_en": "Combines deterministic Playwright code with natural-language act(), extract(), and observe() primitives for resilient web scraping.",
+          "why_id": "Memadukan kode Playwright deterministik dengan instruksi bahasa alami (act, extract, observe) agar scraper tidak mudah rusak."
+        },
+        {
+          "repo": "Skyvern-AI/skyvern",
+          "role_en": "Vision-LLM Browser Workflow Agent",
+          "role_id": "Otomatisasi Browser Berbasis Vision-LLM",
+          "why_en": "Automates complex browser workflows (form filling, invoice downloading, portal scraping) using Computer Vision and LLMs without brittle XPaths.",
+          "why_id": "Mengotomatiskan alur kerja web rumit (isi formulir, unduh invoice, ekstraksi portal) menggunakan Vision-LLM tanpa bergantung pada selector CSS."
+        },
+        {
+          "repo": "citrolabs/ego-lite",
+          "role_en": "Logged-In Browser Bridge for Agents",
+          "role_id": "Jembatan Sesi Browser Login ke Agen AI",
+          "why_en": "Lets coding agents (Claude Code, Codex) safely use your already logged-in Chrome sessions for automation at zero cost and zero config.",
+          "why_id": "Memungkinkan agen coding menggunakan sesi Chrome milikmu yang sudah login tanpa mengganggu pekerjaanmu dan tanpa biaya."
+        },
+        {
+          "repo": "kaifcodec/user-scanner",
+          "role_en": "Email & Username OSINT MCP",
+          "role_id": "OSINT Email & Username + MCP Server",
+          "why_en": "2-in-1 email and username OSINT suite with native MCP support scanning 2,700+ vectors for B2B lead enrichment and prospect verification.",
+          "why_id": "Alat OSINT email dan username dengan dukungan MCP server (2.700+ vektor) untuk memperkaya data prospek B2B dan verifikasi klien."
+        },
+        {
+          "repo": "proxy-intell/facebook-ads-library-mcp",
+          "role_en": "Meta Ad Library Spy MCP",
+          "role_id": "MCP Pengintip Iklan Kompetitor (Meta Ads)",
+          "why_en": "MCP server that queries the Facebook/Meta Ad Library so your AI agent can analyze competitor ad creatives, copy, and funnels.",
+          "why_id": "Server MCP untuk membedah iklan kompetitor yang sedang aktif di Facebook/Instagram Ad Library langsung dari Claude atau Cursor."
         }
       ]
     },
@@ -219,6 +289,104 @@
           "role_id": "AI Pair Programmer di Terminal",
           "why_en": "Classic terminal AI pair programming tool.",
           "why_id": "Alat AI pair programming klasik di terminal."
+        },
+        {
+          "repo": "deepseek-ai/deepseek-harness",
+          "role_en": "Plugin-First Agent Harness",
+          "role_id": "Agent Harness Modular Resmi DeepSeek",
+          "why_en": "DeepSeek's flagship modular agent harness ('Everything is a Plugin') for orchestrating high-efficiency autonomous coding and ops.",
+          "why_id": "Agent harness resmi dari DeepSeek dengan arsitektur 'Everything is a Plugin' untuk orkestrasi agen otonom berbiaya rendah."
+        },
+        {
+          "repo": "anthropics/skills",
+          "role_en": "Official Anthropic Agent Skills",
+          "role_id": "Kumpulan Skill Agen Resmi Anthropic",
+          "why_en": "Anthropic's official public repository of reusable Agent Skills for document creation, coding workflows, and tool orchestration.",
+          "why_id": "Repositori publik resmi dari Anthropic berisi kumpulan Agent Skills standar untuk otomasi dokumen, coding, dan alur kerja."
+        },
+        {
+          "repo": "DietrichGebert/ponytail",
+          "role_en": "Anti-Overengineering Agent Skill",
+          "role_id": "Skill 'Senior Dev Malas' Anti-Overengineering",
+          "why_en": "Makes your AI coding agent think like a pragmatic senior engineer—prevents bloated abstractions, unnecessary refactors, and over-engineering.",
+          "why_id": "Melatih agen coding berpikir seperti senior dev pragmatis: menulis kode sesedikit dan sesederhana mungkin tanpa over-engineering."
+        },
+        {
+          "repo": "earendil-works/pi",
+          "role_en": "Unified Agent Loop & CLI Toolkit",
+          "role_id": "Toolkit Agent Loop & Coding CLI Cepat",
+          "why_en": "High-speed AI agent toolkit featuring a unified LLM API, deterministic agent loop, TUI, and terminal coding agent CLI.",
+          "why_id": "Toolkit agen AI berkecepatan tinggi dengan API LLM terpadu, agent loop, antarmuka terminal (TUI), dan CLI coding."
+        },
+        {
+          "repo": "addyosmani/agent-skills",
+          "role_en": "Web Performance & Eng Skills",
+          "role_id": "Skill Engineering & Web Perf (Addy Osmani)",
+          "why_en": "Addy Osmani's battle-tested production engineering skills for AI coding agents covering architecture, Core Web Vitals, and clean code.",
+          "why_id": "Koleksi skill engineering kelas produksi dari Addy Osmani untuk menjaga kualitas arsitektur dan kecepatan aplikasi web."
+        },
+        {
+          "repo": "odysseus-dev/odysseus",
+          "role_en": "Self-Hosted AI Agent Workspace",
+          "role_id": "Workspace Agen AI Mandiri",
+          "why_en": "Self-hosted AI workspace for orchestrating autonomous agents, local tools, and long-running workflows.",
+          "why_id": "Ruang kerja AI self-hosted untuk menjalankan dan mengoordinasikan berbagai agen otonom di server sendiri."
+        },
+        {
+          "repo": "bytedance/deer-flow",
+          "role_en": "Long-Horizon SuperAgent Harness",
+          "role_id": "SuperAgent Harness untuk Tugas Jangka Panjang",
+          "why_en": "Open-source SuperAgent harness with sandboxes, memory, subagents, and message gateways that executes multi-hour research and coding tasks.",
+          "why_id": "Harness SuperAgent dengan sandbox, memori, dan subagen untuk mengeksekusi riset maupun pembuatan fitur berdurasi berjam-jam."
+        },
+        {
+          "repo": "ruvnet/ruflo",
+          "role_en": "Multi-Agent Swarm Coordinator",
+          "role_id": "Orkestrator Swarm Multi-Agen",
+          "why_en": "Deploys intelligent multi-agent swarms with adaptive memory, vector RAG, and native Claude Code, Codex, and Hermes integration.",
+          "why_id": "Mengorkestrasi kawanan (swarm) agen otonom lengkap dengan memori adaptif, vector RAG, dan integrasi Claude Code/Codex/Hermes."
+        },
+        {
+          "repo": "tinyhumansai/openhuman",
+          "role_en": "500-Agent-on-$10-VPS Harness",
+          "role_id": "Harness Super Ringan (500 Agen di VPS $10)",
+          "why_en": "Ultra-lightweight, resource-efficient open-source agent harness engineered to run 500+ concurrent agents on a single $10 VPS.",
+          "why_id": "Agent harness paling ringan dan hemat memori yang sanggup menjalankan lebih dari 500 agen sekaligus hanya di satu VPS $10."
+        },
+        {
+          "repo": "block/buzz",
+          "role_en": "Sovereign Human + Agent Relay (buzz.xyz)",
+          "role_id": "Workspace Kolaborasi Manusia + Agen (buzz.xyz)",
+          "why_en": "Block's self-hostable Nostr relay workspace where humans and AI agents share rooms, open Git repos, send patches, run CI, edit canvases, and join voice huddles with cryptographic audit trails.",
+          "why_id": "Workspace mandiri buatan Block (buzz.xyz) berbasis relay Nostr & Rust di mana founder dan agen AI berada di satu room untuk kelola repo Git, kirim patch, jalankan CI, edit canvas, dan voice huddle dengan jejak audit kriptografis."
+        },
+        {
+          "repo": "iOfficeAI/AionUi",
+          "role_en": "24/7 Multi-CLI Cowork Desktop",
+          "role_id": "Aplikasi Desktop Cowork 20+ Agen CLI",
+          "why_en": "Open-source 24/7 Cowork app that unifies OpenClaw, Hermes, Claude Code, Codex, OpenCode, and 20+ CLI agents into one visual team.",
+          "why_id": "Aplikasi cowork 24/7 yang menyatukan OpenClaw, Hermes, Claude Code, Codex, dan 20+ agen CLI ke dalam satu antarmuka tim."
+        },
+        {
+          "repo": "different-ai/openwork",
+          "role_en": "Open-Source Claude Cowork",
+          "role_id": "Alternatif Open-Source Claude Cowork",
+          "why_en": "Open-source alternative to Claude Cowork (powered by OpenCode) for delegating everyday business, file, and browser tasks.",
+          "why_id": "Alternatif open-source Claude Cowork berbasis OpenCode untuk mendelegasikan tugas operasional harian, dokumen, dan riset."
+        },
+        {
+          "repo": "getpaseo/paseo",
+          "role_en": "Desktop & Mobile Agent Commander",
+          "role_id": "Pengendali Armada Agen dari HP & Desktop",
+          "why_en": "Orchestrate, monitor, and approve multiple coding agents simultaneously from both your desktop and mobile phone.",
+          "why_id": "Pantau, arahkan, dan beri persetujuan ke banyak agen coding sekaligus langsung dari layar HP maupun desktop."
+        },
+        {
+          "repo": "kortix-ai/suna",
+          "role_en": "Open-Source CompanyOS",
+          "role_id": "Sistem Operasi Perusahaan Otonom (CompanyOS)",
+          "why_en": "Kortix CompanyOS: open-source operating system to run your company as code with multiplayer AI agents and sovereign browser/terminal sandboxes.",
+          "why_id": "Sistem operasi open-source untuk menjalankan 'Company-as-Code' dengan agen AI multiplayer yang memiliki komputer dan browser sandbox sendiri."
         }
       ]
     },
@@ -354,6 +522,125 @@
           "role_id": "Backend Khusus Agentic Coding",
           "why_en": "Open-source backend platform purpose-built to give coding agents instant database, auth, storage, and vector primitives.",
           "why_id": "Platform backend open-source yang dirancang khusus agar agen coding bisa langsung mengelola DB, auth, dan vector."
+        },
+        {
+          "repo": "github/spec-kit",
+          "role_en": "Spec-Driven Development Toolkit",
+          "role_id": "Toolkit Spec-Driven Development (SDD) Resmi",
+          "why_en": "GitHub's official toolkit for Spec-Driven Development—aligns coding agents on crystal-clear specifications before a single line of code is written.",
+          "why_id": "Toolkit resmi GitHub untuk Spec-Driven Development agar agen coding membangun fitur berdasarkan spesifikasi terstruktur tanpa halusinasi."
+        },
+        {
+          "repo": "Graphify-Labs/graphify",
+          "role_en": "Deterministic Codebase Knowledge Graph",
+          "role_id": "Knowledge Graph Codebase & Skema SQL",
+          "why_en": "Turns your codebase, SQL schemas, configs, and PDFs into a deterministic AST knowledge graph for Claude Code, Cursor, and Codex without vector stores.",
+          "why_id": "Mengubah seluruh codebase, skema database SQL, dan dokumentasi menjadi knowledge graph AST deterministik agar agen memahami arsitektur secara instan."
+        },
+        {
+          "repo": "tt-a1i/archify",
+          "role_en": "Interactive Architecture Diagram Skill",
+          "role_id": "Skill Pembuat Diagram Arsitektur Interaktif",
+          "why_en": "Agent skill that turns any product idea, implementation plan, or existing repo into beautiful interactive architecture diagrams.",
+          "why_id": "Skill agen untuk mengubah ide produk, rencana sistem, atau kode yang sudah ada menjadi diagram arsitektur interaktif."
+        },
+        {
+          "repo": "cathrynlavery/diagram-design",
+          "role_en": "Editorial Anti-Slop Diagram Skill",
+          "role_id": "Skill Desain Diagram Editorial (Anti-Mermaid-Slop)",
+          "why_en": "Generates 45 types of self-contained, editorial-grade HTML + SVG diagrams for pitch decks, docs, and landing pages with zero Mermaid slop.",
+          "why_id": "Menghasilkan 45 jenis diagram HTML + SVG berstandar editorial majalah untuk landing page dan pitch deck tanpa tampilan kaku khas Mermaid."
+        },
+        {
+          "repo": "ChromeDevTools/chrome-devtools-mcp",
+          "role_en": "Official Chrome DevTools MCP",
+          "role_id": "Server MCP Resmi Chrome DevTools",
+          "why_en": "Gives coding agents live access to Chrome DevTools to inspect DOM layout, debug console errors, and audit Core Web Vitals autonomously.",
+          "why_id": "Memberi agen coding akses langsung ke Chrome DevTools untuk memeriksa bug tampilan DOM, error console, dan performa kecepatan web."
+        },
+        {
+          "repo": "alibaba/open-code-review",
+          "role_en": "Hybrid Deterministic + AI Code Reviewer",
+          "role_id": "Auditor Kode Otomatis (Deterministik + AI)",
+          "why_en": "Combines static analysis pipelines with LLM agents to catch SQL injection, XSS, race conditions, and logic bugs at the line level before deploy.",
+          "why_id": "Menggabungkan analisis statis dan agen AI untuk menangkap celah SQLi, XSS, dan bug logika baris demi baris sebelum kode di-deploy."
+        },
+        {
+          "repo": "DeusData/codebase-memory-mcp",
+          "role_en": "Persistent Code Graph & Test Selector",
+          "role_id": "Memori Graf Kode & Selektor Tes Otomatis",
+          "why_en": "Connects code, docs, and infra in a persistent local graph over MCP with change-aware test selection for rapid solo shipping.",
+          "why_id": "Menghubungkan kode, dokumen, dan infrastruktur ke dalam graf lokal via MCP lengkap dengan pemilihan unit test otomatis saat ada perubahan."
+        },
+        {
+          "repo": "payloadcms/payload",
+          "role_en": "Next.js-Native Headless CMS & App Framework",
+          "role_id": "Headless CMS & Admin Panel Native Next.js",
+          "why_en": "Full-stack TypeScript headless CMS and admin panel that installs directly inside your Next.js app folder with zero external server overhead.",
+          "why_id": "Headless CMS dan admin panel berbasis TypeScript yang langsung menyatu di dalam folder aplikasi Next.js milikmu."
+        },
+        {
+          "repo": "directus/directus",
+          "role_en": "Instant SQL-to-API & Admin Studio",
+          "role_id": "Generator REST/GraphQL API & Admin UI dari SQL",
+          "why_en": "Wraps any SQL database with instant REST/GraphQL APIs, granular auth, file storage, and a no-code admin dashboard for clients.",
+          "why_id": "Mengubah database SQL apa pun menjadi REST/GraphQL API instan lengkap dengan autentikasi dan dashboard admin siap pakai."
+        },
+        {
+          "repo": "CopilotKit/CopilotKit",
+          "role_en": "In-App AI Copilot & Generative UI Stack",
+          "role_id": "Framework Copilot AI & Generative UI di Aplikasi",
+          "why_en": "The standard frontend framework and AG-UI protocol to embed interactive AI copilots and Generative UI directly inside your SaaS product.",
+          "why_id": "Framework frontend utama (pembuat protokol AG-UI) untuk menyematkan fitur asisten AI interaktif di dalam produk SaaS buatanmu."
+        },
+        {
+          "repo": "medusajs/medusa",
+          "role_en": "Open-Source Composable Shopify",
+          "role_id": "Platform E-Commerce Headless (Pengganti Shopify)",
+          "why_en": "Flexible TypeScript commerce platform for building custom digital/physical storefronts, subscriptions, and multi-region marketplaces without Shopify fees.",
+          "why_id": "Platform e-commerce berbasis TypeScript yang sangat fleksibel untuk membangun toko digital, fisik, maupun marketplace tanpa potongan biaya bulanan Shopify."
+        },
+        {
+          "repo": "better-auth/better-auth",
+          "role_en": "Modern TypeScript Auth Framework",
+          "role_id": "Framework Autentikasi TypeScript Terlengkap",
+          "why_en": "The most comprehensive TypeScript auth library with built-in plugins for multi-tenancy/organizations, 2FA, passkeys, and Stripe/Polar billing.",
+          "why_id": "Library autentikasi TypeScript paling lengkap dengan plugin bawaan untuk multi-tenant/organisasi, 2FA, passkey, dan integrasi pembayaran."
+        },
+        {
+          "repo": "google-labs-code/design.md",
+          "role_en": "Agent Design System Specification",
+          "role_id": "Standar Spesifikasi Desain (DESIGN.md) untuk Agen",
+          "why_en": "Google Labs' DESIGN.md standard that gives coding agents a persistent, structured blueprint of your brand's typography, colors, and layout rules.",
+          "why_id": "Spesifikasi standar dari Google Labs agar agen coding selalu patuh pada identitas warna, tipografi, dan aturan desain produkmu."
+        },
+        {
+          "repo": "onlook-dev/onlook",
+          "role_en": "Visual React/Tailwind Code Editor",
+          "role_id": "'Cursor untuk Desainer' (Edit Visual Langsung ke Kode)",
+          "why_en": "Visually inspect, drag, and style your live React and Tailwind CSS app in a Figma-like canvas that writes clean diffs straight back to your code.",
+          "why_id": "Edit tampilan aplikasi React dan Tailwind CSS secara visual layaknya di Figma, dan perubahannya langsung tertulis kembali ke source code."
+        },
+        {
+          "repo": "dyad-sh/dyad",
+          "role_en": "Local Open-Source Lovable / v0 / Bolt",
+          "role_id": "Alternatif Lokal & Gratis Lovable / v0 / Bolt",
+          "why_en": "Local-first, open-source AI app builder for power users to prompt, preview, and ship full-stack apps without paying $20–$50/mo platform credits.",
+          "why_id": "Pembuat aplikasi AI full-stack yang berjalan lokal di komputermu sebagai pengganti gratis Lovable, v0, dan Bolt.new."
+        },
+        {
+          "repo": "fuma-nama/fumadocs",
+          "role_en": "Next.js Product Documentation Engine",
+          "role_id": "Framework Dokumentasi Produk (Pengganti Mintlify)",
+          "why_en": "Beautiful, blazing-fast React/Next.js documentation framework with OpenAPI playground and AI search—replaces $150/mo Mintlify subscriptions.",
+          "why_id": "Framework dokumentasi produk dan API berbasis Next.js yang sangat elegan dan cepat—menggantikan langganan Mintlify yang mahal."
+        },
+        {
+          "repo": "trailbaseio/trailbase",
+          "role_en": "1-Binary Rust/SQLite Backend + MCP",
+          "role_id": "Backend 1-File Binary Rust + SQLite (Pengganti PocketBase)",
+          "why_en": "Active replacement for archived PocketBase: sub-millisecond single-executable Rust + SQLite + Wasmtime backend with type-safe APIs, Auth, Admin UI, and native MCP.",
+          "why_id": "Pengganti aktif PocketBase (yang telah diarsipkan): backend 1-file binary berbasis Rust + SQLite dengan performa sub-milidetik, Auth, Admin UI, dan dukungan MCP bawaan."
         }
       ]
     },
@@ -433,6 +720,76 @@
           "role_id": "Infrastruktur Memori untuk Produk AI",
           "why_en": "Drop-in memory infrastructure so your customer-facing AI agents remember user preferences and history.",
           "why_id": "Infrastruktur memori siap pakai agar aplikasi atau agen AI buatanmu bisa mengingat preferensi setiap pengguna."
+        },
+        {
+          "repo": "ollama/ollama",
+          "role_en": "Local LLM Runtime Engine",
+          "role_id": "Mesin Eksekusi Model LLM Lokal ($0 API)",
+          "why_en": "Run DeepSeek, Qwen, GLM, Kimi, and Gemma locally on your laptop or server with one command at $0 per token.",
+          "why_id": "Jalankan model AI mutakhir (DeepSeek, Qwen, GLM, Kimi, Gemma) secara lokal di laptop atau server sendiri dengan biaya token $0."
+        },
+        {
+          "repo": "Alishahryar1/free-claude-code",
+          "role_en": "Multi-Harness Free Token Hub",
+          "role_id": "Akses Token Gratis Lintas Coding Harness",
+          "why_en": "Connects Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode to 1.3B+ free tokens across terminal, IDE, browser, and mobile.",
+          "why_id": "Menghubungkan Claude Code, Codex, Antigravity, Pi, dan OpenCode ke penyedia token gratis lintas terminal, IDE, maupun browser."
+        },
+        {
+          "repo": "upstash/context7",
+          "role_en": "Up-to-Date Docs MCP (Anti-Hallucination)",
+          "role_id": "MCP Dokumentasi Terkini (Cegah Halusinasi Kode)",
+          "why_en": "Injects real-time, version-specific documentation directly into your coding agent so you never waste tokens debugging hallucinated or deprecated APIs.",
+          "why_id": "Menyuntikkan dokumentasi library versi terbaru ke agen coding sehingga tidak membuang ribuan token akibat salah pakai API lama."
+        },
+        {
+          "repo": "tashfeenahmed/freellmapi",
+          "role_en": "34-Provider Free LLM Aggregator",
+          "role_id": "Agregator 34 Provider & 635 Endpoint LLM Gratis",
+          "why_en": "Unifies 34 free LLM providers and 635 free model endpoints behind one OpenAI-compatible /v1 endpoint with smart routing and auto-failover.",
+          "why_id": "Menyatukan 34 penyedia LLM gratis (635 endpoint model) di balik satu endpoint /v1 dengan fitur rotasi pintar dan auto-failover."
+        },
+        {
+          "repo": "volcengine/OpenViking",
+          "role_en": "Self-Evolving Context & Memory DB",
+          "role_id": "Database Konteks, Memori & RAG Agen Mandiri",
+          "why_en": "Self-evolving context database for AI agents that unifies long-term agent memory, knowledge RAG, and reusable skills.",
+          "why_id": "Database konteks yang terus berkembang untuk menyatukan memori jangka panjang agen, dokumen RAG, dan koleksi skill."
+        },
+        {
+          "repo": "NandhaKishorM/laya",
+          "role_en": "0-Output-Token System-1 Decision Engine",
+          "role_id": "Mesin Keputusan Cepat Tanpa Biaya Token Output",
+          "why_en": "Non-autoregressive System-1 model that returns calibrated yes/no, choice, and scoring decisions in a single ~10ms forward pass with zero output token decoding.",
+          "why_id": "Mesin keputusan 'System 1' yang menghasilkan klasifikasi, skor, dan keputusan ya/tidak dalam 1 kali forward pass (~10ms) tanpa biaya token output."
+        },
+        {
+          "repo": "lbjlaq/Antigravity-Manager",
+          "role_en": "1-Click Antigravity Account Switcher",
+          "role_id": "Manajer & Pengganti Akun Antigravity 1-Klik",
+          "why_en": "Fast Rust + Tauri desktop utility for seamless one-click account management and quota switching across Antigravity tools.",
+          "why_id": "Aplikasi desktop ringan berbasis Rust & Tauri untuk berpindah akun dan memantau kuota Antigravity hanya dalam satu klik."
+        },
+        {
+          "repo": "rohitg00/agentmemory",
+          "role_en": "Benchmark-#1 Coding Agent Memory",
+          "role_id": "Memori Persisten Agen Coding Berperforma Tinggi",
+          "why_en": "High-accuracy persistent memory engine for AI coding agents so architectural decisions and bug fixes are never forgotten across sessions.",
+          "why_id": "Mesin memori persisten untuk agen coding agar keputusan arsitektur dan histori perbaikan bug selalu diingat di sesi berikutnya."
+        },
+        {
+          "repo": "yetone/magpie",
+          "role_en": "Menu-Bar Agent Model Switcher",
+          "role_id": "Pengatur Model Agen dari Menu Bar",
+          "why_en": "Lets you pair any coding agent with any model from your menu bar—run Codex on DeepSeek or Claude Code on Kimi/Gemini effortlessly.",
+          "why_id": "Memudahkan pengaturan model lintas agen langsung dari menu bar—misalnya menjalankan Codex dengan DeepSeek atau Claude Code dengan Kimi."
+        },
+        {
+          "repo": "weave-os/router",
+          "role_en": "Sub-50ms Cost-Saving Prompt Router",
+          "role_id": "Router Prompt Pintar (Pangkas Biaya 40–70%)",
+          "why_en": "Evaluates and routes every agent prompt to the most cost-effective capable model in under 50ms, slashing API bills by 40–70%.",
+          "why_id": "Mengarahkan setiap prompt ke model yang paling pas dan hemat biaya dalam waktu <50ms, memangkas tagihan API sebesar 40–70%."
         }
       ]
     },
@@ -533,6 +890,97 @@
           "role_id": "Pembuat Pitch Deck PowerPoint AI",
           "why_en": "Turns documents or topics into real, native PowerPoint decks with editable shapes, charts, and transitions.",
           "why_id": "Mengubah dokumen atau topik menjadi file presentasi PowerPoint asli lengkap dengan grafik, shape, dan animasi."
+        },
+        {
+          "repo": "yt-dlp/yt-dlp",
+          "role_en": "Universal Media Ingestion CLI",
+          "role_id": "CLI Pengunduh Video/Audio Lintas Platform",
+          "why_en": "The backbone CLI for downloading reference videos, podcasts, and competitor reels from 1,000+ sites into your local AI clipping/repurposing pipelines.",
+          "why_id": "Alat wajib di balik layar untuk mengunduh video referensi, podcast, dan konten kompetitor dari 1.000+ situs ke pipeline pengeditan AI lokal."
+        },
+        {
+          "repo": "Comfy-Org/ComfyUI",
+          "role_en": "Node-Based Local Diffusion Studio",
+          "role_id": "Studio Generasi Gambar & Video AI Lokal",
+          "why_en": "The fastest modular diffusion GUI and backend for generating product mockups, YouTube thumbnails, consistent brand characters, and local AI video.",
+          "why_id": "Mesin visual berbasis node paling kuat untuk membuat gambar produk, thumbnail YouTube, aset iklan, dan video AI secara lokal."
+        },
+        {
+          "repo": "OpenBMB/VoxCPM",
+          "role_en": "Tokenizer-Free Multilingual Voice Cloning",
+          "role_id": "TTS & Kloning Suara Multibahasa Realistis",
+          "why_en": "VoxCPM2 delivers lifelike multilingual speech generation, emotional voice design, and zero-shot voice cloning on local hardware.",
+          "why_id": "Menghasilkan narasi suara multibahasa yang sangat natural, desain karakter suara, dan kloning suara instan tanpa biaya berlangganan."
+        },
+        {
+          "repo": "storytold/artcraft",
+          "role_en": "Pure-Rust Adobe Creative Cloud Suite",
+          "role_id": "Ekosistem Pengganti Adobe Creative Cloud (Pure Rust)",
+          "why_en": "The umbrella engine behind FilmCraft (Premiere), VectorCraft (Illustrator), EffectCraft (After Effects), LightCraft (Lightroom), and WordCraft.",
+          "why_id": "Ekosistem aplikasi kreatif open-source berbasis Rust yang menggantikan Premiere (FilmCraft), Illustrator (VectorCraft), dan After Effects (EffectCraft)."
+        },
+        {
+          "repo": "Anil-matcha/Open-Generative-AI",
+          "role_en": "Self-Hosted 600-Model Media Studio",
+          "role_id": "Studio Gambar & Video AI Mandiri (600+ Model)",
+          "why_en": "Open-source, self-hosted AI image and video generation workspace supporting Flux, Kling, Sora, Veo, and Wan in one unified UI.",
+          "why_id": "Studio pembuatan gambar dan video AI mandiri yang mendukung integrasi lebih dari 600 model (Flux, Kling, Sora, Veo, Wan)."
+        },
+        {
+          "repo": "browser-use/video-use",
+          "role_en": "Agentic Video Editing Engine",
+          "role_id": "Pengeditan Video Otonom dengan Agen Coding",
+          "why_en": "Lets coding agents autonomously cut, stitch, caption, and edit product and social videos through natural-language instructions.",
+          "why_id": "Memungkinkan agen coding mengedit, memotong, dan merakit video secara otomatis menggunakan perintah teks."
+        },
+        {
+          "repo": "guillaumemeyer/watermarks-remover",
+          "role_en": "Local AI Asset Watermark Cleaner",
+          "role_id": "Pembersih Watermark Aset Visual Lokal",
+          "why_en": "Privacy-first local application that cleanly removes watermarks from visual assets and drafts that you own.",
+          "why_id": "Aplikasi lokal dengan privasi penuh untuk membersihkan watermark dari aset gambar atau draf visual milikmu sendiri."
+        },
+        {
+          "repo": "jianchang512/pyvideotrans",
+          "role_en": "Global Video Translator & Dubber",
+          "role_id": "Penerjemah & Sulih Suara (Dubbing) Video Otomatis",
+          "why_en": "Translates videos into any language with automatic speech recognition, translated subtitles, and voice-cloned audio dubbing to reach global markets.",
+          "why_id": "Menerjemahkan video promosi ke berbagai bahasa lengkap dengan subtitle dan sulih suara (dubbing) otomatis agar produkmu bisa menembus pasar global."
+        },
+        {
+          "repo": "chatfire-AI/huobao-drama",
+          "role_en": "1-Prompt Short Drama & Story Studio",
+          "role_id": "Studio Pembuat Drama Pendek & Storytelling AI",
+          "why_en": "End-to-end AI video platform that turns a single sentence or product story into a complete multi-shot short drama from script to final render.",
+          "why_id": "Platform otomatis untuk mengubah satu kalimat ide menjadi video cerita/drama pendek utuh mulai dari naskah, storyboard, hingga video akhir."
+        },
+        {
+          "repo": "Vincentwei1021/video-shotcraft",
+          "role_en": "124-Recipe Remotion Promo Skill",
+          "role_id": "Skill 124 Resep Video Promo Sinematik (Remotion)",
+          "why_en": "Claude Code & Codex skill featuring 124 shot recipe cards, beat sync, and sound design to generate cinematic product promo videos with Remotion.",
+          "why_id": "Skill khusus Claude Code & Codex berisi 124 resep shot sinematik, sinkronisasi ketukan musik, dan efek suara untuk membuat video promo produk."
+        },
+        {
+          "repo": "krillinai/OpenCreator",
+          "role_en": "All-in-One AI Creator Workspace",
+          "role_id": "Workspace Kreator Konten Sosmed All-in-One",
+          "why_en": "Unified creator workspace for video downloading, multilingual dubbing, avatar generation, and agent-assisted social media editing.",
+          "why_id": "Ruang kerja terpadu untuk kreator: unduh video, terjemahan dubbing, pembuatan avatar, dan pengeditan konten YouTube/TikTok/IG dengan agen."
+        },
+        {
+          "repo": "jub0t/Concat",
+          "role_en": "Scriptable Open-Source CapCut + MCP",
+          "role_id": "Alternatif Gratis CapCut + Dukungan API/MCP",
+          "why_en": "Free, local-first, cross-platform CapCut replacement that can be used manually or automated by AI agents via JSON-RPC API and MCP.",
+          "why_id": "Pengganti CapCut yang 100% gratis, berjalan lokal, dan bisa dikendalikan secara otomatis oleh agen AI melalui JSON-RPC API maupun MCP."
+        },
+        {
+          "repo": "presenton/presenton",
+          "role_en": "Open-Source Gamma / Canva Decks + API",
+          "role_id": "Alternatif Open-Source Gamma.app & Pitch Deck API",
+          "why_en": "Self-hosted AI presentation generator and REST API to automate sales decks, client reports, and carousel slides (Gamma/Beautiful.ai replacement).",
+          "why_id": "Generator presentasi AI mandiri lengkap dengan API untuk mengotomatiskan pembuatan sales deck dan laporan klien (pengganti Gamma.app)."
         }
       ]
     },
@@ -647,6 +1095,83 @@
           "role_id": "CRM Penjualan AI Berbasis WhatsApp",
           "why_en": "Open-source AI sales OS combining a self-hosted multi-channel CRM with native AI agents and WhatsApp automation.",
           "why_id": "Sistem operasi penjualan AI open-source yang menggabungkan CRM mandiri, integrasi WhatsApp, dan agen closing otomatis."
+        },
+        {
+          "repo": "TryGhost/Ghost",
+          "role_en": "SEO Publishing, Newsletter & Memberships",
+          "role_id": "CMS Blog SEO, Newsletter & Membership Berbayar",
+          "why_en": "The gold-standard open-source platform for SEO content marketing, email newsletters, and paid subscriber communities (Substack/Medium alternative).",
+          "why_id": "Platform open-source terbaik untuk membangun mesin konten artikel SEO, newsletter email, dan keanggotaan berbayar tanpa potongan komisi platform."
+        },
+        {
+          "repo": "novuhq/novu",
+          "role_en": "Omni-Channel Notification Infrastructure",
+          "role_id": "Infrastruktur Notifikasi Produk (Email, In-App, Push, WA)",
+          "why_en": "Open-source notification engine to orchestrate in-app inbox alerts, transactional emails, push notifications, and SMS across your product.",
+          "why_id": "Infrastruktur terpusat untuk mengatur pengiriman notifikasi di dalam aplikasi (in-app), email, push notification, dan SMS ke pengguna."
+        },
+        {
+          "repo": "dubinc/dub.link",
+          "role_en": "Link Attribution & Affiliate Engine",
+          "role_id": "Platform Shortlink & Pelacak Konversi Marketing",
+          "why_en": "Modern link attribution platform that tracks exactly which social post, campaign, or affiliate link converts into signups and paying customers.",
+          "why_id": "Platform manajemen tautan modern untuk melacak secara akurat postingan sosmed, iklan, atau afiliasi mana yang menghasilkan penjualan nyata."
+        },
+        {
+          "repo": "postalserver/postal",
+          "role_en": "Self-Hosted SendGrid / Mailgun",
+          "role_id": "Server Pengiriman Email Transaksional Mandiri",
+          "why_en": "Full-featured open-source mail delivery platform for sending high-volume transactional and marketing emails from your own infrastructure.",
+          "why_id": "Platform pengiriman email masuk & keluar mandiri sebagai pengganti SendGrid, Mailgun, atau Postmark untuk skala volume tinggi."
+        },
+        {
+          "repo": "growthbook/growthbook",
+          "role_en": "Feature Flags & A/B Testing Suite",
+          "role_id": "Platform Feature Flags & Eksperimen A/B Testing",
+          "why_en": "Run scientific A/B tests on your landing page headlines, onboarding flows, and pricing tiers to maximize conversion rates.",
+          "why_id": "Jalankan eksperimen A/B testing pada judul landing page, alur registrasi, dan tabel harga untuk melipatgandakan rasio konversi."
+        },
+        {
+          "repo": "NdoleStudio/httpsms",
+          "role_en": "Zero-Fee Android HTTP SMS Gateway",
+          "role_id": "Gateway SMS Gratis Menggunakan HP Android Sendiri",
+          "why_en": "Turns your spare Android phone into a programmatic HTTP SMS gateway—send OTPs, booking reminders, and alerts using your local SIM plan instead of Twilio.",
+          "why_id": "Mengubah HP Android menjadi SMS Gateway berbasis HTTP API—kirim OTP dan pengingat pelanggan memakai paket SMS kartu SIM lokal tanpa biaya mahal Twilio."
+        },
+        {
+          "repo": "darkzOGx/youtube-automation-agent",
+          "role_en": "Autonomous YouTube Channel Operator",
+          "role_id": "Agen AI Pengelola Kanal YouTube Otomatis Hulu-Hilir",
+          "why_en": "Self-hosted AI agent that runs a YouTube channel end-to-end: topic research, scriptwriting, voiceover, video rendering, SEO metadata, and publishing.",
+          "why_id": "Agen AI mandiri yang mengoperasikan kanal YouTube dari hulu ke hilir: riset topik, penulisan naskah, narasi, pembuatan video, optimasi SEO, hingga upload."
+        },
+        {
+          "repo": "nowork-studio/notfair-plugin",
+          "role_en": "Agentic SEO, GEO & Growth Plugin",
+          "role_id": "Plugin Skill SEO, GEO & Growth untuk Agen Coding",
+          "why_en": "Equips coding agents with actionable SEO, Generative Engine Optimization (GEO), and technical growth marketing workflows.",
+          "why_id": "Membekali agen coding dengan alur kerja otomatis untuk optimasi SEO, visibilitas di mesin pencari AI (GEO), dan growth hacking."
+        },
+        {
+          "repo": "dittofeed/dittofeed",
+          "role_en": "Behavioral Drip & Onboarding Automation",
+          "role_id": "Otomatisasi Drip Email & Onboarding (Pengganti Customer.io)",
+          "why_en": "Open-source customer engagement platform (Customer.io / Loops alternative) to trigger behavioral onboarding emails, trial nudges, and churn win-backs.",
+          "why_id": "Platform otomatisasi pesan berbasis perilaku user (pengganti Customer.io / Loops) untuk urutan email onboarding, pengingat masa trial, dan pencegahan churn."
+        },
+        {
+          "repo": "ArnasDon/wacrm",
+          "role_en": "Self-Hostable WhatsApp Pipeline CRM",
+          "role_id": "CRM Pipeline Penjualan & Broadcast WhatsApp",
+          "why_en": "Ready-to-fork WhatsApp CRM featuring a shared inbox, contact management, visual sales pipelines, mass broadcasts, and no-code automations.",
+          "why_id": "CRM WhatsApp mandiri lengkap dengan kotak masuk bersama, manajemen kontak, pipeline penjualan visual, broadcast, dan otomasi tanpa kode."
+        },
+        {
+          "repo": "Anil-matcha/open-agent-email",
+          "role_en": "Email Inbox & Approval Infra for Agents",
+          "role_id": "Infrastruktur Email Khusus Agen AI + Approval",
+          "why_en": "Gives your AI agents their own secure email inboxes over REST and MCP with human-in-the-loop approval before outbound sales/support emails are sent.",
+          "why_id": "Memberi agen AI kotak masuk email sendiri via REST & MCP lengkap dengan fitur persetujuan manusia sebelum agen mengirim email ke klien."
         }
       ]
     },
@@ -817,6 +1342,209 @@
           "role_id": "Listener Pembayaran QRIS/E-Wallet ke Webhook",
           "why_en": "Android notification listener that forwards real-time QRIS and e-wallet payment amounts directly to your webhook server with zero gateway fees.",
           "why_id": "Aplikasi Android yang membaca notifikasi pembayaran QRIS/e-wallet dan meneruskannya ke server webhook secara real-time tanpa biaya potongan gateway."
+        },
+        {
+          "repo": "infiniflow/ragflow",
+          "role_en": "Deep-Document Production RAG Engine",
+          "role_id": "Mesin RAG Produksi dengan Pemahaman Dokumen Rumit",
+          "why_en": "Leading open-source RAG engine combining deep document layout parsing with agentic workflows for accurate customer support and internal knowledge bases.",
+          "why_id": "Mesin RAG open-source terdepan untuk membangun asisten CS pintar dan basis pengetahuan akurat dari dokumen bisnis yang kompleks."
+        },
+        {
+          "repo": "opendatalab/MinerU",
+          "role_en": "Complex PDF/Office-to-Markdown Parser",
+          "role_id": "Konverter PDF/Dokumen Kompleks ke Markdown/JSON",
+          "why_en": "Transforms multi-column PDFs, tables, contracts, and Office documents into clean, LLM-ready Markdown and JSON for agentic pipelines.",
+          "why_id": "Mengubah PDF rumit, tabel keuangan, dan dokumen Office menjadi format Markdown/JSON bersih yang siap diproses oleh agen AI."
+        },
+        {
+          "repo": "AppFlowy-IO/AppFlowy",
+          "role_en": "Local-First Open-Source Notion",
+          "role_id": "Alternatif Open-Source Notion (Local-First + AI)",
+          "why_en": "Privacy-first, self-hostable AI workspace for managing company wikis, SOPs, product roadmaps, and databases without per-seat Notion fees.",
+          "why_id": "Ruang kerja kolaboratif pengganti Notion untuk menyimpan SOP perusahaan, catatan produk, dan database proyek dengan kendali data penuh."
+        },
+        {
+          "repo": "dani-garcia/vaultwarden",
+          "role_en": "Featherweight Rust Password & 2FA Vault",
+          "role_id": "Brankas Password & TOTP 2FA Mandiri (Bitwarden)",
+          "why_en": "Ultra-lightweight Rust server compatible with official Bitwarden apps—securely store all your company logins, API keys, and 2FA codes on a $5 VPS.",
+          "why_id": "Server kompatibel Bitwarden berbasis Rust yang sangat hemat RAM untuk menyimpan seluruh password bisnis, API key, dan kode 2FA secara aman."
+        },
+        {
+          "repo": "odoo/odoo",
+          "role_en": "All-in-One Open-Source ERP & POS",
+          "role_id": "Sistem ERP Bisnis Lengkap (Akuntansi, Stok, POS, Web)",
+          "why_en": "Comprehensive open-source suite covering accounting, inventory, invoicing, e-commerce, POS, and MRP for solo founders running physical or hybrid businesses.",
+          "why_id": "Suite aplikasi bisnis open-source terlengkap (akuntansi, inventaris gudang, kasir POS, e-commerce) untuk bisnis fisik maupun digital."
+        },
+        {
+          "repo": "metabase/metabase",
+          "role_en": "No-Code SQL Business Intelligence",
+          "role_id": "Dashboard BI & Visualisasi Data Bisnis Tanpa Kode",
+          "why_en": "Connects directly to your production Postgres/MySQL database so you can build live MRR, retention, and cohort dashboards in minutes.",
+          "why_id": "Terhubung langsung ke database aplikasi untuk membuat dashboard grafik omzet (MRR), retensi pelanggan, dan laporan bisnis dalam hitungan menit."
+        },
+        {
+          "repo": "paperless-ngx/paperless-ngx",
+          "role_en": "OCR Tax Receipt & Document Archive",
+          "role_id": "Arsip Dokumen, Kwitansi & Faktur Pajak ber-OCR",
+          "why_en": "Automatically scans, OCR-indexes, and organizes all your business receipts, vendor invoices, and tax documents into a searchable archive.",
+          "why_id": "Memindai dengan OCR, mengindeks, dan mengarsipkan seluruh bukti pengeluaran, invoice vendor, serta dokumen pajak secara otomatis."
+        },
+        {
+          "repo": "juspay/hyperswitch",
+          "role_en": "Composable Multi-Gateway Payment Switch",
+          "role_id": "Payment Switch Orkestrator Multi-Gateway",
+          "why_en": "Open-source payment orchestrator connecting Stripe, PayPal, Adyen, and regional gateways behind one API with smart failover and lower processing fees.",
+          "why_id": "Orkestrator pembayaran open-source yang menyatukan berbagai payment gateway di balik satu API dengan fitur auto-failover jika satu gateway gangguan."
+        },
+        {
+          "repo": "ToolJet/ToolJet",
+          "role_en": "Prompt-to-Admin-Panel Builder (Retool)",
+          "role_id": "Pembuat Dashboard Admin Internal (Pengganti Retool)",
+          "why_en": "Build internal back-office dashboards, customer refund tools, and database CRUD panels visually or via Claude Code/Cursor over MCP.",
+          "why_id": "Bangun panel admin internal untuk operasional back-office dan manajemen user secara visual atau langsung dari perintah agen coding via MCP."
+        },
+        {
+          "repo": "langfuse/langfuse",
+          "role_en": "LLM Observability, Tracing & Cost Guard",
+          "role_id": "Observabilitas, Tracing & Audit Biaya Produk AI",
+          "why_en": "Open-source LLM engineering platform to trace agent executions, version prompts, run evals, and track exact AI API costs per customer.",
+          "why_id": "Platform observabilitas untuk melacak eksekusi agen AI, mengevaluasi kualitas jawaban, dan memantau biaya token per pelanggan secara detail."
+        },
+        {
+          "repo": "binwiederhier/ntfy",
+          "role_en": "1-Line HTTP Push Notifications to Phone",
+          "role_id": "Notifikasi Push Instan ke HP via HTTP PUT/POST",
+          "why_en": "Send instant push notifications to your phone with a single curl/HTTP request whenever a user upgrades, a cron job fails, or an agent finishes work.",
+          "why_id": "Kirim notifikasi instan ke HP-mu hanya dengan satu request HTTP setiap kali ada pembayaran masuk, error server, atau tugas agen selesai."
+        },
+        {
+          "repo": "iOfficeAI/OfficeCLI",
+          "role_en": "1-Binary Word/Excel/PPT Engine for Agents",
+          "role_id": "CLI Pengolah Word, Excel & PPT Khusus Agen AI",
+          "why_en": "Single-binary Office suite purpose-built for AI agents to read, edit, and automate real .docx, .xlsx, and .pptx client deliverables without MS Office.",
+          "why_id": "Aplikasi 1-binary khusus agen AI untuk membaca, mengedit, dan membuat laporan klien berformat .docx, .xlsx, dan .pptx secara otomatis."
+        },
+        {
+          "repo": "vxcontrol/pentagi",
+          "role_en": "Multi-Agent Autonomous Pentester",
+          "role_id": "Sistem Agen AI Penetration Testing Otonom",
+          "why_en": "Fully autonomous multi-agent system capable of executing end-to-end security audits and penetration testing in isolated sandboxes.",
+          "why_id": "Sistem multi-agen otonom untuk menjalankan pengujian keamanan (pentesting) menyeluruh terhadap infrastruktur dan aplikasi."
+        },
+        {
+          "repo": "Infisical/infisical",
+          "role_en": "Secrets, API Keys & Cert Manager",
+          "role_id": "Manajer API Key, ENV Secrets & Sertifikat Terpusat",
+          "why_en": "Open-source platform to centralize, rotate, and inject environment variables and API secrets across your VPS containers, CI/CD, and AI agents.",
+          "why_id": "Platform open-source untuk mengelola, merotasi, dan mengamankan seluruh file .env serta API key lintas server dan agen AI."
+        },
+        {
+          "repo": "t8y2/dbx",
+          "role_en": "25MB AI-Native Database Client + MCP",
+          "role_id": "Klien 100+ Database Super Ringan (25MB) + MCP",
+          "why_en": "Ultra-fast 25 MB database GUI, CLI, and MCP server supporting 100+ databases (Postgres, SQLite, MySQL, Redis, DuckDB) with built-in AI assistant.",
+          "why_id": "Aplikasi manajemen 100+ jenis database (Postgres, SQLite, MySQL, Redis) berukuran hanya 25 MB yang dilengkapi asisten AI dan server MCP."
+        },
+        {
+          "repo": "henrygd/beszel",
+          "role_en": "Featherweight VPS & Docker Monitor",
+          "role_id": "Monitoring Resource VPS & Kontainer Docker Ringan",
+          "why_en": "Lightweight server monitoring hub recording historical CPU, RAM, disk, and per-container Docker metrics with instant alerts—ideal for a $5 VPS.",
+          "why_id": "Alat monitoring server super ringan untuk memantau pemakaian CPU, RAM, disk, dan tiap kontainer Docker di VPS $5 lengkap dengan histori grafik."
+        },
+        {
+          "repo": "activepieces/activepieces",
+          "role_en": "MIT-Licensed Zapier + 400 MCP Servers",
+          "role_id": "Otomasi Workflow Berlisensi MIT + 400 Server MCP",
+          "why_en": "Clean, MIT-licensed open-source alternative to Zapier where every integration piece is also available as an MCP tool for your AI agents.",
+          "why_id": "Alternatif Zapier berlisensi MIT yang sangat ramah pengguna, di mana ratusan konektor aplikasinya langsung bisa dipakai sebagai MCP oleh agen AI."
+        },
+        {
+          "repo": "NVIDIA/SkillSpector",
+          "role_en": "AI Agent Skill Security Scanner",
+          "role_id": "Pemindai Keamanan Skill Agen & MCP (NVIDIA)",
+          "why_en": "NVIDIA's security scanner that audits third-party Claude Code, Codex, and MCP skills for prompt injection, backdoors, and data exfiltration before install.",
+          "why_id": "Alat resmi dari NVIDIA untuk memindai skill agen pihak ketiga dari bahaya pencurian data (exfiltration), backdoor, dan prompt injection sebelum dipasang."
+        },
+        {
+          "repo": "teableio/teable",
+          "role_en": "Million-Row AI Spreadsheet on Postgres",
+          "role_id": "Spreadsheet AI Berbasis Postgres (Pengganti Airtable)",
+          "why_en": "Next-generation Airtable alternative built directly on PostgreSQL—handles millions of rows at spreadsheet speed with native AI fields and APIs.",
+          "why_id": "Alternatif Airtable generasi baru di atas PostgreSQL yang sanggup menangani jutaan baris data tanpa lemot lengkap dengan kolom AI."
+        },
+        {
+          "repo": "windmill-labs/windmill",
+          "role_en": "Fastest Code-First Workflow & UI Engine",
+          "role_id": "Engine Orkestrasi Script (Python/TS/Go) & Internal UI",
+          "why_en": "Turns bare Python, TypeScript, Go, or Bash scripts into production webhooks, cron workflows, and internal UIs on a blazing-fast self-hosted worker.",
+          "why_id": "Mengubah script Python, TypeScript, Go, atau Bash biasa menjadi workflow terjadwal, webhook, dan aplikasi internal dengan sangat cepat."
+        },
+        {
+          "repo": "triggerdotdev/trigger.dev",
+          "role_en": "Durable Long-Running AI Background Jobs",
+          "role_id": "Infrastruktur Background Job AI Tanpa Timeout",
+          "why_en": "Build and deploy durable background jobs and long-running AI agent workflows with automatic retries, queues, and zero serverless timeouts.",
+          "why_id": "Menjalankan proses background job dan eksekusi agen AI berdurasi panjang secara andal tanpa terkena batas waktu (timeout) serverless."
+        },
+        {
+          "repo": "maillab/cloud-mail",
+          "role_en": "$0 Custom-Domain Business Email (CF)",
+          "role_id": "Email Bisnis Domain Kustom Gratis via Cloudflare",
+          "why_en": "All-in-one custom-domain email inbox and sending platform powered by Cloudflare Workers and D1—replaces $6/user/mo Google Workspace email.",
+          "why_id": "Platform email bisnis dengan domain sendiri yang berjalan 100% gratis di atas Cloudflare Workers—menghemat biaya langganan Google Workspace."
+        },
+        {
+          "repo": "getlago/lago",
+          "role_en": "Usage-Based & AI Credit Billing Engine",
+          "role_id": "Mesin Billing Berbasis Pemakaian (Kredit/Token AI)",
+          "why_en": "Open-source metering and usage-based billing API—essential for AI SaaS products that charge customers by tokens, credits, seats, or API calls.",
+          "why_id": "Sistem billing open-source untuk menghitung tagihan berbasis pemakaian (usage-based/sistem kredit token)—sangat krusial untuk bisnis AI SaaS."
+        },
+        {
+          "repo": "akaunting/akaunting",
+          "role_en": "Self-Hosted Business Bookkeeping",
+          "role_id": "Software Akuntansi & Pembukuan Bisnis Mandiri",
+          "why_en": "Open-source online accounting software (Wave / Xero / QuickBooks alternative) to track solo business cashflow, expenses, tax, and profit/loss.",
+          "why_id": "Aplikasi akuntansi dan pembukuan open-source (pengganti Xero/QuickBooks/Jurnal) untuk mencatat arus kas, pengeluaran, dan laporan laba-rugi."
+        },
+        {
+          "repo": "openstatusHQ/openstatus",
+          "role_en": "Global Synthetic Monitoring & Status Page",
+          "role_id": "Monitoring Latensi API & Halaman Status Modern",
+          "why_en": "Open-source status page and incident response platform that monitors API latency and uptime across regions.",
+          "why_id": "Platform halaman status publik, manajemen insiden, dan pemantau kecepatan respon API lintas negara."
+        },
+        {
+          "repo": "solidtime-io/solidtime",
+          "role_en": "Modern Agency & Freelance Time Tracker",
+          "role_id": "Pelacak Waktu Kerja & Tagihan Jam Klien (Toggl)",
+          "why_en": "Sleek open-source time-tracking app (Toggl / Harvest alternative) for solo agencies and consultants to track billable hours by project and client.",
+          "why_id": "Aplikasi pencatat jam kerja proyek (pengganti Toggl/Harvest) untuk konsultan dan solo agency yang menagih klien berdasarkan jam kerja."
+        },
+        {
+          "repo": "ellite/Wallos",
+          "role_en": "Recurring SaaS & Domain Expense Tracker",
+          "role_id": "Pelacak Tagihan Langganan SaaS & Perpanjangan Domain",
+          "why_en": "Self-hosted subscription tracker that alerts you before recurring SaaS tools, APIs, or domains auto-renew so your solo company never bleeds cash.",
+          "why_id": "Aplikasi pelacak langganan bulanan/tahunan yang mengingatkanmu sebelum tagihan SaaS, server, atau domain diperpanjang otomatis."
+        },
+        {
+          "repo": "freescout-help-desk/freescout",
+          "role_en": "Ultra-Light Shared Inbox & Helpdesk",
+          "role_id": "Helpdesk & Kotak Masuk Email CS Super Ringan",
+          "why_en": "Featherweight PHP/MySQL alternative to Help Scout and Zendesk that runs on almost zero RAM for managing customer support emails.",
+          "why_id": "Alternatif Help Scout dan Zendesk yang sangat ringan dan hemat RAM untuk mengelola tiket email dukungan pelanggan di VPS murah."
+        },
+        {
+          "repo": "keygen-sh/keygen-api",
+          "role_en": "Software License Key & Distribution API",
+          "role_id": "API Lisensi Software & Distribusi Aplikasi Desktop/CLI",
+          "why_en": "Open-source software licensing and distribution API for selling license keys, node-locked activations, and updates for desktop or CLI products.",
+          "why_id": "API manajemen lisensi software open-source untuk memvalidasi serial key dan pembaruan jika kamu menjual aplikasi desktop, plugin, atau CLI."
         }
       ]
     }

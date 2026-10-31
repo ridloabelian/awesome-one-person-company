@@ -1,8 +1,8 @@
 {
   "verified_at": "2026-10-31",
   "cutoff_date": "2026-10-01",
-  "total_audited": 108,
-  "total_active": 104,
+  "total_audited": 212,
+  "total_active": 208,
   "total_eliminated": 4,
   "categories": [
     {
@@ -20,7 +20,7 @@
           "why_id": "Mengubah website apa pun menjadi Markdown bersih dan data terstruktur yang siap diolah LLM untuk analisis kompetitor.",
           "nameWithOwner": "firecrawl/firecrawl",
           "url": "https://github.com/firecrawl/firecrawl",
-          "stargazerCount": 197251,
+          "stargazerCount": 197263,
           "pushedAt": "2026-10-31T10:13:52Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -33,6 +33,26 @@
           "category_en": "1. Upstream: Market Intelligence, Trend Discovery & Stealth Scraping"
         },
         {
+          "repo": "browser-use/browser-use",
+          "role_en": "AI Browser Agent Framework",
+          "role_id": "Framework Agen Browser Otonom",
+          "why_en": "The flagship open-source Python library and stealth browser framework that lets AI agents navigate, click, and extract data from any website.",
+          "why_id": "Library Python open-source utama yang memungkinkan agen AI menavigasi, mengklik, dan mengekstrak data dari website mana pun.",
+          "nameWithOwner": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "stargazerCount": 119636,
+          "pushedAt": "2026-10-31T01:18:25Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
+          "category_en": "1. Upstream: Market Intelligence, Trend Discovery & Stealth Scraping"
+        },
+        {
           "repo": "Panniantong/Agent-Reach",
           "role_en": "Multi-Platform Agent Eyes",
           "role_id": "Mata AI Lintas Platform",
@@ -40,7 +60,7 @@
           "why_id": "Memberi 'mata' ke AI agent untuk membaca & mencari langsung di X/Twitter, Reddit, YouTube, dan GitHub tanpa biaya API mahal.",
           "nameWithOwner": "Panniantong/Agent-Reach",
           "url": "https://github.com/Panniantong/Agent-Reach",
-          "stargazerCount": 107040,
+          "stargazerCount": 107072,
           "pushedAt": "2026-10-25T04:37:26Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -60,7 +80,7 @@
           "why_id": "Framework web scraping berkinerja tinggi dengan MCP server bawaan, dari satu request hingga crawl skala penuh.",
           "nameWithOwner": "D4Vinci/Scrapling",
           "url": "https://github.com/D4Vinci/Scrapling",
-          "stargazerCount": 90552,
+          "stargazerCount": 90577,
           "pushedAt": "2026-10-29T14:00:57Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -73,6 +93,26 @@
           "category_en": "1. Upstream: Market Intelligence, Trend Discovery & Stealth Scraping"
         },
         {
+          "repo": "koala73/worldmonitor",
+          "role_en": "Real-Time Global & Macro Intel",
+          "role_id": "Dashboard Intelijen Pasar & Berita Global",
+          "why_en": "AI-powered situational awareness dashboard aggregating global news, market shifts, and infrastructure signals in real time.",
+          "why_id": "Dashboard pemantau berita global, pergerakan pasar, dan tren makro secara real-time berbasis kurasi AI.",
+          "nameWithOwner": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "stargazerCount": 89834,
+          "pushedAt": "2026-10-31T10:06:00Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "AGPL-3.0"
+          },
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+          "category_en": "1. Upstream: Market Intelligence, Trend Discovery & Stealth Scraping"
+        },
+        {
           "repo": "unclecode/crawl4ai",
           "role_en": "LLM-Ready Web Crawler",
           "role_id": "Web Crawler Khusus AI/RAG",
@@ -80,7 +120,7 @@
           "why_id": "Web crawler & scraper open-source super cepat yang dirancang khusus untuk pipeline AI dan ekstraksi data terstruktur.",
           "nameWithOwner": "unclecode/crawl4ai",
           "url": "https://github.com/unclecode/crawl4ai",
-          "stargazerCount": 86632,
+          "stargazerCount": 86635,
           "pushedAt": "2026-10-30T15:02:02Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -93,6 +133,26 @@
           "category_en": "1. Upstream: Market Intelligence, Trend Discovery & Stealth Scraping"
         },
         {
+          "repo": "NanmiCoder/MediaCrawler",
+          "role_en": "Social Video & Comment Crawler",
+          "role_id": "Scraper Konten & Komentar Sosmed Viral",
+          "why_en": "Crawls posts, videos, and user comments across TikTok/Douyin, Xiaohongshu, Bilibili, and Weibo to mine viral hooks and customer pain points.",
+          "why_id": "Mengekstrak postingan, video, dan ribuan komentar pengguna di TikTok/Douyin, Xiaohongshu, dan Bilibili untuk mencari pain point pasar.",
+          "nameWithOwner": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "stargazerCount": 69081,
+          "pushedAt": "2026-10-27T00:36:40Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "licenseInfo": {
+            "spdxId": "NOASSERTION"
+          },
+          "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫",
+          "category_en": "1. Upstream: Market Intelligence, Trend Discovery & Stealth Scraping"
+        },
+        {
           "repo": "mvanhorn/last30days-skill",
           "role_en": "30-Day Trend Synthesizer",
           "role_id": "Riset Tren 30 Hari Terakhir",
@@ -100,7 +160,7 @@
           "why_id": "Skill agen untuk meriset topik/tren 30 hari terakhir lintas Reddit, X, YouTube, HN, dan Polymarket guna menemukan pain point pasar.",
           "nameWithOwner": "mvanhorn/last30days-skill",
           "url": "https://github.com/mvanhorn/last30days-skill",
-          "stargazerCount": 66066,
+          "stargazerCount": 66073,
           "pushedAt": "2026-10-28T16:30:58Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -120,8 +180,8 @@
           "why_id": "Mengubah hampir semua platform (sosmed, changelog kompetitor, forum, e-commerce) menjadi RSS feed yang bisa dipantau otomatis.",
           "nameWithOwner": "DIYgod/RSSHub",
           "url": "https://github.com/DIYgod/RSSHub",
-          "stargazerCount": 46738,
-          "pushedAt": "2026-10-31T05:22:16Z",
+          "stargazerCount": 46739,
+          "pushedAt": "2026-10-31T12:31:54Z",
           "isArchived": false,
           "primaryLanguage": {
             "name": "TypeScript"
@@ -133,6 +193,26 @@
           "category_en": "1. Upstream: Market Intelligence, Trend Discovery & Stealth Scraping"
         },
         {
+          "repo": "lightpanda-io/browser",
+          "role_en": "Ultra-Low-RAM Headless Browser",
+          "role_id": "Headless Browser Super Hemat RAM",
+          "why_en": "Headless browser written in Zig/C specifically for AI agents and automation—consumes 10x less memory than Chromium on a $5 VPS.",
+          "why_id": "Headless browser khusus agen AI yang 10x lebih hemat RAM dibanding Chrome—sangat ideal dijalankan di VPS $5.",
+          "nameWithOwner": "lightpanda-io/browser",
+          "url": "https://github.com/lightpanda-io/browser",
+          "stargazerCount": 38808,
+          "pushedAt": "2026-10-31T12:45:01Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Zig"
+          },
+          "licenseInfo": {
+            "spdxId": "AGPL-3.0"
+          },
+          "description": "Lightpanda: the headless browser designed for AI and automation",
+          "category_en": "1. Upstream: Market Intelligence, Trend Discovery & Stealth Scraping"
+        },
+        {
           "repo": "dgtlmoon/changedetection.io",
           "role_en": "Competitor Change Monitor",
           "role_id": "Pemantau Perubahan Web Kompetitor",
@@ -140,7 +220,7 @@
           "why_id": "Memantau perubahan harga kompetitor, copywriting landing page, atau restock secara real-time dengan notifikasi instan.",
           "nameWithOwner": "dgtlmoon/changedetection.io",
           "url": "https://github.com/dgtlmoon/changedetection.io",
-          "stargazerCount": 35415,
+          "stargazerCount": 35416,
           "pushedAt": "2026-10-31T01:28:18Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -160,7 +240,7 @@
           "why_id": "Browser Chromium stealth yang lolos uji deteksi bot (Cloudflare, DataDome) sebagai pengganti langsung Playwright.",
           "nameWithOwner": "CloakHQ/CloakBrowser",
           "url": "https://github.com/CloakHQ/CloakBrowser",
-          "stargazerCount": 32646,
+          "stargazerCount": 32649,
           "pushedAt": "2026-10-31T09:35:32Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -180,7 +260,7 @@
           "why_id": "Agen otonom untuk melakukan riset pasar dan industri mendalam lengkap dengan sitasi secara otomatis.",
           "nameWithOwner": "assafelovic/gpt-researcher",
           "url": "https://github.com/assafelovic/gpt-researcher",
-          "stargazerCount": 30397,
+          "stargazerCount": 30399,
           "pushedAt": "2026-10-10T22:03:53Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -193,6 +273,86 @@
           "category_en": "1. Upstream: Market Intelligence, Trend Discovery & Stealth Scraping"
         },
         {
+          "repo": "h4ckf0r0day/obscura",
+          "role_en": "Stealth Agent Headless Browser",
+          "role_id": "Headless Browser Stealth untuk Agen",
+          "why_en": "Headless stealth browser purpose-built for AI agents and anti-bot web scraping at scale.",
+          "why_id": "Browser tanpa antarmuka (headless) dengan fitur anti-deteksi bawaan yang dirancang khusus untuk scraping agen AI.",
+          "nameWithOwner": "h4ckf0r0day/obscura",
+          "url": "https://github.com/h4ckf0r0day/obscura",
+          "stargazerCount": 29855,
+          "pushedAt": "2026-10-31T05:14:42Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Rust"
+          },
+          "licenseInfo": {
+            "spdxId": "Apache-2.0"
+          },
+          "description": "The headless browser for AI agents and web scraping",
+          "category_en": "1. Upstream: Market Intelligence, Trend Discovery & Stealth Scraping"
+        },
+        {
+          "repo": "browserbase/stagehand",
+          "role_en": "AI Web Automation SDK",
+          "role_id": "SDK Otomatisasi Web Berbasis AI",
+          "why_en": "Combines deterministic Playwright code with natural-language act(), extract(), and observe() primitives for resilient web scraping.",
+          "why_id": "Memadukan kode Playwright deterministik dengan instruksi bahasa alami (act, extract, observe) agar scraper tidak mudah rusak.",
+          "nameWithOwner": "browserbase/stagehand",
+          "url": "https://github.com/browserbase/stagehand",
+          "stargazerCount": 25886,
+          "pushedAt": "2026-10-30T23:33:45Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.",
+          "category_en": "1. Upstream: Market Intelligence, Trend Discovery & Stealth Scraping"
+        },
+        {
+          "repo": "Skyvern-AI/skyvern",
+          "role_en": "Vision-LLM Browser Workflow Agent",
+          "role_id": "Otomatisasi Browser Berbasis Vision-LLM",
+          "why_en": "Automates complex browser workflows (form filling, invoice downloading, portal scraping) using Computer Vision and LLMs without brittle XPaths.",
+          "why_id": "Mengotomatiskan alur kerja web rumit (isi formulir, unduh invoice, ekstraksi portal) menggunakan Vision-LLM tanpa bergantung pada selector CSS.",
+          "nameWithOwner": "Skyvern-AI/skyvern",
+          "url": "https://github.com/Skyvern-AI/skyvern",
+          "stargazerCount": 23318,
+          "pushedAt": "2026-10-31T11:01:03Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "licenseInfo": {
+            "spdxId": "AGPL-3.0"
+          },
+          "description": "Automate browser based workflows with AI",
+          "category_en": "1. Upstream: Market Intelligence, Trend Discovery & Stealth Scraping"
+        },
+        {
+          "repo": "citrolabs/ego-lite",
+          "role_en": "Logged-In Browser Bridge for Agents",
+          "role_id": "Jembatan Sesi Browser Login ke Agen AI",
+          "why_en": "Lets coding agents (Claude Code, Codex) safely use your already logged-in Chrome sessions for automation at zero cost and zero config.",
+          "why_id": "Memungkinkan agen coding menggunakan sesi Chrome milikmu yang sudah login tanpa mengganggu pekerjaanmu dan tanpa biaya.",
+          "nameWithOwner": "citrolabs/ego-lite",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "stargazerCount": 20946,
+          "pushedAt": "2026-10-31T04:22:13Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "JavaScript"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+          "category_en": "1. Upstream: Market Intelligence, Trend Discovery & Stealth Scraping"
+        },
+        {
           "repo": "daijro/camoufox",
           "role_en": "Anti-Detect Firefox",
           "role_id": "Browser Firefox Anti-Deteksi",
@@ -200,7 +360,7 @@
           "why_id": "Browser anti-deteksi berbasis Firefox dengan rotasi fingerprint untuk otomatisasi web dan scraping tanpa blokir.",
           "nameWithOwner": "daijro/camoufox",
           "url": "https://github.com/daijro/camoufox",
-          "stargazerCount": 12931,
+          "stargazerCount": 12935,
           "pushedAt": "2026-10-31T06:20:35Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -210,6 +370,26 @@
             "spdxId": "MPL-2.0"
           },
           "description": "🦊 Anti-detect browser",
+          "category_en": "1. Upstream: Market Intelligence, Trend Discovery & Stealth Scraping"
+        },
+        {
+          "repo": "kaifcodec/user-scanner",
+          "role_en": "Email & Username OSINT MCP",
+          "role_id": "OSINT Email & Username + MCP Server",
+          "why_en": "2-in-1 email and username OSINT suite with native MCP support scanning 2,700+ vectors for B2B lead enrichment and prospect verification.",
+          "why_id": "Alat OSINT email dan username dengan dukungan MCP server (2.700+ vektor) untuk memperkaya data prospek B2B dan verifikasi klien.",
+          "nameWithOwner": "kaifcodec/user-scanner",
+          "url": "https://github.com/kaifcodec/user-scanner",
+          "stargazerCount": 5529,
+          "pushedAt": "2026-10-31T12:19:44Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite featuring native MCP support for deep data extraction just from a single Email/Username. Analyzes 2720+ actively maintained scan vectors (210+ email / 2510+ username) for security research, investigations, and digital footprinting.",
           "category_en": "1. Upstream: Market Intelligence, Trend Discovery & Stealth Scraping"
         },
         {
@@ -240,7 +420,7 @@
           "why_id": "Mengekstrak 50+ titik data (email bisnis, nomor telepon/WA, sosmed, review) dari Google Maps untuk prospek B2B.",
           "nameWithOwner": "omkarcloud/google-maps-scraper",
           "url": "https://github.com/omkarcloud/google-maps-scraper",
-          "stargazerCount": 3849,
+          "stargazerCount": 3850,
           "pushedAt": "2026-10-19T11:09:02Z",
           "isArchived": false,
           "primaryLanguage": null,
@@ -269,6 +449,26 @@
           },
           "description": "Playwright that anti-bots cannot see, so no captchas: same API, anti-detect stealth headless Firefox, undetected fingerprint, bypass bot detection, Python web scraping and browser automation.",
           "category_en": "1. Upstream: Market Intelligence, Trend Discovery & Stealth Scraping"
+        },
+        {
+          "repo": "proxy-intell/facebook-ads-library-mcp",
+          "role_en": "Meta Ad Library Spy MCP",
+          "role_id": "MCP Pengintip Iklan Kompetitor (Meta Ads)",
+          "why_en": "MCP server that queries the Facebook/Meta Ad Library so your AI agent can analyze competitor ad creatives, copy, and funnels.",
+          "why_id": "Server MCP untuk membedah iklan kompetitor yang sedang aktif di Facebook/Instagram Ad Library langsung dari Claude atau Cursor.",
+          "nameWithOwner": "proxy-intell/facebook-ads-library-mcp",
+          "url": "https://github.com/proxy-intell/facebook-ads-library-mcp",
+          "stargazerCount": 320,
+          "pushedAt": "2026-10-24T22:40:24Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "MCP Server for Facebook ADs Library - Get instant answers from FB's ad library",
+          "category_en": "1. Upstream: Market Intelligence, Trend Discovery & Stealth Scraping"
         }
       ]
     },
@@ -287,8 +487,8 @@
           "why_id": "Agen AI personal otonom terbesar yang mengeksekusi tugas nyata lintas sistem operasi dan platform.",
           "nameWithOwner": "openclaw/openclaw",
           "url": "https://github.com/openclaw/openclaw",
-          "stargazerCount": 393519,
-          "pushedAt": "2026-10-31T11:11:03Z",
+          "stargazerCount": 393526,
+          "pushedAt": "2026-10-31T12:46:52Z",
           "isArchived": false,
           "primaryLanguage": {
             "name": "TypeScript"
@@ -307,7 +507,7 @@
           "why_id": "Kerangka kerja SDLC dan sistem skills berbasis subagent agar proses pembuatan software oleh agen terstruktur dan minim bug.",
           "nameWithOwner": "obra/superpowers",
           "url": "https://github.com/obra/superpowers",
-          "stargazerCount": 309691,
+          "stargazerCount": 309728,
           "pushedAt": "2026-10-29T23:35:34Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -327,7 +527,7 @@
           "why_id": "Kumpulan skill agen untuk rekayasa perangkat lunak nyata: perencanaan arsitektur, TDD, dan review kode ketat.",
           "nameWithOwner": "mattpocock/skills",
           "url": "https://github.com/mattpocock/skills",
-          "stargazerCount": 307825,
+          "stargazerCount": 307900,
           "pushedAt": "2026-10-30T14:00:30Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -347,7 +547,7 @@
           "why_id": "Sistem optimasi performa agent harness yang menambahkan insting, memori, keamanan, dan alur riset sebelum coding.",
           "nameWithOwner": "affaan-m/ECC",
           "url": "https://github.com/affaan-m/ECC",
-          "stargazerCount": 293659,
+          "stargazerCount": 293699,
           "pushedAt": "2026-10-30T03:06:42Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -360,6 +560,26 @@
           "category_en": "2. The 1-Person AI Workforce: Autonomous Agents, Harnesses & Virtual Teams"
         },
         {
+          "repo": "deepseek-ai/deepseek-harness",
+          "role_en": "Plugin-First Agent Harness",
+          "role_id": "Agent Harness Modular Resmi DeepSeek",
+          "why_en": "DeepSeek's flagship modular agent harness ('Everything is a Plugin') for orchestrating high-efficiency autonomous coding and ops.",
+          "why_id": "Agent harness resmi dari DeepSeek dengan arsitektur 'Everything is a Plugin' untuk orkestrasi agen otonom berbiaya rendah.",
+          "nameWithOwner": "deepseek-ai/deepseek-harness",
+          "url": "https://github.com/deepseek-ai/deepseek-harness",
+          "stargazerCount": 267121,
+          "pushedAt": "2026-10-30T06:54:11Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "DeepSeek Harness: Everything is a Plugin.",
+          "category_en": "2. The 1-Person AI Workforce: Autonomous Agents, Harnesses & Virtual Teams"
+        },
+        {
           "repo": "NousResearch/hermes-agent",
           "role_en": "Self-Evolving Agent Runtime",
           "role_id": "Agen AI Mandiri yang Berevolusi",
@@ -367,8 +587,8 @@
           "why_id": "Agen otonom dari Nous Research yang terus berkembang mengikuti pola kerjamu, lengkap dengan memori dan kontrol dari HP.",
           "nameWithOwner": "NousResearch/hermes-agent",
           "url": "https://github.com/NousResearch/hermes-agent",
-          "stargazerCount": 259013,
-          "pushedAt": "2026-10-31T11:08:34Z",
+          "stargazerCount": 259044,
+          "pushedAt": "2026-10-31T12:47:40Z",
           "isArchived": false,
           "primaryLanguage": {
             "name": "Python"
@@ -387,7 +607,7 @@
           "why_id": "Agen coding open-source terpopuler di terminal yang mendukung berbagai model LLM lokal maupun cloud.",
           "nameWithOwner": "anomalyco/opencode",
           "url": "https://github.com/anomalyco/opencode",
-          "stargazerCount": 223438,
+          "stargazerCount": 223461,
           "pushedAt": "2026-10-31T10:11:10Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -400,6 +620,44 @@
           "category_en": "2. The 1-Person AI Workforce: Autonomous Agents, Harnesses & Virtual Teams"
         },
         {
+          "repo": "anthropics/skills",
+          "role_en": "Official Anthropic Agent Skills",
+          "role_id": "Kumpulan Skill Agen Resmi Anthropic",
+          "why_en": "Anthropic's official public repository of reusable Agent Skills for document creation, coding workflows, and tool orchestration.",
+          "why_id": "Repositori publik resmi dari Anthropic berisi kumpulan Agent Skills standar untuk otomasi dokumen, coding, dan alur kerja.",
+          "nameWithOwner": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "stargazerCount": 185700,
+          "pushedAt": "2026-10-28T19:20:39Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "licenseInfo": null,
+          "description": "Public repository for Agent Skills",
+          "category_en": "2. The 1-Person AI Workforce: Autonomous Agents, Harnesses & Virtual Teams"
+        },
+        {
+          "repo": "DietrichGebert/ponytail",
+          "role_en": "Anti-Overengineering Agent Skill",
+          "role_id": "Skill 'Senior Dev Malas' Anti-Overengineering",
+          "why_en": "Makes your AI coding agent think like a pragmatic senior engineer—prevents bloated abstractions, unnecessary refactors, and over-engineering.",
+          "why_id": "Melatih agen coding berpikir seperti senior dev pragmatis: menulis kode sesedikit dan sesederhana mungkin tanpa over-engineering.",
+          "nameWithOwner": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "stargazerCount": 181259,
+          "pushedAt": "2026-10-29T11:59:31Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "JavaScript"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "category_en": "2. The 1-Person AI Workforce: Autonomous Agents, Harnesses & Virtual Teams"
+        },
+        {
           "repo": "msitarzewski/agency-agents",
           "role_en": "Full-Service AI Agency",
           "role_id": "Agensi AI Spesialis Lengkap",
@@ -407,7 +665,7 @@
           "why_id": "Kumpulan agen spesialis siap pakai mulai dari frontend wizard hingga spesialis pemasaran komunitas Reddit.",
           "nameWithOwner": "msitarzewski/agency-agents",
           "url": "https://github.com/msitarzewski/agency-agents",
-          "stargazerCount": 165586,
+          "stargazerCount": 165600,
           "pushedAt": "2026-10-25T01:43:20Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -427,7 +685,7 @@
           "why_id": "Agen coding resmi Anthropic di terminal yang memahami seluruh codebase, menjalankan tes, dan mengeksekusi git workflow.",
           "nameWithOwner": "anthropics/claude-code",
           "url": "https://github.com/anthropics/claude-code",
-          "stargazerCount": 154018,
+          "stargazerCount": 154024,
           "pushedAt": "2026-10-31T01:01:35Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -445,8 +703,8 @@
           "why_id": "Setup Claude Code milik Garry Tan (CEO Y Combinator): 23 tools yang bertindak sebagai CEO, Designer, Eng Manager, Release Manager, dan QA.",
           "nameWithOwner": "garrytan/gstack",
           "url": "https://github.com/garrytan/gstack",
-          "stargazerCount": 138405,
-          "pushedAt": "2026-10-31T11:10:37Z",
+          "stargazerCount": 138414,
+          "pushedAt": "2026-10-31T12:46:54Z",
           "isArchived": false,
           "primaryLanguage": {
             "name": "TypeScript"
@@ -465,7 +723,7 @@
           "why_id": "Agen coding terminal yang ringan dan cepat dari OpenAI untuk eksekusi fitur dan audit kode.",
           "nameWithOwner": "openai/codex",
           "url": "https://github.com/openai/codex",
-          "stargazerCount": 132341,
+          "stargazerCount": 132369,
           "pushedAt": "2026-10-31T00:12:36Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -478,6 +736,46 @@
           "category_en": "2. The 1-Person AI Workforce: Autonomous Agents, Harnesses & Virtual Teams"
         },
         {
+          "repo": "earendil-works/pi",
+          "role_en": "Unified Agent Loop & CLI Toolkit",
+          "role_id": "Toolkit Agent Loop & Coding CLI Cepat",
+          "why_en": "High-speed AI agent toolkit featuring a unified LLM API, deterministic agent loop, TUI, and terminal coding agent CLI.",
+          "why_id": "Toolkit agen AI berkecepatan tinggi dengan API LLM terpadu, agent loop, antarmuka terminal (TUI), dan CLI coding.",
+          "nameWithOwner": "earendil-works/pi",
+          "url": "https://github.com/earendil-works/pi",
+          "stargazerCount": 119112,
+          "pushedAt": "2026-10-31T09:18:59Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+          "category_en": "2. The 1-Person AI Workforce: Autonomous Agents, Harnesses & Virtual Teams"
+        },
+        {
+          "repo": "addyosmani/agent-skills",
+          "role_en": "Web Performance & Eng Skills",
+          "role_id": "Skill Engineering & Web Perf (Addy Osmani)",
+          "why_en": "Addy Osmani's battle-tested production engineering skills for AI coding agents covering architecture, Core Web Vitals, and clean code.",
+          "why_id": "Koleksi skill engineering kelas produksi dari Addy Osmani untuk menjaga kualitas arsitektur dan kecepatan aplikasi web.",
+          "nameWithOwner": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "stargazerCount": 112098,
+          "pushedAt": "2026-10-31T06:40:29Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "JavaScript"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "category_en": "2. The 1-Person AI Workforce: Autonomous Agents, Harnesses & Virtual Teams"
+        },
+        {
           "repo": "stablyai/orca",
           "role_en": "Multi-Agent Fleet IDE",
           "role_id": "Komando Armada Agen Coding",
@@ -485,8 +783,8 @@
           "why_id": "Pusat komando untuk menjalankan banyak agen coding secara paralel di Git worktree yang terpisah.",
           "nameWithOwner": "stablyai/orca",
           "url": "https://github.com/stablyai/orca",
-          "stargazerCount": 111403,
-          "pushedAt": "2026-10-31T11:08:06Z",
+          "stargazerCount": 111447,
+          "pushedAt": "2026-10-31T12:45:06Z",
           "isArchived": false,
           "primaryLanguage": {
             "name": "TypeScript"
@@ -505,8 +803,8 @@
           "why_id": "Aplikasi open-source untuk mengatur, mengawasi, dan mendistribusikan tugas ke seluruh agen AI di bisnismu.",
           "nameWithOwner": "paperclipai/paperclip",
           "url": "https://github.com/paperclipai/paperclip",
-          "stargazerCount": 109132,
-          "pushedAt": "2026-10-31T09:39:37Z",
+          "stargazerCount": 109168,
+          "pushedAt": "2026-10-31T12:39:56Z",
           "isArchived": false,
           "primaryLanguage": {
             "name": "TypeScript"
@@ -518,6 +816,26 @@
           "category_en": "2. The 1-Person AI Workforce: Autonomous Agents, Harnesses & Virtual Teams"
         },
         {
+          "repo": "odysseus-dev/odysseus",
+          "role_en": "Self-Hosted AI Agent Workspace",
+          "role_id": "Workspace Agen AI Mandiri",
+          "why_en": "Self-hosted AI workspace for orchestrating autonomous agents, local tools, and long-running workflows.",
+          "why_id": "Ruang kerja AI self-hosted untuk menjalankan dan mengoordinasikan berbagai agen otonom di server sendiri.",
+          "nameWithOwner": "odysseus-dev/odysseus",
+          "url": "https://github.com/odysseus-dev/odysseus",
+          "stargazerCount": 94809,
+          "pushedAt": "2026-10-31T12:43:17Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "licenseInfo": {
+            "spdxId": "AGPL-3.0"
+          },
+          "description": "Self-hosted AI workspace. ",
+          "category_en": "2. The 1-Person AI Workforce: Autonomous Agents, Harnesses & Virtual Teams"
+        },
+        {
           "repo": "OpenHands/OpenHands",
           "role_en": "Autonomous AI Software Developer",
           "role_id": "Software Engineer AI Otonom",
@@ -525,8 +843,8 @@
           "why_id": "Platform pengembangan otonom lengkap dengan sandbox browser, terminal, dan editor kode.",
           "nameWithOwner": "OpenHands/OpenHands",
           "url": "https://github.com/OpenHands/OpenHands",
-          "stargazerCount": 92321,
-          "pushedAt": "2026-10-31T11:07:38Z",
+          "stargazerCount": 92327,
+          "pushedAt": "2026-10-31T12:11:14Z",
           "isArchived": false,
           "primaryLanguage": {
             "name": "TypeScript"
@@ -535,6 +853,46 @@
             "spdxId": "MIT"
           },
           "description": "🙌 OpenHands: AI-Driven Development",
+          "category_en": "2. The 1-Person AI Workforce: Autonomous Agents, Harnesses & Virtual Teams"
+        },
+        {
+          "repo": "bytedance/deer-flow",
+          "role_en": "Long-Horizon SuperAgent Harness",
+          "role_id": "SuperAgent Harness untuk Tugas Jangka Panjang",
+          "why_en": "Open-source SuperAgent harness with sandboxes, memory, subagents, and message gateways that executes multi-hour research and coding tasks.",
+          "why_id": "Harness SuperAgent dengan sandbox, memori, dan subagen untuk mengeksekusi riset maupun pembuatan fitur berdurasi berjam-jam.",
+          "nameWithOwner": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "stargazerCount": 84757,
+          "pushedAt": "2026-10-31T11:19:42Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+          "category_en": "2. The 1-Person AI Workforce: Autonomous Agents, Harnesses & Virtual Teams"
+        },
+        {
+          "repo": "ruvnet/ruflo",
+          "role_en": "Multi-Agent Swarm Coordinator",
+          "role_id": "Orkestrator Swarm Multi-Agen",
+          "why_en": "Deploys intelligent multi-agent swarms with adaptive memory, vector RAG, and native Claude Code, Codex, and Hermes integration.",
+          "why_id": "Mengorkestrasi kawanan (swarm) agen otonom lengkap dengan memori adaptif, vector RAG, dan integrasi Claude Code/Codex/Hermes.",
+          "nameWithOwner": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "stargazerCount": 80365,
+          "pushedAt": "2026-10-31T06:28:01Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
           "category_en": "2. The 1-Person AI Workforce: Autonomous Agents, Harnesses & Virtual Teams"
         },
         {
@@ -565,7 +923,7 @@
           "why_id": "Platform kolaborasi self-hosted tempat solo founder dan agen AI bekerja bersama dalam satu tim terpadu.",
           "nameWithOwner": "multica-ai/multica",
           "url": "https://github.com/multica-ai/multica",
-          "stargazerCount": 54420,
+          "stargazerCount": 54424,
           "pushedAt": "2026-10-31T10:58:06Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -575,6 +933,126 @@
             "spdxId": "NOASSERTION"
           },
           "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
+          "category_en": "2. The 1-Person AI Workforce: Autonomous Agents, Harnesses & Virtual Teams"
+        },
+        {
+          "repo": "tinyhumansai/openhuman",
+          "role_en": "500-Agent-on-$10-VPS Harness",
+          "role_id": "Harness Super Ringan (500 Agen di VPS $10)",
+          "why_en": "Ultra-lightweight, resource-efficient open-source agent harness engineered to run 500+ concurrent agents on a single $10 VPS.",
+          "why_id": "Agent harness paling ringan dan hemat memori yang sanggup menjalankan lebih dari 500 agen sekaligus hanya di satu VPS $10.",
+          "nameWithOwner": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "stargazerCount": 42451,
+          "pushedAt": "2026-10-30T11:11:06Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Rust"
+          },
+          "licenseInfo": {
+            "spdxId": "GPL-3.0"
+          },
+          "description": "The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.",
+          "category_en": "2. The 1-Person AI Workforce: Autonomous Agents, Harnesses & Virtual Teams"
+        },
+        {
+          "repo": "block/buzz",
+          "role_en": "Sovereign Human + Agent Relay (buzz.xyz)",
+          "role_id": "Workspace Kolaborasi Manusia + Agen (buzz.xyz)",
+          "why_en": "Block's self-hostable Nostr relay workspace where humans and AI agents share rooms, open Git repos, send patches, run CI, edit canvases, and join voice huddles with cryptographic audit trails.",
+          "why_id": "Workspace mandiri buatan Block (buzz.xyz) berbasis relay Nostr & Rust di mana founder dan agen AI berada di satu room untuk kelola repo Git, kirim patch, jalankan CI, edit canvas, dan voice huddle dengan jejak audit kriptografis.",
+          "nameWithOwner": "block/buzz",
+          "url": "https://github.com/block/buzz",
+          "stargazerCount": 36622,
+          "pushedAt": "2026-10-31T09:19:29Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Rust"
+          },
+          "licenseInfo": {
+            "spdxId": "Apache-2.0"
+          },
+          "description": "A hive mind communication platform",
+          "category_en": "2. The 1-Person AI Workforce: Autonomous Agents, Harnesses & Virtual Teams"
+        },
+        {
+          "repo": "iOfficeAI/AionUi",
+          "role_en": "24/7 Multi-CLI Cowork Desktop",
+          "role_id": "Aplikasi Desktop Cowork 20+ Agen CLI",
+          "why_en": "Open-source 24/7 Cowork app that unifies OpenClaw, Hermes, Claude Code, Codex, OpenCode, and 20+ CLI agents into one visual team.",
+          "why_id": "Aplikasi cowork 24/7 yang menyatukan OpenClaw, Hermes, Claude Code, Codex, dan 20+ agen CLI ke dalam satu antarmuka tim.",
+          "nameWithOwner": "iOfficeAI/AionUi",
+          "url": "https://github.com/iOfficeAI/AionUi",
+          "stargazerCount": 33944,
+          "pushedAt": "2026-10-23T14:21:51Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "Apache-2.0"
+          },
+          "description": "Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!",
+          "category_en": "2. The 1-Person AI Workforce: Autonomous Agents, Harnesses & Virtual Teams"
+        },
+        {
+          "repo": "different-ai/openwork",
+          "role_en": "Open-Source Claude Cowork",
+          "role_id": "Alternatif Open-Source Claude Cowork",
+          "why_en": "Open-source alternative to Claude Cowork (powered by OpenCode) for delegating everyday business, file, and browser tasks.",
+          "why_id": "Alternatif open-source Claude Cowork berbasis OpenCode untuk mendelegasikan tugas operasional harian, dokumen, dan riset.",
+          "nameWithOwner": "different-ai/openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "stargazerCount": 24341,
+          "pushedAt": "2026-10-31T11:03:40Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "NOASSERTION"
+          },
+          "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+          "category_en": "2. The 1-Person AI Workforce: Autonomous Agents, Harnesses & Virtual Teams"
+        },
+        {
+          "repo": "getpaseo/paseo",
+          "role_en": "Desktop & Mobile Agent Commander",
+          "role_id": "Pengendali Armada Agen dari HP & Desktop",
+          "why_en": "Orchestrate, monitor, and approve multiple coding agents simultaneously from both your desktop and mobile phone.",
+          "why_id": "Pantau, arahkan, dan beri persetujuan ke banyak agen coding sekaligus langsung dari layar HP maupun desktop.",
+          "nameWithOwner": "getpaseo/paseo",
+          "url": "https://github.com/getpaseo/paseo",
+          "stargazerCount": 22584,
+          "pushedAt": "2026-10-31T12:26:34Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "NOASSERTION"
+          },
+          "description": "Orchestrate multiple coding agents from desktop and mobile",
+          "category_en": "2. The 1-Person AI Workforce: Autonomous Agents, Harnesses & Virtual Teams"
+        },
+        {
+          "repo": "kortix-ai/suna",
+          "role_en": "Open-Source CompanyOS",
+          "role_id": "Sistem Operasi Perusahaan Otonom (CompanyOS)",
+          "why_en": "Kortix CompanyOS: open-source operating system to run your company as code with multiplayer AI agents and sovereign browser/terminal sandboxes.",
+          "why_id": "Sistem operasi open-source untuk menjalankan 'Company-as-Code' dengan agen AI multiplayer yang memiliki komputer dan browser sandbox sendiri.",
+          "nameWithOwner": "kortix-ai/suna",
+          "url": "https://github.com/kortix-ai/suna",
+          "stargazerCount": 20337,
+          "pushedAt": "2026-10-31T12:32:43Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "NOASSERTION"
+          },
+          "description": "Kortix CompanyOS – the open-source operating system for your company. Multiplayer AI agents, your company as code, sovereign on your infrastructure or ours.",
           "category_en": "2. The 1-Person AI Workforce: Autonomous Agents, Harnesses & Virtual Teams"
         }
       ]
@@ -587,6 +1065,26 @@
       "desc_id": "Jangan bangun autentikasi, pembayaran, dan komponen dasar dari nol. Padukan boilerplate siap pakai dengan skill desain anti-slop agar produkmu terlihat sekelas startup unicorn.",
       "active": [
         {
+          "repo": "github/spec-kit",
+          "role_en": "Spec-Driven Development Toolkit",
+          "role_id": "Toolkit Spec-Driven Development (SDD) Resmi",
+          "why_en": "GitHub's official toolkit for Spec-Driven Development—aligns coding agents on crystal-clear specifications before a single line of code is written.",
+          "why_id": "Toolkit resmi GitHub untuk Spec-Driven Development agar agen coding membangun fitur berdasarkan spesifikasi terstruktur tanpa halusinasi.",
+          "nameWithOwner": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "stargazerCount": 144182,
+          "pushedAt": "2026-10-30T16:19:58Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "💫 Toolkit to help you get started with SDD or any other process!",
+          "category_en": "3. Product Development: SaaS Boilerplates, Anti-AI-Slop UI & Backend-in-a-Box"
+        },
+        {
           "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
           "role_en": "UI/UX Design Intelligence Skill",
           "role_id": "Skill Kecerdasan Desain UI/UX",
@@ -594,7 +1092,7 @@
           "why_id": "Memberikan kecerdasan desain ke agen coding untuk membangun UI/UX web dan mobile yang tampak profesional.",
           "nameWithOwner": "nextlevelbuilder/ui-ux-pro-max-skill",
           "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-          "stargazerCount": 143206,
+          "stargazerCount": 143229,
           "pushedAt": "2026-10-30T19:08:34Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -607,6 +1105,26 @@
           "category_en": "3. Product Development: SaaS Boilerplates, Anti-AI-Slop UI & Backend-in-a-Box"
         },
         {
+          "repo": "Graphify-Labs/graphify",
+          "role_en": "Deterministic Codebase Knowledge Graph",
+          "role_id": "Knowledge Graph Codebase & Skema SQL",
+          "why_en": "Turns your codebase, SQL schemas, configs, and PDFs into a deterministic AST knowledge graph for Claude Code, Cursor, and Codex without vector stores.",
+          "why_id": "Mengubah seluruh codebase, skema database SQL, dan dokumentasi menjadi knowledge graph AST deterministik agar agen memahami arsitektur secara instan.",
+          "nameWithOwner": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "stargazerCount": 139771,
+          "pushedAt": "2026-10-30T23:42:18Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "licenseInfo": {
+            "spdxId": "Apache-2.0"
+          },
+          "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+          "category_en": "3. Product Development: SaaS Boilerplates, Anti-AI-Slop UI & Backend-in-a-Box"
+        },
+        {
           "repo": "shadcn-ui/ui",
           "role_en": "Composable UI Primitives",
           "role_id": "Standar Emas Komponen UI",
@@ -614,7 +1132,7 @@
           "why_id": "Koleksi komponen UI modern yang bisa langsung di-copy-paste dan dikustomisasi penuh.",
           "nameWithOwner": "shadcn-ui/ui",
           "url": "https://github.com/shadcn-ui/ui",
-          "stargazerCount": 127033,
+          "stargazerCount": 127036,
           "pushedAt": "2026-10-31T08:18:45Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -635,7 +1153,7 @@
           "nameWithOwner": "supabase/supabase",
           "url": "https://github.com/supabase/supabase",
           "stargazerCount": 114376,
-          "pushedAt": "2026-10-31T04:05:51Z",
+          "pushedAt": "2026-10-31T11:44:38Z",
           "isArchived": false,
           "primaryLanguage": {
             "name": "TypeScript"
@@ -654,7 +1172,7 @@
           "why_id": "Memberikan cita rasa desain dan arahan seni ke agen coding agar tidak menghasilkan tampilan template AI yang membosankan.",
           "nameWithOwner": "Leonxlnx/taste-skill",
           "url": "https://github.com/Leonxlnx/taste-skill",
-          "stargazerCount": 106612,
+          "stargazerCount": 106673,
           "pushedAt": "2026-10-31T07:59:58Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -674,7 +1192,7 @@
           "why_id": "Workspace desain AI kolaboratif (local-first) untuk membuat prototipe, animasi motion, dan sistem desain.",
           "nameWithOwner": "nexu-io/open-design",
           "url": "https://github.com/nexu-io/open-design",
-          "stargazerCount": 105123,
+          "stargazerCount": 105134,
           "pushedAt": "2026-10-31T01:09:19Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -694,8 +1212,8 @@
           "why_id": "Kosakata desain untuk mengarahkan, mengkritisi, dan memoles hasil kerja agen coding agar bebas AI slop.",
           "nameWithOwner": "pbakaus/impeccable",
           "url": "https://github.com/pbakaus/impeccable",
-          "stargazerCount": 97627,
-          "pushedAt": "2026-10-31T07:32:42Z",
+          "stargazerCount": 97702,
+          "pushedAt": "2026-10-31T11:56:18Z",
           "isArchived": false,
           "primaryLanguage": {
             "name": "Rust"
@@ -704,6 +1222,26 @@
             "spdxId": "Apache-2.0"
           },
           "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+          "category_en": "3. Product Development: SaaS Boilerplates, Anti-AI-Slop UI & Backend-in-a-Box"
+        },
+        {
+          "repo": "tt-a1i/archify",
+          "role_en": "Interactive Architecture Diagram Skill",
+          "role_id": "Skill Pembuat Diagram Arsitektur Interaktif",
+          "why_en": "Agent skill that turns any product idea, implementation plan, or existing repo into beautiful interactive architecture diagrams.",
+          "why_id": "Skill agen untuk mengubah ide produk, rencana sistem, atau kode yang sudah ada menjadi diagram arsitektur interaktif.",
+          "nameWithOwner": "tt-a1i/archify",
+          "url": "https://github.com/tt-a1i/archify",
+          "stargazerCount": 91991,
+          "pushedAt": "2026-10-31T06:53:27Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "JavaScript"
+          },
+          "licenseInfo": {
+            "spdxId": "Apache-2.0"
+          },
+          "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
           "category_en": "3. Product Development: SaaS Boilerplates, Anti-AI-Slop UI & Backend-in-a-Box"
         },
         {
@@ -727,6 +1265,26 @@
           "category_en": "3. Product Development: SaaS Boilerplates, Anti-AI-Slop UI & Backend-in-a-Box"
         },
         {
+          "repo": "cathrynlavery/diagram-design",
+          "role_en": "Editorial Anti-Slop Diagram Skill",
+          "role_id": "Skill Desain Diagram Editorial (Anti-Mermaid-Slop)",
+          "why_en": "Generates 45 types of self-contained, editorial-grade HTML + SVG diagrams for pitch decks, docs, and landing pages with zero Mermaid slop.",
+          "why_id": "Menghasilkan 45 jenis diagram HTML + SVG berstandar editorial majalah untuk landing page dan pitch deck tanpa tampilan kaku khas Mermaid.",
+          "nameWithOwner": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "stargazerCount": 63376,
+          "pushedAt": "2026-10-27T20:01:35Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "HTML"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+          "category_en": "3. Product Development: SaaS Boilerplates, Anti-AI-Slop UI & Backend-in-a-Box"
+        },
+        {
           "repo": "penpot/penpot",
           "role_en": "Open-Source Design Platform",
           "role_id": "Platform Desain UI/UX Open-Source",
@@ -734,7 +1292,7 @@
           "why_id": "Alternatif Figma open-source untuk merancang antarmuka produk dan prototipe interaktif.",
           "nameWithOwner": "penpot/penpot",
           "url": "https://github.com/penpot/penpot",
-          "stargazerCount": 61907,
+          "stargazerCount": 61909,
           "pushedAt": "2026-10-31T08:29:30Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -754,7 +1312,7 @@
           "why_id": "Server backend mandiri lengkap dengan Auth, Database, Storage, Cloud Functions, dan Messaging.",
           "nameWithOwner": "appwrite/appwrite",
           "url": "https://github.com/appwrite/appwrite",
-          "stargazerCount": 57802,
+          "stargazerCount": 57805,
           "pushedAt": "2026-10-31T10:42:42Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -767,6 +1325,86 @@
           "category_en": "3. Product Development: SaaS Boilerplates, Anti-AI-Slop UI & Backend-in-a-Box"
         },
         {
+          "repo": "ChromeDevTools/chrome-devtools-mcp",
+          "role_en": "Official Chrome DevTools MCP",
+          "role_id": "Server MCP Resmi Chrome DevTools",
+          "why_en": "Gives coding agents live access to Chrome DevTools to inspect DOM layout, debug console errors, and audit Core Web Vitals autonomously.",
+          "why_id": "Memberi agen coding akses langsung ke Chrome DevTools untuk memeriksa bug tampilan DOM, error console, dan performa kecepatan web.",
+          "nameWithOwner": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "stargazerCount": 54537,
+          "pushedAt": "2026-10-30T10:15:13Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "Apache-2.0"
+          },
+          "description": "Chrome DevTools for coding agents",
+          "category_en": "3. Product Development: SaaS Boilerplates, Anti-AI-Slop UI & Backend-in-a-Box"
+        },
+        {
+          "repo": "alibaba/open-code-review",
+          "role_en": "Hybrid Deterministic + AI Code Reviewer",
+          "role_id": "Auditor Kode Otomatis (Deterministik + AI)",
+          "why_en": "Combines static analysis pipelines with LLM agents to catch SQL injection, XSS, race conditions, and logic bugs at the line level before deploy.",
+          "why_id": "Menggabungkan analisis statis dan agen AI untuk menangkap celah SQLi, XSS, dan bug logika baris demi baris sebelum kode di-deploy.",
+          "nameWithOwner": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "stargazerCount": 49159,
+          "pushedAt": "2026-10-30T06:18:12Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Go"
+          },
+          "licenseInfo": {
+            "spdxId": "Apache-2.0"
+          },
+          "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "category_en": "3. Product Development: SaaS Boilerplates, Anti-AI-Slop UI & Backend-in-a-Box"
+        },
+        {
+          "repo": "DeusData/codebase-memory-mcp",
+          "role_en": "Persistent Code Graph & Test Selector",
+          "role_id": "Memori Graf Kode & Selektor Tes Otomatis",
+          "why_en": "Connects code, docs, and infra in a persistent local graph over MCP with change-aware test selection for rapid solo shipping.",
+          "why_id": "Menghubungkan kode, dokumen, dan infrastruktur ke dalam graf lokal via MCP lengkap dengan pemilihan unit test otomatis saat ada perubahan.",
+          "nameWithOwner": "DeusData/codebase-memory-mcp",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "stargazerCount": 47890,
+          "pushedAt": "2026-10-31T12:45:15Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "C"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection.",
+          "category_en": "3. Product Development: SaaS Boilerplates, Anti-AI-Slop UI & Backend-in-a-Box"
+        },
+        {
+          "repo": "payloadcms/payload",
+          "role_en": "Next.js-Native Headless CMS & App Framework",
+          "role_id": "Headless CMS & Admin Panel Native Next.js",
+          "why_en": "Full-stack TypeScript headless CMS and admin panel that installs directly inside your Next.js app folder with zero external server overhead.",
+          "why_id": "Headless CMS dan admin panel berbasis TypeScript yang langsung menyatu di dalam folder aplikasi Next.js milikmu.",
+          "nameWithOwner": "payloadcms/payload",
+          "url": "https://github.com/payloadcms/payload",
+          "stargazerCount": 45598,
+          "pushedAt": "2026-10-31T12:27:31Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.",
+          "category_en": "3. Product Development: SaaS Boilerplates, Anti-AI-Slop UI & Backend-in-a-Box"
+        },
+        {
           "repo": "Nutlope/hallmark",
           "role_en": "Anti-AI-Slop Frontend Skill",
           "role_id": "Penangkal UI Generik AI",
@@ -774,7 +1412,7 @@
           "why_id": "Skill khusus untuk Claude Code, Cursor, dan Codex guna mencegah desain UI yang terlihat buatan bot.",
           "nameWithOwner": "Nutlope/hallmark",
           "url": "https://github.com/Nutlope/hallmark",
-          "stargazerCount": 43376,
+          "stargazerCount": 43436,
           "pushedAt": "2026-10-29T16:50:04Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -787,6 +1425,46 @@
           "category_en": "3. Product Development: SaaS Boilerplates, Anti-AI-Slop UI & Backend-in-a-Box"
         },
         {
+          "repo": "directus/directus",
+          "role_en": "Instant SQL-to-API & Admin Studio",
+          "role_id": "Generator REST/GraphQL API & Admin UI dari SQL",
+          "why_en": "Wraps any SQL database with instant REST/GraphQL APIs, granular auth, file storage, and a no-code admin dashboard for clients.",
+          "why_id": "Mengubah database SQL apa pun menjadi REST/GraphQL API instan lengkap dengan autentikasi dan dashboard admin siap pakai.",
+          "nameWithOwner": "directus/directus",
+          "url": "https://github.com/directus/directus",
+          "stargazerCount": 38759,
+          "pushedAt": "2026-10-30T16:49:43Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "NOASSERTION"
+          },
+          "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.",
+          "category_en": "3. Product Development: SaaS Boilerplates, Anti-AI-Slop UI & Backend-in-a-Box"
+        },
+        {
+          "repo": "CopilotKit/CopilotKit",
+          "role_en": "In-App AI Copilot & Generative UI Stack",
+          "role_id": "Framework Copilot AI & Generative UI di Aplikasi",
+          "why_en": "The standard frontend framework and AG-UI protocol to embed interactive AI copilots and Generative UI directly inside your SaaS product.",
+          "why_id": "Framework frontend utama (pembuat protokol AG-UI) untuk menyematkan fitur asisten AI interaktif di dalam produk SaaS buatanmu.",
+          "nameWithOwner": "CopilotKit/CopilotKit",
+          "url": "https://github.com/CopilotKit/CopilotKit",
+          "stargazerCount": 38426,
+          "pushedAt": "2026-10-31T01:24:15Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
+          "category_en": "3. Product Development: SaaS Boilerplates, Anti-AI-Slop UI & Backend-in-a-Box"
+        },
+        {
           "repo": "JCodesMore/ai-website-cloner-template",
           "role_en": "1-Command Website Cloner",
           "role_id": "Template Kloning Struktur Web",
@@ -794,7 +1472,7 @@
           "why_id": "Mengkloning tata letak dan arsitektur visual website referensi hanya dengan satu perintah.",
           "nameWithOwner": "JCodesMore/ai-website-cloner-template",
           "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-          "stargazerCount": 38218,
+          "stargazerCount": 38225,
           "pushedAt": "2026-10-19T22:56:31Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -807,6 +1485,86 @@
           "category_en": "3. Product Development: SaaS Boilerplates, Anti-AI-Slop UI & Backend-in-a-Box"
         },
         {
+          "repo": "medusajs/medusa",
+          "role_en": "Open-Source Composable Shopify",
+          "role_id": "Platform E-Commerce Headless (Pengganti Shopify)",
+          "why_en": "Flexible TypeScript commerce platform for building custom digital/physical storefronts, subscriptions, and multi-region marketplaces without Shopify fees.",
+          "why_id": "Platform e-commerce berbasis TypeScript yang sangat fleksibel untuk membangun toko digital, fisik, maupun marketplace tanpa potongan biaya bulanan Shopify.",
+          "nameWithOwner": "medusajs/medusa",
+          "url": "https://github.com/medusajs/medusa",
+          "stargazerCount": 37028,
+          "pushedAt": "2026-10-31T10:13:39Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "NOASSERTION"
+          },
+          "description": "The world's most flexible commerce platform for agents and developers",
+          "category_en": "3. Product Development: SaaS Boilerplates, Anti-AI-Slop UI & Backend-in-a-Box"
+        },
+        {
+          "repo": "better-auth/better-auth",
+          "role_en": "Modern TypeScript Auth Framework",
+          "role_id": "Framework Autentikasi TypeScript Terlengkap",
+          "why_en": "The most comprehensive TypeScript auth library with built-in plugins for multi-tenancy/organizations, 2FA, passkeys, and Stripe/Polar billing.",
+          "why_id": "Library autentikasi TypeScript paling lengkap dengan plugin bawaan untuk multi-tenant/organisasi, 2FA, passkey, dan integrasi pembayaran.",
+          "nameWithOwner": "better-auth/better-auth",
+          "url": "https://github.com/better-auth/better-auth",
+          "stargazerCount": 30536,
+          "pushedAt": "2026-10-30T15:54:41Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "The most comprehensive authentication framework",
+          "category_en": "3. Product Development: SaaS Boilerplates, Anti-AI-Slop UI & Backend-in-a-Box"
+        },
+        {
+          "repo": "google-labs-code/design.md",
+          "role_en": "Agent Design System Specification",
+          "role_id": "Standar Spesifikasi Desain (DESIGN.md) untuk Agen",
+          "why_en": "Google Labs' DESIGN.md standard that gives coding agents a persistent, structured blueprint of your brand's typography, colors, and layout rules.",
+          "why_id": "Spesifikasi standar dari Google Labs agar agen coding selalu patuh pada identitas warna, tipografi, dan aturan desain produkmu.",
+          "nameWithOwner": "google-labs-code/design.md",
+          "url": "https://github.com/google-labs-code/design.md",
+          "stargazerCount": 28671,
+          "pushedAt": "2026-10-16T18:21:44Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "Apache-2.0"
+          },
+          "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+          "category_en": "3. Product Development: SaaS Boilerplates, Anti-AI-Slop UI & Backend-in-a-Box"
+        },
+        {
+          "repo": "onlook-dev/onlook",
+          "role_en": "Visual React/Tailwind Code Editor",
+          "role_id": "'Cursor untuk Desainer' (Edit Visual Langsung ke Kode)",
+          "why_en": "Visually inspect, drag, and style your live React and Tailwind CSS app in a Figma-like canvas that writes clean diffs straight back to your code.",
+          "why_id": "Edit tampilan aplikasi React dan Tailwind CSS secara visual layaknya di Figma, dan perubahannya langsung tertulis kembali ke source code.",
+          "nameWithOwner": "onlook-dev/onlook",
+          "url": "https://github.com/onlook-dev/onlook",
+          "stargazerCount": 27056,
+          "pushedAt": "2026-10-21T20:42:29Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "Apache-2.0"
+          },
+          "description": "The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code.",
+          "category_en": "3. Product Development: SaaS Boilerplates, Anti-AI-Slop UI & Backend-in-a-Box"
+        },
+        {
           "repo": "magicuidesign/magicui",
           "role_en": "High-Conversion Landing UI",
           "role_id": "Komponen Animasi Landing Page",
@@ -814,7 +1572,7 @@
           "why_id": "Komponen animasi (bento grid, marquee, efek interaktif) agar landing page memiliki konversi tinggi.",
           "nameWithOwner": "magicuidesign/magicui",
           "url": "https://github.com/magicuidesign/magicui",
-          "stargazerCount": 22983,
+          "stargazerCount": 22984,
           "pushedAt": "2026-10-31T09:58:36Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -824,6 +1582,26 @@
             "spdxId": "MIT"
           },
           "description": "UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.",
+          "category_en": "3. Product Development: SaaS Boilerplates, Anti-AI-Slop UI & Backend-in-a-Box"
+        },
+        {
+          "repo": "dyad-sh/dyad",
+          "role_en": "Local Open-Source Lovable / v0 / Bolt",
+          "role_id": "Alternatif Lokal & Gratis Lovable / v0 / Bolt",
+          "why_en": "Local-first, open-source AI app builder for power users to prompt, preview, and ship full-stack apps without paying $20–$50/mo platform credits.",
+          "why_id": "Pembuat aplikasi AI full-stack yang berjalan lokal di komputermu sebagai pengganti gratis Lovable, v0, dan Bolt.new.",
+          "nameWithOwner": "dyad-sh/dyad",
+          "url": "https://github.com/dyad-sh/dyad",
+          "stargazerCount": 22132,
+          "pushedAt": "2026-10-31T00:31:59Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "NOASSERTION"
+          },
+          "description": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
           "category_en": "3. Product Development: SaaS Boilerplates, Anti-AI-Slop UI & Backend-in-a-Box"
         },
         {
@@ -844,6 +1622,26 @@
             "spdxId": "MIT"
           },
           "description": "A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.",
+          "category_en": "3. Product Development: SaaS Boilerplates, Anti-AI-Slop UI & Backend-in-a-Box"
+        },
+        {
+          "repo": "fuma-nama/fumadocs",
+          "role_en": "Next.js Product Documentation Engine",
+          "role_id": "Framework Dokumentasi Produk (Pengganti Mintlify)",
+          "why_en": "Beautiful, blazing-fast React/Next.js documentation framework with OpenAPI playground and AI search—replaces $150/mo Mintlify subscriptions.",
+          "why_id": "Framework dokumentasi produk dan API berbasis Next.js yang sangat elegan dan cepat—menggantikan langganan Mintlify yang mahal.",
+          "nameWithOwner": "fuma-nama/fumadocs",
+          "url": "https://github.com/fuma-nama/fumadocs",
+          "stargazerCount": 13519,
+          "pushedAt": "2026-10-31T07:36:44Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "The beautiful & flexible React.js docs framework.",
           "category_en": "3. Product Development: SaaS Boilerplates, Anti-AI-Slop UI & Backend-in-a-Box"
         },
         {
@@ -874,7 +1672,7 @@
           "why_id": "Aturan ketat bagi agen coding untuk menyaring desain UI generik, copywriting kaku, dan kode bertele-tele.",
           "nameWithOwner": "miqdadbadjuber/anti-slop",
           "url": "https://github.com/miqdadbadjuber/anti-slop",
-          "stargazerCount": 7671,
+          "stargazerCount": 7681,
           "pushedAt": "2026-10-28T17:34:01Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -905,6 +1703,26 @@
           },
           "description": "🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing",
           "category_en": "3. Product Development: SaaS Boilerplates, Anti-AI-Slop UI & Backend-in-a-Box"
+        },
+        {
+          "repo": "trailbaseio/trailbase",
+          "role_en": "1-Binary Rust/SQLite Backend + MCP",
+          "role_id": "Backend 1-File Binary Rust + SQLite (Pengganti PocketBase)",
+          "why_en": "Active replacement for archived PocketBase: sub-millisecond single-executable Rust + SQLite + Wasmtime backend with type-safe APIs, Auth, Admin UI, and native MCP.",
+          "why_id": "Pengganti aktif PocketBase (yang telah diarsipkan): backend 1-file binary berbasis Rust + SQLite dengan performa sub-milidetik, Auth, Admin UI, dan dukungan MCP bawaan.",
+          "nameWithOwner": "trailbaseio/trailbase",
+          "url": "https://github.com/trailbaseio/trailbase",
+          "stargazerCount": 5740,
+          "pushedAt": "2026-10-31T07:13:17Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Rust"
+          },
+          "licenseInfo": {
+            "spdxId": "OSL-3.0"
+          },
+          "description": "An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, MCP and admin UI built on Rust, SQLite (PG) & Wasmtime.",
+          "category_en": "3. Product Development: SaaS Boilerplates, Anti-AI-Slop UI & Backend-in-a-Box"
         }
       ]
     },
@@ -916,6 +1734,26 @@
       "desc_id": "Jaga margin keuntunganmu. Pangkas konsumsi token LLM hingga 60–95%, gabungkan ratusan endpoint AI gratis dengan auto-failover, dan simpan memori agen lintas sesi.",
       "active": [
         {
+          "repo": "ollama/ollama",
+          "role_en": "Local LLM Runtime Engine",
+          "role_id": "Mesin Eksekusi Model LLM Lokal ($0 API)",
+          "why_en": "Run DeepSeek, Qwen, GLM, Kimi, and Gemma locally on your laptop or server with one command at $0 per token.",
+          "why_id": "Jalankan model AI mutakhir (DeepSeek, Qwen, GLM, Kimi, Gemma) secara lokal di laptop atau server sendiri dengan biaya token $0.",
+          "nameWithOwner": "ollama/ollama",
+          "url": "https://github.com/ollama/ollama",
+          "stargazerCount": 185438,
+          "pushedAt": "2026-10-30T21:34:59Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Go"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+          "category_en": "4. Zero-Cost AI Ops: Token Compressors, Free AI Gateways & Agent Memory"
+        },
+        {
           "repo": "JuliusBrussee/caveman",
           "role_en": "65% Output Token Cutter",
           "role_id": "Pemangkas 65% Token Output",
@@ -923,7 +1761,7 @@
           "why_id": "Skill dan proxy populer yang memangkas 65% konsumsi token dengan membuat agen berkomunikasi padat tanpa basa-basi.",
           "nameWithOwner": "JuliusBrussee/caveman",
           "url": "https://github.com/JuliusBrussee/caveman",
-          "stargazerCount": 116423,
+          "stargazerCount": 116438,
           "pushedAt": "2026-10-31T07:22:04Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -943,7 +1781,7 @@
           "why_id": "Merekam semua aktivitas agen selama sesi kerja, mengompresinya, dan menyuntikkan konteks yang relevan di sesi berikutnya.",
           "nameWithOwner": "thedotmack/claude-mem",
           "url": "https://github.com/thedotmack/claude-mem",
-          "stargazerCount": 106955,
+          "stargazerCount": 107070,
           "pushedAt": "2026-10-31T08:56:15Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -963,7 +1801,7 @@
           "why_id": "Proxy CLI dalam satu binary Rust yang memangkas pemakaian token LLM sebesar 60–90% pada perintah terminal developer.",
           "nameWithOwner": "rtk-ai/rtk",
           "url": "https://github.com/rtk-ai/rtk",
-          "stargazerCount": 85114,
+          "stargazerCount": 85120,
           "pushedAt": "2026-10-30T18:07:02Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -983,7 +1821,7 @@
           "why_id": "AI gateway berlisensi MIT yang menyatukan 375 provider (termasuk 150+ tier gratis) dan 1.400+ model di balik satu endpoint.",
           "nameWithOwner": "cheaper-inference/OmniRoute",
           "url": "https://github.com/cheaper-inference/OmniRoute",
-          "stargazerCount": 83019,
+          "stargazerCount": 83042,
           "pushedAt": "2026-10-31T05:58:07Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1003,7 +1841,7 @@
           "why_id": "Mengompresi output tool, log, file, dan potongan RAG sebelum dikirim ke LLM sehingga menghemat 60–95% biaya token.",
           "nameWithOwner": "headroomlabs-ai/headroom",
           "url": "https://github.com/headroomlabs-ai/headroom",
-          "stargazerCount": 78430,
+          "stargazerCount": 78439,
           "pushedAt": "2026-10-30T18:20:12Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1023,7 +1861,7 @@
           "why_id": "Infrastruktur memori siap pakai agar aplikasi atau agen AI buatanmu bisa mengingat preferensi setiap pengguna.",
           "nameWithOwner": "mem0ai/mem0",
           "url": "https://github.com/mem0ai/mem0",
-          "stargazerCount": 68143,
+          "stargazerCount": 68147,
           "pushedAt": "2026-10-30T21:36:23Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1036,6 +1874,46 @@
           "category_en": "4. Zero-Cost AI Ops: Token Compressors, Free AI Gateways & Agent Memory"
         },
         {
+          "repo": "Alishahryar1/free-claude-code",
+          "role_en": "Multi-Harness Free Token Hub",
+          "role_id": "Akses Token Gratis Lintas Coding Harness",
+          "why_en": "Connects Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode to 1.3B+ free tokens across terminal, IDE, browser, and mobile.",
+          "why_id": "Menghubungkan Claude Code, Codex, Antigravity, Pi, dan OpenCode ke penyedia token gratis lintas terminal, IDE, maupun browser.",
+          "nameWithOwner": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "stargazerCount": 65312,
+          "pushedAt": "2026-10-31T07:53:18Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "licenseInfo": {
+            "spdxId": "NOASSERTION"
+          },
+          "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+          "category_en": "4. Zero-Cost AI Ops: Token Compressors, Free AI Gateways & Agent Memory"
+        },
+        {
+          "repo": "upstash/context7",
+          "role_en": "Up-to-Date Docs MCP (Anti-Hallucination)",
+          "role_id": "MCP Dokumentasi Terkini (Cegah Halusinasi Kode)",
+          "why_en": "Injects real-time, version-specific documentation directly into your coding agent so you never waste tokens debugging hallucinated or deprecated APIs.",
+          "why_id": "Menyuntikkan dokumentasi library versi terbaru ke agen coding sehingga tidak membuang ribuan token akibat salah pakai API lama.",
+          "nameWithOwner": "upstash/context7",
+          "url": "https://github.com/upstash/context7",
+          "stargazerCount": 64001,
+          "pushedAt": "2026-10-30T15:31:30Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "Context7 Platform -- Up-to-date docs for AI agents",
+          "category_en": "4. Zero-Cost AI Ops: Token Compressors, Free AI Gateways & Agent Memory"
+        },
+        {
           "repo": "BerriAI/litellm",
           "role_en": "Unified LLM Proxy & Budget Guard",
           "role_id": "Proxy 100+ API LLM & Kontrol Budget",
@@ -1043,8 +1921,8 @@
           "why_id": "Gateway AI berkecepatan tinggi untuk memanggil 100+ API LLM dengan satu format standar, lengkap dengan batas anggaran.",
           "nameWithOwner": "BerriAI/litellm",
           "url": "https://github.com/BerriAI/litellm",
-          "stargazerCount": 62428,
-          "pushedAt": "2026-10-31T10:47:26Z",
+          "stargazerCount": 62430,
+          "pushedAt": "2026-10-31T11:51:18Z",
           "isArchived": false,
           "primaryLanguage": {
             "name": "Python"
@@ -1063,8 +1941,8 @@
           "why_id": "Membungkus langganan CLI (Antigravity, Claude Code, Codex) menjadi endpoint API lokal yang kompatibel dengan OpenAI/Claude.",
           "nameWithOwner": "router-for-me/CLIProxyAPI",
           "url": "https://github.com/router-for-me/CLIProxyAPI",
-          "stargazerCount": 57086,
-          "pushedAt": "2026-10-31T02:11:08Z",
+          "stargazerCount": 57093,
+          "pushedAt": "2026-10-31T12:20:36Z",
           "isArchived": false,
           "primaryLanguage": {
             "name": "Go"
@@ -1076,6 +1954,66 @@
           "category_en": "4. Zero-Cost AI Ops: Token Compressors, Free AI Gateways & Agent Memory"
         },
         {
+          "repo": "tashfeenahmed/freellmapi",
+          "role_en": "34-Provider Free LLM Aggregator",
+          "role_id": "Agregator 34 Provider & 635 Endpoint LLM Gratis",
+          "why_en": "Unifies 34 free LLM providers and 635 free model endpoints behind one OpenAI-compatible /v1 endpoint with smart routing and auto-failover.",
+          "why_id": "Menyatukan 34 penyedia LLM gratis (635 endpoint model) di balik satu endpoint /v1 dengan fitur rotasi pintar dan auto-failover.",
+          "nameWithOwner": "tashfeenahmed/freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "stargazerCount": 44969,
+          "pushedAt": "2026-10-30T19:36:07Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+          "category_en": "4. Zero-Cost AI Ops: Token Compressors, Free AI Gateways & Agent Memory"
+        },
+        {
+          "repo": "volcengine/OpenViking",
+          "role_en": "Self-Evolving Context & Memory DB",
+          "role_id": "Database Konteks, Memori & RAG Agen Mandiri",
+          "why_en": "Self-evolving context database for AI agents that unifies long-term agent memory, knowledge RAG, and reusable skills.",
+          "why_id": "Database konteks yang terus berkembang untuk menyatukan memori jangka panjang agen, dokumen RAG, dan koleksi skill.",
+          "nameWithOwner": "volcengine/OpenViking",
+          "url": "https://github.com/volcengine/OpenViking",
+          "stargazerCount": 41236,
+          "pushedAt": "2026-10-31T11:45:48Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "licenseInfo": {
+            "spdxId": "AGPL-3.0"
+          },
+          "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+          "category_en": "4. Zero-Cost AI Ops: Token Compressors, Free AI Gateways & Agent Memory"
+        },
+        {
+          "repo": "NandhaKishorM/laya",
+          "role_en": "0-Output-Token System-1 Decision Engine",
+          "role_id": "Mesin Keputusan Cepat Tanpa Biaya Token Output",
+          "why_en": "Non-autoregressive System-1 model that returns calibrated yes/no, choice, and scoring decisions in a single ~10ms forward pass with zero output token decoding.",
+          "why_id": "Mesin keputusan 'System 1' yang menghasilkan klasifikasi, skor, dan keputusan ya/tidak dalam 1 kali forward pass (~10ms) tanpa biaya token output.",
+          "nameWithOwner": "NandhaKishorM/laya",
+          "url": "https://github.com/NandhaKishorM/laya",
+          "stargazerCount": 34734,
+          "pushedAt": "2026-10-31T07:36:31Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "licenseInfo": {
+            "spdxId": "Apache-2.0"
+          },
+          "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+          "category_en": "4. Zero-Cost AI Ops: Token Compressors, Free AI Gateways & Agent Memory"
+        },
+        {
           "repo": "mksglu/context-mode",
           "role_en": "Context Window Sandbox",
           "role_id": "Optimasi Context Window (Reduksi 98%)",
@@ -1083,8 +2021,8 @@
           "why_id": "Melakukan sandboxing pada output tool berukuran besar (reduksi hingga 98%) sekaligus menyimpan memori sesi.",
           "nameWithOwner": "mksglu/context-mode",
           "url": "https://github.com/mksglu/context-mode",
-          "stargazerCount": 32980,
-          "pushedAt": "2026-10-31T11:09:02Z",
+          "stargazerCount": 32988,
+          "pushedAt": "2026-10-31T12:19:50Z",
           "isArchived": false,
           "primaryLanguage": {
             "name": "TypeScript"
@@ -1096,6 +2034,26 @@
           "category_en": "4. Zero-Cost AI Ops: Token Compressors, Free AI Gateways & Agent Memory"
         },
         {
+          "repo": "lbjlaq/Antigravity-Manager",
+          "role_en": "1-Click Antigravity Account Switcher",
+          "role_id": "Manajer & Pengganti Akun Antigravity 1-Klik",
+          "why_en": "Fast Rust + Tauri desktop utility for seamless one-click account management and quota switching across Antigravity tools.",
+          "why_id": "Aplikasi desktop ringan berbasis Rust & Tauri untuk berpindah akun dan memantau kuota Antigravity hanya dalam satu klik.",
+          "nameWithOwner": "lbjlaq/Antigravity-Manager",
+          "url": "https://github.com/lbjlaq/Antigravity-Manager",
+          "stargazerCount": 32722,
+          "pushedAt": "2026-10-31T10:31:35Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Rust"
+          },
+          "licenseInfo": {
+            "spdxId": "NOASSERTION"
+          },
+          "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
+          "category_en": "4. Zero-Cost AI Ops: Token Compressors, Free AI Gateways & Agent Memory"
+        },
+        {
           "repo": "decolua/9router",
           "role_en": "Multi-Tool Free AI Router",
           "role_id": "Router AI Gratis untuk Coding Agent",
@@ -1103,7 +2061,7 @@
           "why_id": "Menghubungkan berbagai agen coding ke penyedia model LLM gratis dan cadangan secara otomatis.",
           "nameWithOwner": "decolua/9router",
           "url": "https://github.com/decolua/9router",
-          "stargazerCount": 31733,
+          "stargazerCount": 31737,
           "pushedAt": "2026-10-28T09:45:26Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1113,6 +2071,66 @@
             "spdxId": "MIT"
           },
           "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+          "category_en": "4. Zero-Cost AI Ops: Token Compressors, Free AI Gateways & Agent Memory"
+        },
+        {
+          "repo": "rohitg00/agentmemory",
+          "role_en": "Benchmark-#1 Coding Agent Memory",
+          "role_id": "Memori Persisten Agen Coding Berperforma Tinggi",
+          "why_en": "High-accuracy persistent memory engine for AI coding agents so architectural decisions and bug fixes are never forgotten across sessions.",
+          "why_id": "Mesin memori persisten untuk agen coding agar keputusan arsitektur dan histori perbaikan bug selalu diingat di sesi berikutnya.",
+          "nameWithOwner": "rohitg00/agentmemory",
+          "url": "https://github.com/rohitg00/agentmemory",
+          "stargazerCount": 30047,
+          "pushedAt": "2026-10-29T15:58:00Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "Apache-2.0"
+          },
+          "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+          "category_en": "4. Zero-Cost AI Ops: Token Compressors, Free AI Gateways & Agent Memory"
+        },
+        {
+          "repo": "yetone/magpie",
+          "role_en": "Menu-Bar Agent Model Switcher",
+          "role_id": "Pengatur Model Agen dari Menu Bar",
+          "why_en": "Lets you pair any coding agent with any model from your menu bar—run Codex on DeepSeek or Claude Code on Kimi/Gemini effortlessly.",
+          "why_id": "Memudahkan pengaturan model lintas agen langsung dari menu bar—misalnya menjalankan Codex dengan DeepSeek atau Claude Code dengan Kimi.",
+          "nameWithOwner": "yetone/magpie",
+          "url": "https://github.com/yetone/magpie",
+          "stargazerCount": 26706,
+          "pushedAt": "2026-10-31T12:48:18Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Go"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+          "category_en": "4. Zero-Cost AI Ops: Token Compressors, Free AI Gateways & Agent Memory"
+        },
+        {
+          "repo": "weave-os/router",
+          "role_en": "Sub-50ms Cost-Saving Prompt Router",
+          "role_id": "Router Prompt Pintar (Pangkas Biaya 40–70%)",
+          "why_en": "Evaluates and routes every agent prompt to the most cost-effective capable model in under 50ms, slashing API bills by 40–70%.",
+          "why_id": "Mengarahkan setiap prompt ke model yang paling pas dan hemat biaya dalam waktu <50ms, memangkas tagihan API sebesar 40–70%.",
+          "nameWithOwner": "weave-os/router",
+          "url": "https://github.com/weave-os/router",
+          "stargazerCount": 5601,
+          "pushedAt": "2026-10-31T08:26:35Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Go"
+          },
+          "licenseInfo": {
+            "spdxId": "Apache-2.0"
+          },
+          "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
           "category_en": "4. Zero-Cost AI Ops: Token Compressors, Free AI Gateways & Agent Memory"
         }
       ]
@@ -1125,6 +2143,46 @@
       "desc_id": "Distribusi adalah kunci utama solopreneur. Otomatisasi pembuatan video pendek, video peluncuran produk dengan kode, rekaman layar estetik, hingga kloning suara lokal.",
       "active": [
         {
+          "repo": "yt-dlp/yt-dlp",
+          "role_en": "Universal Media Ingestion CLI",
+          "role_id": "CLI Pengunduh Video/Audio Lintas Platform",
+          "why_en": "The backbone CLI for downloading reference videos, podcasts, and competitor reels from 1,000+ sites into your local AI clipping/repurposing pipelines.",
+          "why_id": "Alat wajib di balik layar untuk mengunduh video referensi, podcast, dan konten kompetitor dari 1.000+ situs ke pipeline pengeditan AI lokal.",
+          "nameWithOwner": "yt-dlp/yt-dlp",
+          "url": "https://github.com/yt-dlp/yt-dlp",
+          "stargazerCount": 204106,
+          "pushedAt": "2026-10-29T20:36:18Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "licenseInfo": {
+            "spdxId": "Unlicense"
+          },
+          "description": "A feature-rich command-line audio/video downloader",
+          "category_en": "5. Content Factory, Programmatic Video & Creative Suite (Organic Distribution)"
+        },
+        {
+          "repo": "Comfy-Org/ComfyUI",
+          "role_en": "Node-Based Local Diffusion Studio",
+          "role_id": "Studio Generasi Gambar & Video AI Lokal",
+          "why_en": "The fastest modular diffusion GUI and backend for generating product mockups, YouTube thumbnails, consistent brand characters, and local AI video.",
+          "why_id": "Mesin visual berbasis node paling kuat untuk membuat gambar produk, thumbnail YouTube, aset iklan, dan video AI secara lokal.",
+          "nameWithOwner": "Comfy-Org/ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "stargazerCount": 144281,
+          "pushedAt": "2026-10-31T10:16:07Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "licenseInfo": {
+            "spdxId": "GPL-3.0"
+          },
+          "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+          "category_en": "5. Content Factory, Programmatic Video & Creative Suite (Organic Distribution)"
+        },
+        {
           "repo": "harry0703/MoneyPrinterTurbo",
           "role_en": "Automated Short-Video Generator",
           "role_id": "Generator Video Pendek Otomatis",
@@ -1132,7 +2190,7 @@
           "why_id": "Menghasilkan video pendek HD untuk TikTok, Reels, dan Shorts secara otomatis hanya dari satu topik atau kata kunci.",
           "nameWithOwner": "harry0703/MoneyPrinterTurbo",
           "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-          "stargazerCount": 136733,
+          "stargazerCount": 136763,
           "pushedAt": "2026-10-31T09:57:14Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1152,8 +2210,8 @@
           "why_id": "Studio kloning suara, desain suara, sulih suara (dubbing) video, dan TTS yang berjalan 100% lokal tanpa biaya langganan.",
           "nameWithOwner": "debpalash/VoiceStudio",
           "url": "https://github.com/debpalash/VoiceStudio",
-          "stargazerCount": 96225,
-          "pushedAt": "2026-10-31T11:10:52Z",
+          "stargazerCount": 96301,
+          "pushedAt": "2026-10-31T11:44:18Z",
           "isArchived": false,
           "primaryLanguage": {
             "name": "Python"
@@ -1172,7 +2230,7 @@
           "why_id": "Tulis HTML/CSS dan render menjadi video motion graphics berstandar studio—dirancang khusus untuk dieksekusi agen AI.",
           "nameWithOwner": "heygen-com/hyperframes",
           "url": "https://github.com/heygen-com/hyperframes",
-          "stargazerCount": 76270,
+          "stargazerCount": 76312,
           "pushedAt": "2026-10-31T09:51:56Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1192,7 +2250,7 @@
           "why_id": "Editor foto open-source super cepat yang ditulis dari nol dengan Rust sebagai alternatif ringan Photoshop.",
           "nameWithOwner": "storytold/photocraft",
           "url": "https://github.com/storytold/photocraft",
-          "stargazerCount": 75363,
+          "stargazerCount": 75395,
           "pushedAt": "2026-10-31T05:14:33Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1212,7 +2270,7 @@
           "why_id": "Sistem produksi video berbasis agen dengan 12 pipeline otomatis dari penulisan naskah hingga rendering akhir.",
           "nameWithOwner": "calesthio/OpenMontage",
           "url": "https://github.com/calesthio/OpenMontage",
-          "stargazerCount": 73697,
+          "stargazerCount": 73740,
           "pushedAt": "2026-10-28T21:46:02Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1232,7 +2290,7 @@
           "why_id": "Mengubah dokumen atau topik menjadi file presentasi PowerPoint asli lengkap dengan grafik, shape, dan animasi.",
           "nameWithOwner": "hugohe3/ppt-master",
           "url": "https://github.com/hugohe3/ppt-master",
-          "stargazerCount": 71514,
+          "stargazerCount": 71539,
           "pushedAt": "2026-10-30T06:05:44Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1252,8 +2310,8 @@
           "why_id": "Membuat video peluncuran produk dan konten sosial media dinamis secara terprogram menggunakan komponen React.",
           "nameWithOwner": "remotion-dev/remotion",
           "url": "https://github.com/remotion-dev/remotion",
-          "stargazerCount": 69259,
-          "pushedAt": "2026-10-31T09:02:54Z",
+          "stargazerCount": 69275,
+          "pushedAt": "2026-10-31T12:44:07Z",
           "isArchived": false,
           "primaryLanguage": {
             "name": "TypeScript"
@@ -1272,7 +2330,7 @@
           "why_id": "Kloning suara, dikte, dan buat narasi suara berkualitas tinggi untuk konten video maupun produk digital.",
           "nameWithOwner": "jamiepine/voicebox",
           "url": "https://github.com/jamiepine/voicebox",
-          "stargazerCount": 59096,
+          "stargazerCount": 59100,
           "pushedAt": "2026-10-07T01:17:58Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1285,6 +2343,46 @@
           "category_en": "5. Content Factory, Programmatic Video & Creative Suite (Organic Distribution)"
         },
         {
+          "repo": "OpenBMB/VoxCPM",
+          "role_en": "Tokenizer-Free Multilingual Voice Cloning",
+          "role_id": "TTS & Kloning Suara Multibahasa Realistis",
+          "why_en": "VoxCPM2 delivers lifelike multilingual speech generation, emotional voice design, and zero-shot voice cloning on local hardware.",
+          "why_id": "Menghasilkan narasi suara multibahasa yang sangat natural, desain karakter suara, dan kloning suara instan tanpa biaya berlangganan.",
+          "nameWithOwner": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "stargazerCount": 40903,
+          "pushedAt": "2026-10-08T03:26:41Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "licenseInfo": {
+            "spdxId": "Apache-2.0"
+          },
+          "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+          "category_en": "5. Content Factory, Programmatic Video & Creative Suite (Organic Distribution)"
+        },
+        {
+          "repo": "storytold/artcraft",
+          "role_en": "Pure-Rust Adobe Creative Cloud Suite",
+          "role_id": "Ekosistem Pengganti Adobe Creative Cloud (Pure Rust)",
+          "why_en": "The umbrella engine behind FilmCraft (Premiere), VectorCraft (Illustrator), EffectCraft (After Effects), LightCraft (Lightroom), and WordCraft.",
+          "why_id": "Ekosistem aplikasi kreatif open-source berbasis Rust yang menggantikan Premiere (FilmCraft), Illustrator (VectorCraft), dan After Effects (EffectCraft).",
+          "nameWithOwner": "storytold/artcraft",
+          "url": "https://github.com/storytold/artcraft",
+          "stargazerCount": 37925,
+          "pushedAt": "2026-10-29T19:34:43Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Rust"
+          },
+          "licenseInfo": {
+            "spdxId": "Apache-2.0"
+          },
+          "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+          "category_en": "5. Content Factory, Programmatic Video & Creative Suite (Organic Distribution)"
+        },
+        {
           "repo": "webadderallorg/Recordly",
           "role_en": "Open-Source Screen Studio",
           "role_id": "Alternatif Gratis Screen Studio",
@@ -1292,7 +2390,7 @@
           "why_id": "Membuat video demo produk SaaS yang sangat mulus dengan efek zoom kursor otomatis tanpa keahlian editing.",
           "nameWithOwner": "webadderallorg/Recordly",
           "url": "https://github.com/webadderallorg/Recordly",
-          "stargazerCount": 35690,
+          "stargazerCount": 35702,
           "pushedAt": "2026-10-24T03:35:21Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1305,6 +2403,46 @@
           "category_en": "5. Content Factory, Programmatic Video & Creative Suite (Organic Distribution)"
         },
         {
+          "repo": "Anil-matcha/Open-Generative-AI",
+          "role_en": "Self-Hosted 600-Model Media Studio",
+          "role_id": "Studio Gambar & Video AI Mandiri (600+ Model)",
+          "why_en": "Open-source, self-hosted AI image and video generation workspace supporting Flux, Kling, Sora, Veo, and Wan in one unified UI.",
+          "why_id": "Studio pembuatan gambar dan video AI mandiri yang mendukung integrasi lebih dari 600 model (Flux, Kling, Sora, Veo, Wan).",
+          "nameWithOwner": "Anil-matcha/Open-Generative-AI",
+          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+          "stargazerCount": 31911,
+          "pushedAt": "2026-10-29T13:48:50Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "JavaScript"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+          "category_en": "5. Content Factory, Programmatic Video & Creative Suite (Organic Distribution)"
+        },
+        {
+          "repo": "browser-use/video-use",
+          "role_en": "Agentic Video Editing Engine",
+          "role_id": "Pengeditan Video Otonom dengan Agen Coding",
+          "why_en": "Lets coding agents autonomously cut, stitch, caption, and edit product and social videos through natural-language instructions.",
+          "why_id": "Memungkinkan agen coding mengedit, memotong, dan merakit video secara otomatis menggunakan perintah teks.",
+          "nameWithOwner": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "stargazerCount": 30255,
+          "pushedAt": "2026-10-08T22:17:01Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "Edit videos with coding agents",
+          "category_en": "5. Content Factory, Programmatic Video & Creative Suite (Organic Distribution)"
+        },
+        {
           "repo": "hypit-ai/hypit",
           "role_en": "Viral Video Format Cloner",
           "role_id": "Pengkloning Format Video Viral",
@@ -1312,8 +2450,8 @@
           "why_id": "Mengkloning alur video viral secara utuh dengan agen AI—mulai dari adaptasi naskah, B-roll, hingga pengeditan otomatis.",
           "nameWithOwner": "hypit-ai/hypit",
           "url": "https://github.com/hypit-ai/hypit",
-          "stargazerCount": 27003,
-          "pushedAt": "2026-10-31T11:07:18Z",
+          "stargazerCount": 27020,
+          "pushedAt": "2026-10-31T12:46:53Z",
           "isArchived": false,
           "primaryLanguage": {
             "name": "TypeScript"
@@ -1325,6 +2463,26 @@
           "category_en": "5. Content Factory, Programmatic Video & Creative Suite (Organic Distribution)"
         },
         {
+          "repo": "guillaumemeyer/watermarks-remover",
+          "role_en": "Local AI Asset Watermark Cleaner",
+          "role_id": "Pembersih Watermark Aset Visual Lokal",
+          "why_en": "Privacy-first local application that cleanly removes watermarks from visual assets and drafts that you own.",
+          "why_id": "Aplikasi lokal dengan privasi penuh untuk membersihkan watermark dari aset gambar atau draf visual milikmu sendiri.",
+          "nameWithOwner": "guillaumemeyer/watermarks-remover",
+          "url": "https://github.com/guillaumemeyer/watermarks-remover",
+          "stargazerCount": 25717,
+          "pushedAt": "2026-10-26T20:26:14Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "A privacy-first app that strips AI watermarks from content you own.",
+          "category_en": "5. Content Factory, Programmatic Video & Creative Suite (Organic Distribution)"
+        },
+        {
           "repo": "CapSoftware/Cap",
           "role_en": "Open-Source Loom Alternative",
           "role_id": "Alternatif Open-Source Loom",
@@ -1332,7 +2490,7 @@
           "why_id": "Perekam layar instan yang rapi dan mudah dibagikan untuk demo produk, onboarding klien, maupun panduan support.",
           "nameWithOwner": "CapSoftware/Cap",
           "url": "https://github.com/CapSoftware/Cap",
-          "stargazerCount": 24177,
+          "stargazerCount": 24181,
           "pushedAt": "2026-10-30T17:30:38Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1345,6 +2503,126 @@
           "category_en": "5. Content Factory, Programmatic Video & Creative Suite (Organic Distribution)"
         },
         {
+          "repo": "jianchang512/pyvideotrans",
+          "role_en": "Global Video Translator & Dubber",
+          "role_id": "Penerjemah & Sulih Suara (Dubbing) Video Otomatis",
+          "why_en": "Translates videos into any language with automatic speech recognition, translated subtitles, and voice-cloned audio dubbing to reach global markets.",
+          "why_id": "Menerjemahkan video promosi ke berbagai bahasa lengkap dengan subtitle dan sulih suara (dubbing) otomatis agar produkmu bisa menembus pasar global.",
+          "nameWithOwner": "jianchang512/pyvideotrans",
+          "url": "https://github.com/jianchang512/pyvideotrans",
+          "stargazerCount": 19601,
+          "pushedAt": "2026-10-31T03:52:31Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "licenseInfo": {
+            "spdxId": "GPL-3.0"
+          },
+          "description": "Translate the video from one language to another and embed dubbing & subtitles.",
+          "category_en": "5. Content Factory, Programmatic Video & Creative Suite (Organic Distribution)"
+        },
+        {
+          "repo": "chatfire-AI/huobao-drama",
+          "role_en": "1-Prompt Short Drama & Story Studio",
+          "role_id": "Studio Pembuat Drama Pendek & Storytelling AI",
+          "why_en": "End-to-end AI video platform that turns a single sentence or product story into a complete multi-shot short drama from script to final render.",
+          "why_id": "Platform otomatis untuk mengubah satu kalimat ide menjadi video cerita/drama pendek utuh mulai dari naskah, storyboard, hingga video akhir.",
+          "nameWithOwner": "chatfire-AI/huobao-drama",
+          "url": "https://github.com/chatfire-AI/huobao-drama",
+          "stargazerCount": 16833,
+          "pushedAt": "2026-10-25T13:43:23Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Vue"
+          },
+          "licenseInfo": {
+            "spdxId": "NOASSERTION"
+          },
+          "description": "🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator \"One Sentence to Complete Drama: Fully Automated from Script to Final Video\"",
+          "category_en": "5. Content Factory, Programmatic Video & Creative Suite (Organic Distribution)"
+        },
+        {
+          "repo": "Vincentwei1021/video-shotcraft",
+          "role_en": "124-Recipe Remotion Promo Skill",
+          "role_id": "Skill 124 Resep Video Promo Sinematik (Remotion)",
+          "why_en": "Claude Code & Codex skill featuring 124 shot recipe cards, beat sync, and sound design to generate cinematic product promo videos with Remotion.",
+          "why_id": "Skill khusus Claude Code & Codex berisi 124 resep shot sinematik, sinkronisasi ketukan musik, dan efek suara untuk membuat video promo produk.",
+          "nameWithOwner": "Vincentwei1021/video-shotcraft",
+          "url": "https://github.com/Vincentwei1021/video-shotcraft",
+          "stargazerCount": 15338,
+          "pushedAt": "2026-10-29T16:17:26Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "Apache-2.0"
+          },
+          "description": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.",
+          "category_en": "5. Content Factory, Programmatic Video & Creative Suite (Organic Distribution)"
+        },
+        {
+          "repo": "krillinai/OpenCreator",
+          "role_en": "All-in-One AI Creator Workspace",
+          "role_id": "Workspace Kreator Konten Sosmed All-in-One",
+          "why_en": "Unified creator workspace for video downloading, multilingual dubbing, avatar generation, and agent-assisted social media editing.",
+          "why_id": "Ruang kerja terpadu untuk kreator: unduh video, terjemahan dubbing, pembuatan avatar, dan pengeditan konten YouTube/TikTok/IG dengan agen.",
+          "nameWithOwner": "krillinai/OpenCreator",
+          "url": "https://github.com/krillinai/OpenCreator",
+          "stargazerCount": 14049,
+          "pushedAt": "2026-10-30T23:24:28Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "Apache-2.0"
+          },
+          "description": "Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powered by Codex. Video downloading, video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc.",
+          "category_en": "5. Content Factory, Programmatic Video & Creative Suite (Organic Distribution)"
+        },
+        {
+          "repo": "jub0t/Concat",
+          "role_en": "Scriptable Open-Source CapCut + MCP",
+          "role_id": "Alternatif Gratis CapCut + Dukungan API/MCP",
+          "why_en": "Free, local-first, cross-platform CapCut replacement that can be used manually or automated by AI agents via JSON-RPC API and MCP.",
+          "why_id": "Pengganti CapCut yang 100% gratis, berjalan lokal, dan bisa dikendalikan secara otomatis oleh agen AI melalui JSON-RPC API maupun MCP.",
+          "nameWithOwner": "jub0t/Concat",
+          "url": "https://github.com/jub0t/Concat",
+          "stargazerCount": 13009,
+          "pushedAt": "2026-10-28T10:25:43Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Rust"
+          },
+          "licenseInfo": {
+            "spdxId": "AGPL-3.0"
+          },
+          "description": "The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.",
+          "category_en": "5. Content Factory, Programmatic Video & Creative Suite (Organic Distribution)"
+        },
+        {
+          "repo": "presenton/presenton",
+          "role_en": "Open-Source Gamma / Canva Decks + API",
+          "role_id": "Alternatif Open-Source Gamma.app & Pitch Deck API",
+          "why_en": "Self-hosted AI presentation generator and REST API to automate sales decks, client reports, and carousel slides (Gamma/Beautiful.ai replacement).",
+          "why_id": "Generator presentasi AI mandiri lengkap dengan API untuk mengotomatiskan pembuatan sales deck dan laporan klien (pengganti Gamma.app).",
+          "nameWithOwner": "presenton/presenton",
+          "url": "https://github.com/presenton/presenton",
+          "stargazerCount": 11566,
+          "pushedAt": "2026-10-30T05:48:05Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "Apache-2.0"
+          },
+          "description": "Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative)",
+          "category_en": "5. Content Factory, Programmatic Video & Creative Suite (Organic Distribution)"
+        },
+        {
           "repo": "zhouxiaoka/autoclip",
           "role_en": "1-Click Podcast/Video Clipper",
           "role_id": "Pemotong Podcast & Video Otomatis",
@@ -1352,7 +2630,7 @@
           "why_id": "Aplikasi pemotong video panjang/podcast menjadi klip pendek otomatis lengkap dengan subtitle, sampul, dan caption sosmed.",
           "nameWithOwner": "zhouxiaoka/autoclip",
           "url": "https://github.com/zhouxiaoka/autoclip",
-          "stargazerCount": 9886,
+          "stargazerCount": 9891,
           "pushedAt": "2026-10-31T07:31:06Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1372,7 +2650,7 @@
           "why_id": "Memotong video panjang menjadi video vertikal 9:16 viral lengkap dengan deteksi momen AI, pelacakan wajah, dan subtitle.",
           "nameWithOwner": "mutonby/openshorts",
           "url": "https://github.com/mutonby/openshorts",
-          "stargazerCount": 7361,
+          "stargazerCount": 7365,
           "pushedAt": "2026-10-30T17:47:00Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1401,7 +2679,7 @@
           "why_id": "Menghapus gaya bahasa kaku khas AI dari artikel blog, email penawaran, dan utas media sosial agar terasa natural.",
           "nameWithOwner": "blader/humanizer",
           "url": "https://github.com/blader/humanizer",
-          "stargazerCount": 62839,
+          "stargazerCount": 62861,
           "pushedAt": "2026-10-28T07:17:33Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1421,8 +2699,8 @@
           "why_id": "CRM open-source modern (alternatif Attio/HubSpot) untuk melacak prospek B2B dan pipeline penjualan.",
           "nameWithOwner": "twentyhq/twenty",
           "url": "https://github.com/twentyhq/twenty",
-          "stargazerCount": 60200,
-          "pushedAt": "2026-10-31T11:10:36Z",
+          "stargazerCount": 60204,
+          "pushedAt": "2026-10-31T12:47:34Z",
           "isArchived": false,
           "primaryLanguage": {
             "name": "TypeScript"
@@ -1441,7 +2719,7 @@
           "why_id": "Membekali agen AI dengan kerangka kerja optimasi konversi (CRO), copywriting halaman penjualan, dan strategi growth.",
           "nameWithOwner": "coreyhaines31/marketingskills",
           "url": "https://github.com/coreyhaines31/marketingskills",
-          "stargazerCount": 57596,
+          "stargazerCount": 57611,
           "pushedAt": "2026-10-31T00:53:07Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1454,6 +2732,26 @@
           "category_en": "6. Go-To-Market: SEO/GEO, Paid Ads, Social Scheduling & WhatsApp CRM"
         },
         {
+          "repo": "TryGhost/Ghost",
+          "role_en": "SEO Publishing, Newsletter & Memberships",
+          "role_id": "CMS Blog SEO, Newsletter & Membership Berbayar",
+          "why_en": "The gold-standard open-source platform for SEO content marketing, email newsletters, and paid subscriber communities (Substack/Medium alternative).",
+          "why_id": "Platform open-source terbaik untuk membangun mesin konten artikel SEO, newsletter email, dan keanggotaan berbayar tanpa potongan komisi platform.",
+          "nameWithOwner": "TryGhost/Ghost",
+          "url": "https://github.com/TryGhost/Ghost",
+          "stargazerCount": 55644,
+          "pushedAt": "2026-10-31T12:25:41Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
+          "category_en": "6. Go-To-Market: SEO/GEO, Paid Ads, Social Scheduling & WhatsApp CRM"
+        },
+        {
           "repo": "calcom/cal.diy",
           "role_en": "Self-Hosted Scheduling Infra",
           "role_id": "Infrastruktur Booking & Jadwal (Calendly)",
@@ -1461,7 +2759,7 @@
           "why_id": "Alternatif Calendly open-source untuk penjadwalan sales call, konsultasi berbayar, atau sesi onboarding pelanggan.",
           "nameWithOwner": "calcom/cal.diy",
           "url": "https://github.com/calcom/cal.diy",
-          "stargazerCount": 49582,
+          "stargazerCount": 49586,
           "pushedAt": "2026-10-30T18:24:06Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1481,7 +2779,7 @@
           "why_id": "Platform penjadwalan konten sosmed (X, LinkedIn, IG, TikTok, Reddit, Threads) lengkap dengan penulis AI dan analitik.",
           "nameWithOwner": "gitroomhq/postiz-app",
           "url": "https://github.com/gitroomhq/postiz-app",
-          "stargazerCount": 40273,
+          "stargazerCount": 40283,
           "pushedAt": "2026-10-31T08:28:04Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1494,6 +2792,26 @@
           "category_en": "6. Go-To-Market: SEO/GEO, Paid Ads, Social Scheduling & WhatsApp CRM"
         },
         {
+          "repo": "novuhq/novu",
+          "role_en": "Omni-Channel Notification Infrastructure",
+          "role_id": "Infrastruktur Notifikasi Produk (Email, In-App, Push, WA)",
+          "why_en": "Open-source notification engine to orchestrate in-app inbox alerts, transactional emails, push notifications, and SMS across your product.",
+          "why_id": "Infrastruktur terpusat untuk mengatur pengiriman notifikasi di dalam aplikasi (in-app), email, push notification, dan SMS ke pengguna.",
+          "nameWithOwner": "novuhq/novu",
+          "url": "https://github.com/novuhq/novu",
+          "stargazerCount": 40242,
+          "pushedAt": "2026-10-31T08:05:23Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "NOASSERTION"
+          },
+          "description": "The open-source communication infrastructure for agents and products",
+          "category_en": "6. Go-To-Market: SEO/GEO, Paid Ads, Social Scheduling & WhatsApp CRM"
+        },
+        {
           "repo": "every-app/open-seo",
           "role_en": "Open-Source Semrush & Ahrefs",
           "role_id": "Alternatif Open-Source Semrush & Ahrefs",
@@ -1501,7 +2819,7 @@
           "why_id": "Riset kata kunci, analisis backlink, dan audit SEO situs secara menyeluruh tanpa biaya langganan ratusan dolar per bulan.",
           "nameWithOwner": "every-app/open-seo",
           "url": "https://github.com/every-app/open-seo",
-          "stargazerCount": 25847,
+          "stargazerCount": 25858,
           "pushedAt": "2026-10-31T02:28:19Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1514,6 +2832,26 @@
           "category_en": "6. Go-To-Market: SEO/GEO, Paid Ads, Social Scheduling & WhatsApp CRM"
         },
         {
+          "repo": "dubinc/dub.link",
+          "role_en": "Link Attribution & Affiliate Engine",
+          "role_id": "Platform Shortlink & Pelacak Konversi Marketing",
+          "why_en": "Modern link attribution platform that tracks exactly which social post, campaign, or affiliate link converts into signups and paying customers.",
+          "why_id": "Platform manajemen tautan modern untuk melacak secara akurat postingan sosmed, iklan, atau afiliasi mana yang menghasilkan penjualan nyata.",
+          "nameWithOwner": "dubinc/dub.link",
+          "url": "https://github.com/dubinc/dub.link",
+          "stargazerCount": 25053,
+          "pushedAt": "2026-10-27T02:24:37Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "NOASSERTION"
+          },
+          "description": "The modern link attribution platform. Loved by world-class engineering teams at Twilio, Zillow, Jobber, Vercel, Raycast, and more.",
+          "category_en": "6. Go-To-Market: SEO/GEO, Paid Ads, Social Scheduling & WhatsApp CRM"
+        },
+        {
           "repo": "AgriciDaniel/claude-seo",
           "role_en": "26-Skill Technical SEO Suite",
           "role_id": "Paket Lengkap 26 Skill Audit SEO",
@@ -1521,7 +2859,7 @@
           "why_id": "Sistem audit SEO komprehensif berisi 26 sub-skill dan 19 sub-agen untuk SEO teknis, schema markup, dan E-E-A-T.",
           "nameWithOwner": "AgriciDaniel/claude-seo",
           "url": "https://github.com/AgriciDaniel/claude-seo",
-          "stargazerCount": 24744,
+          "stargazerCount": 24787,
           "pushedAt": "2026-10-22T16:47:40Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1541,7 +2879,7 @@
           "why_id": "Manajer newsletter dan email marketing berkinerja tinggi dalam 1 file binary—sangat murah jika dipadukan dengan Amazon SES.",
           "nameWithOwner": "knadh/listmonk",
           "url": "https://github.com/knadh/listmonk",
-          "stargazerCount": 24091,
+          "stargazerCount": 24094,
           "pushedAt": "2026-10-31T07:01:23Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1561,7 +2899,7 @@
           "why_id": "Membuat template email transaksional dan onboarding yang rapi di semua klien email menggunakan komponen React.",
           "nameWithOwner": "resend/react-email",
           "url": "https://github.com/resend/react-email",
-          "stargazerCount": 19899,
+          "stargazerCount": 19901,
           "pushedAt": "2026-10-30T18:57:17Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1571,6 +2909,26 @@
             "spdxId": "MIT"
           },
           "description": "💌 Build and send emails using React",
+          "category_en": "6. Go-To-Market: SEO/GEO, Paid Ads, Social Scheduling & WhatsApp CRM"
+        },
+        {
+          "repo": "postalserver/postal",
+          "role_en": "Self-Hosted SendGrid / Mailgun",
+          "role_id": "Server Pengiriman Email Transaksional Mandiri",
+          "why_en": "Full-featured open-source mail delivery platform for sending high-volume transactional and marketing emails from your own infrastructure.",
+          "why_id": "Platform pengiriman email masuk & keluar mandiri sebagai pengganti SendGrid, Mailgun, atau Postmark untuk skala volume tinggi.",
+          "nameWithOwner": "postalserver/postal",
+          "url": "https://github.com/postalserver/postal",
+          "stargazerCount": 16910,
+          "pushedAt": "2026-10-30T01:36:30Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Ruby"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail",
           "category_en": "6. Go-To-Market: SEO/GEO, Paid Ads, Social Scheduling & WhatsApp CRM"
         },
         {
@@ -1601,7 +2959,7 @@
           "why_id": "Mengoptimalkan struktur web agar produk dan bisnismu dikutip serta direkomendasikan oleh ChatGPT, Perplexity, dan Google AI.",
           "nameWithOwner": "zubair-trabzada/geo-seo-claude",
           "url": "https://github.com/zubair-trabzada/geo-seo-claude",
-          "stargazerCount": 11384,
+          "stargazerCount": 11385,
           "pushedAt": "2026-10-31T06:24:54Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1621,7 +2979,7 @@
           "why_id": "Mengelola dan mengaudit kampanye iklan berbayar di Google, Meta, YouTube, LinkedIn, dan TikTok untuk memaksimalkan ROAS.",
           "nameWithOwner": "AgriciDaniel/claude-ads",
           "url": "https://github.com/AgriciDaniel/claude-ads",
-          "stargazerCount": 10614,
+          "stargazerCount": 10616,
           "pushedAt": "2026-10-17T01:35:42Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1634,6 +2992,26 @@
           "category_en": "6. Go-To-Market: SEO/GEO, Paid Ads, Social Scheduling & WhatsApp CRM"
         },
         {
+          "repo": "growthbook/growthbook",
+          "role_en": "Feature Flags & A/B Testing Suite",
+          "role_id": "Platform Feature Flags & Eksperimen A/B Testing",
+          "why_en": "Run scientific A/B tests on your landing page headlines, onboarding flows, and pricing tiers to maximize conversion rates.",
+          "why_id": "Jalankan eksperimen A/B testing pada judul landing page, alur registrasi, dan tabel harga untuk melipatgandakan rasio konversi.",
+          "nameWithOwner": "growthbook/growthbook",
+          "url": "https://github.com/growthbook/growthbook",
+          "stargazerCount": 8551,
+          "pushedAt": "2026-10-31T02:55:08Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "NOASSERTION"
+          },
+          "description": "Open Source Feature Flags, Experimentation, and Product Analytics",
+          "category_en": "6. Go-To-Market: SEO/GEO, Paid Ads, Social Scheduling & WhatsApp CRM"
+        },
+        {
           "repo": "devlikeapro/waha",
           "role_en": "WhatsApp HTTP API + MCP",
           "role_id": "REST API WhatsApp + Dukungan MCP",
@@ -1641,7 +3019,7 @@
           "why_id": "REST API WhatsApp self-hosted yang bisa dipasang dalam 1 klik dan sudah mendukung integrasi MCP server.",
           "nameWithOwner": "devlikeapro/waha",
           "url": "https://github.com/devlikeapro/waha",
-          "stargazerCount": 7717,
+          "stargazerCount": 7718,
           "pushedAt": "2026-10-28T09:40:49Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1661,7 +3039,7 @@
           "why_id": "Menghubungkan data Google Ads, Meta Ads, Google Analytics 4, dan Search Console langsung ke agen AI atau n8n.",
           "nameWithOwner": "irinabuht12-oss/google-ads-meta-ads-mcp",
           "url": "https://github.com/irinabuht12-oss/google-ads-meta-ads-mcp",
-          "stargazerCount": 6567,
+          "stargazerCount": 6575,
           "pushedAt": "2026-10-27T08:57:57Z",
           "isArchived": false,
           "primaryLanguage": null,
@@ -1669,6 +3047,26 @@
             "spdxId": "MIT"
           },
           "description": "Google Ads MCP server + Meta Ads MCP (Facebook Ads MCP) + Google Analytics MCP (GA4) + Search Console in one hosted remote MCP for Claude, ChatGPT, Cursor & n8n: OAuth login, no API keys, approval-gated writes, 7-day free trial. By Ryze AI.",
+          "category_en": "6. Go-To-Market: SEO/GEO, Paid Ads, Social Scheduling & WhatsApp CRM"
+        },
+        {
+          "repo": "NdoleStudio/httpsms",
+          "role_en": "Zero-Fee Android HTTP SMS Gateway",
+          "role_id": "Gateway SMS Gratis Menggunakan HP Android Sendiri",
+          "why_en": "Turns your spare Android phone into a programmatic HTTP SMS gateway—send OTPs, booking reminders, and alerts using your local SIM plan instead of Twilio.",
+          "why_id": "Mengubah HP Android menjadi SMS Gateway berbasis HTTP API—kirim OTP dan pengingat pelanggan memakai paket SMS kartu SIM lokal tanpa biaya mahal Twilio.",
+          "nameWithOwner": "NdoleStudio/httpsms",
+          "url": "https://github.com/NdoleStudio/httpsms",
+          "stargazerCount": 6149,
+          "pushedAt": "2026-10-30T00:22:05Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Go"
+          },
+          "licenseInfo": {
+            "spdxId": "AGPL-3.0"
+          },
+          "description": "Send and receive SMS messages using your Android phone programmatically via a simple HTTP API",
           "category_en": "6. Go-To-Market: SEO/GEO, Paid Ads, Social Scheduling & WhatsApp CRM"
         },
         {
@@ -1680,7 +3078,7 @@
           "nameWithOwner": "melgarafael/DeskcommCRM",
           "url": "https://github.com/melgarafael/DeskcommCRM",
           "stargazerCount": 4994,
-          "pushedAt": "2026-10-31T10:31:51Z",
+          "pushedAt": "2026-10-31T12:31:29Z",
           "isArchived": false,
           "primaryLanguage": {
             "name": "TypeScript"
@@ -1689,6 +3087,106 @@
             "spdxId": "MIT"
           },
           "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+          "category_en": "6. Go-To-Market: SEO/GEO, Paid Ads, Social Scheduling & WhatsApp CRM"
+        },
+        {
+          "repo": "darkzOGx/youtube-automation-agent",
+          "role_en": "Autonomous YouTube Channel Operator",
+          "role_id": "Agen AI Pengelola Kanal YouTube Otomatis Hulu-Hilir",
+          "why_en": "Self-hosted AI agent that runs a YouTube channel end-to-end: topic research, scriptwriting, voiceover, video rendering, SEO metadata, and publishing.",
+          "why_id": "Agen AI mandiri yang mengoperasikan kanal YouTube dari hulu ke hilir: riset topik, penulisan naskah, narasi, pembuatan video, optimasi SEO, hingga upload.",
+          "nameWithOwner": "darkzOGx/youtube-automation-agent",
+          "url": "https://github.com/darkzOGx/youtube-automation-agent",
+          "stargazerCount": 4900,
+          "pushedAt": "2026-10-27T00:50:41Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "JavaScript"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "🎬 Open-source, self-hosted AI agent that runs a YouTube channel end to end: researches topics, writes scripts, generates narration, visuals and video, optimizes SEO, and publishes after your approval, then learns from analytics. Works with Gemini, OpenAI, OpenRouter, DeepSeek and more.",
+          "category_en": "6. Go-To-Market: SEO/GEO, Paid Ads, Social Scheduling & WhatsApp CRM"
+        },
+        {
+          "repo": "nowork-studio/notfair-plugin",
+          "role_en": "Agentic SEO, GEO & Growth Plugin",
+          "role_id": "Plugin Skill SEO, GEO & Growth untuk Agen Coding",
+          "why_en": "Equips coding agents with actionable SEO, Generative Engine Optimization (GEO), and technical growth marketing workflows.",
+          "why_id": "Membekali agen coding dengan alur kerja otomatis untuk optimasi SEO, visibilitas di mesin pencari AI (GEO), dan growth hacking.",
+          "nameWithOwner": "nowork-studio/notfair-plugin",
+          "url": "https://github.com/nowork-studio/notfair-plugin",
+          "stargazerCount": 4087,
+          "pushedAt": "2026-10-30T02:35:26Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "Open-source SEO, GEO, and marketing skills for AI agents.",
+          "category_en": "6. Go-To-Market: SEO/GEO, Paid Ads, Social Scheduling & WhatsApp CRM"
+        },
+        {
+          "repo": "dittofeed/dittofeed",
+          "role_en": "Behavioral Drip & Onboarding Automation",
+          "role_id": "Otomatisasi Drip Email & Onboarding (Pengganti Customer.io)",
+          "why_en": "Open-source customer engagement platform (Customer.io / Loops alternative) to trigger behavioral onboarding emails, trial nudges, and churn win-backs.",
+          "why_id": "Platform otomatisasi pesan berbasis perilaku user (pengganti Customer.io / Loops) untuk urutan email onboarding, pengingat masa trial, dan pencegahan churn.",
+          "nameWithOwner": "dittofeed/dittofeed",
+          "url": "https://github.com/dittofeed/dittofeed",
+          "stargazerCount": 3031,
+          "pushedAt": "2026-10-12T20:18:37Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨",
+          "category_en": "6. Go-To-Market: SEO/GEO, Paid Ads, Social Scheduling & WhatsApp CRM"
+        },
+        {
+          "repo": "ArnasDon/wacrm",
+          "role_en": "Self-Hostable WhatsApp Pipeline CRM",
+          "role_id": "CRM Pipeline Penjualan & Broadcast WhatsApp",
+          "why_en": "Ready-to-fork WhatsApp CRM featuring a shared inbox, contact management, visual sales pipelines, mass broadcasts, and no-code automations.",
+          "why_id": "CRM WhatsApp mandiri lengkap dengan kotak masuk bersama, manajemen kontak, pipeline penjualan visual, broadcast, dan otomasi tanpa kode.",
+          "nameWithOwner": "ArnasDon/wacrm",
+          "url": "https://github.com/ArnasDon/wacrm",
+          "stargazerCount": 2638,
+          "pushedAt": "2026-10-30T09:26:38Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "Self-hostable CRM template for WhatsApp — shared inbox, contacts, sales pipelines, broadcasts, and no-code automations. Fork it, brand it, host it.",
+          "category_en": "6. Go-To-Market: SEO/GEO, Paid Ads, Social Scheduling & WhatsApp CRM"
+        },
+        {
+          "repo": "Anil-matcha/open-agent-email",
+          "role_en": "Email Inbox & Approval Infra for Agents",
+          "role_id": "Infrastruktur Email Khusus Agen AI + Approval",
+          "why_en": "Gives your AI agents their own secure email inboxes over REST and MCP with human-in-the-loop approval before outbound sales/support emails are sent.",
+          "why_id": "Memberi agen AI kotak masuk email sendiri via REST & MCP lengkap dengan fitur persetujuan manusia sebelum agen mengirim email ke klien.",
+          "nameWithOwner": "Anil-matcha/open-agent-email",
+          "url": "https://github.com/Anil-matcha/open-agent-email",
+          "stargazerCount": 2118,
+          "pushedAt": "2026-10-22T08:07:45Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "licenseInfo": {
+            "spdxId": "Apache-2.0"
+          },
+          "description": "Open-source email infrastructure for AI agents: secure inboxes, REST and MCP APIs, SMTP, human approval workflows, signed webhooks, and Python and TypeScript SDKs. Self-host with Docker and PostgreSQL.",
           "category_en": "6. Go-To-Market: SEO/GEO, Paid Ads, Social Scheduling & WhatsApp CRM"
         }
       ]
@@ -1708,7 +3206,7 @@
           "why_id": "Platform otomasi workflow pengganti Zapier/Make dengan 400+ integrasi dan dukungan AI agent tanpa biaya per eksekusi.",
           "nameWithOwner": "n8n-io/n8n",
           "url": "https://github.com/n8n-io/n8n",
-          "stargazerCount": 209184,
+          "stargazerCount": 209187,
           "pushedAt": "2026-10-31T10:52:59Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1728,8 +3226,8 @@
           "why_id": "Platform visual untuk membangun workflow LLM dan RAG pipeline yang bisa langsung diekspos sebagai API produksi.",
           "nameWithOwner": "langgenius/dify",
           "url": "https://github.com/langgenius/dify",
-          "stargazerCount": 160069,
-          "pushedAt": "2026-10-31T10:59:40Z",
+          "stargazerCount": 160077,
+          "pushedAt": "2026-10-31T12:37:24Z",
           "isArchived": false,
           "primaryLanguage": {
             "name": "Python"
@@ -1748,7 +3246,7 @@
           "why_id": "Aplikasi mandiri untuk 50+ operasi PDF (gabung, pisah, tanda tangan, OCR, kompresi) dengan privasi penuh.",
           "nameWithOwner": "Stirling-Tools/Stirling-PDF",
           "url": "https://github.com/Stirling-Tools/Stirling-PDF",
-          "stargazerCount": 95443,
+          "stargazerCount": 95453,
           "pushedAt": "2026-10-31T07:30:16Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1761,6 +3259,26 @@
           "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
         },
         {
+          "repo": "infiniflow/ragflow",
+          "role_en": "Deep-Document Production RAG Engine",
+          "role_id": "Mesin RAG Produksi dengan Pemahaman Dokumen Rumit",
+          "why_en": "Leading open-source RAG engine combining deep document layout parsing with agentic workflows for accurate customer support and internal knowledge bases.",
+          "why_id": "Mesin RAG open-source terdepan untuk membangun asisten CS pintar dan basis pengetahuan akurat dari dokumen bisnis yang kompleks.",
+          "nameWithOwner": "infiniflow/ragflow",
+          "url": "https://github.com/infiniflow/ragflow",
+          "stargazerCount": 93246,
+          "pushedAt": "2026-10-31T06:09:56Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Go"
+          },
+          "licenseInfo": {
+            "spdxId": "Apache-2.0"
+          },
+          "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+          "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
+        },
+        {
           "repo": "louislam/uptime-kuma",
           "role_en": "Uptime Monitor & Status Page",
           "role_id": "Monitoring Server & Status Page Publik",
@@ -1768,8 +3286,8 @@
           "why_id": "Alat pemantau uptime server mandiri lengkap dengan halaman status publik dan notifikasi instan ke Telegram/Discord.",
           "nameWithOwner": "louislam/uptime-kuma",
           "url": "https://github.com/louislam/uptime-kuma",
-          "stargazerCount": 93120,
-          "pushedAt": "2026-10-31T06:31:32Z",
+          "stargazerCount": 93121,
+          "pushedAt": "2026-10-31T11:53:29Z",
           "isArchived": false,
           "primaryLanguage": {
             "name": "JavaScript"
@@ -1781,6 +3299,46 @@
           "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
         },
         {
+          "repo": "opendatalab/MinerU",
+          "role_en": "Complex PDF/Office-to-Markdown Parser",
+          "role_id": "Konverter PDF/Dokumen Kompleks ke Markdown/JSON",
+          "why_en": "Transforms multi-column PDFs, tables, contracts, and Office documents into clean, LLM-ready Markdown and JSON for agentic pipelines.",
+          "why_id": "Mengubah PDF rumit, tabel keuangan, dan dokumen Office menjadi format Markdown/JSON bersih yang siap diproses oleh agen AI.",
+          "nameWithOwner": "opendatalab/MinerU",
+          "url": "https://github.com/opendatalab/MinerU",
+          "stargazerCount": 82862,
+          "pushedAt": "2026-10-31T11:25:06Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "licenseInfo": {
+            "spdxId": "NOASSERTION"
+          },
+          "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+          "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
+        },
+        {
+          "repo": "AppFlowy-IO/AppFlowy",
+          "role_en": "Local-First Open-Source Notion",
+          "role_id": "Alternatif Open-Source Notion (Local-First + AI)",
+          "why_en": "Privacy-first, self-hostable AI workspace for managing company wikis, SOPs, product roadmaps, and databases without per-seat Notion fees.",
+          "why_id": "Ruang kerja kolaboratif pengganti Notion untuk menyimpan SOP perusahaan, catatan produk, dan database proyek dengan kendali data penuh.",
+          "nameWithOwner": "AppFlowy-IO/AppFlowy",
+          "url": "https://github.com/AppFlowy-IO/AppFlowy",
+          "stargazerCount": 78029,
+          "pushedAt": "2026-10-28T06:07:27Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Dart"
+          },
+          "licenseInfo": {
+            "spdxId": "AGPL-3.0"
+          },
+          "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
+          "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
+        },
+        {
           "repo": "usestrix/strix",
           "role_en": "Autonomous AI Security Pentester",
           "role_id": "Agen AI Pentester Keamanan Aplikasi",
@@ -1788,7 +3346,7 @@
           "why_id": "Alat penetration testing berbasis AI untuk menemukan dan memperbaiki celah keamanan aplikasi sebelum rilis ke publik.",
           "nameWithOwner": "usestrix/strix",
           "url": "https://github.com/usestrix/strix",
-          "stargazerCount": 73004,
+          "stargazerCount": 73020,
           "pushedAt": "2026-10-30T20:56:09Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1801,6 +3359,26 @@
           "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
         },
         {
+          "repo": "dani-garcia/vaultwarden",
+          "role_en": "Featherweight Rust Password & 2FA Vault",
+          "role_id": "Brankas Password & TOTP 2FA Mandiri (Bitwarden)",
+          "why_en": "Ultra-lightweight Rust server compatible with official Bitwarden apps—securely store all your company logins, API keys, and 2FA codes on a $5 VPS.",
+          "why_id": "Server kompatibel Bitwarden berbasis Rust yang sangat hemat RAM untuk menyimpan seluruh password bisnis, API key, dan kode 2FA secara aman.",
+          "nameWithOwner": "dani-garcia/vaultwarden",
+          "url": "https://github.com/dani-garcia/vaultwarden",
+          "stargazerCount": 69979,
+          "pushedAt": "2026-10-29T22:16:14Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Rust"
+          },
+          "licenseInfo": {
+            "spdxId": "AGPL-3.0"
+          },
+          "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+          "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
+        },
+        {
           "repo": "nocodb/nocodb",
           "role_en": "Self-Hosted Airtable on SQL",
           "role_id": "Alternatif Airtable di Atas Database SQL",
@@ -1809,7 +3387,7 @@
           "nameWithOwner": "nocodb/nocodb",
           "url": "https://github.com/nocodb/nocodb",
           "stargazerCount": 65397,
-          "pushedAt": "2026-10-31T09:35:30Z",
+          "pushedAt": "2026-10-31T12:23:40Z",
           "isArchived": false,
           "primaryLanguage": {
             "name": "TypeScript"
@@ -1828,7 +3406,7 @@
           "why_id": "Mengubah VPS $5 menjadi pengganti Vercel/Heroku/Netlify lengkap dengan auto-deploy Git, SSL gratis, dan instalasi DB 1-klik.",
           "nameWithOwner": "coollabsio/coolify",
           "url": "https://github.com/coollabsio/coolify",
-          "stargazerCount": 65343,
+          "stargazerCount": 65347,
           "pushedAt": "2026-10-31T07:53:04Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1848,7 +3426,7 @@
           "why_id": "Platform manajemen proyek modern untuk mengelola siklus rilis, backlog fitur, dan dokumentasi produk.",
           "nameWithOwner": "makeplane/plane",
           "url": "https://github.com/makeplane/plane",
-          "stargazerCount": 61763,
+          "stargazerCount": 61767,
           "pushedAt": "2026-10-30T08:57:51Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1861,6 +3439,26 @@
           "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
         },
         {
+          "repo": "odoo/odoo",
+          "role_en": "All-in-One Open-Source ERP & POS",
+          "role_id": "Sistem ERP Bisnis Lengkap (Akuntansi, Stok, POS, Web)",
+          "why_en": "Comprehensive open-source suite covering accounting, inventory, invoicing, e-commerce, POS, and MRP for solo founders running physical or hybrid businesses.",
+          "why_id": "Suite aplikasi bisnis open-source terlengkap (akuntansi, inventaris gudang, kasir POS, e-commerce) untuk bisnis fisik maupun digital.",
+          "nameWithOwner": "odoo/odoo",
+          "url": "https://github.com/odoo/odoo",
+          "stargazerCount": 55443,
+          "pushedAt": "2026-10-31T12:47:33Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "licenseInfo": {
+            "spdxId": "NOASSERTION"
+          },
+          "description": "Odoo. Open Source Apps To Grow Your Business.",
+          "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
+        },
+        {
           "repo": "KeygraphHQ/shannon",
           "role_en": "Web & API Source-Code Pentester",
           "role_id": "Auditor Keamanan Web & API Otomatis",
@@ -1868,7 +3466,7 @@
           "why_id": "Pentester AI untuk aplikasi web dan API yang menganalisis source code serta menguji vektor serangan secara otomatis.",
           "nameWithOwner": "KeygraphHQ/shannon",
           "url": "https://github.com/KeygraphHQ/shannon",
-          "stargazerCount": 50629,
+          "stargazerCount": 50632,
           "pushedAt": "2026-10-27T06:17:04Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1881,6 +3479,86 @@
           "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
         },
         {
+          "repo": "metabase/metabase",
+          "role_en": "No-Code SQL Business Intelligence",
+          "role_id": "Dashboard BI & Visualisasi Data Bisnis Tanpa Kode",
+          "why_en": "Connects directly to your production Postgres/MySQL database so you can build live MRR, retention, and cohort dashboards in minutes.",
+          "why_id": "Terhubung langsung ke database aplikasi untuk membuat dashboard grafik omzet (MRR), retensi pelanggan, dan laporan bisnis dalam hitungan menit.",
+          "nameWithOwner": "metabase/metabase",
+          "url": "https://github.com/metabase/metabase",
+          "stargazerCount": 50051,
+          "pushedAt": "2026-10-31T12:42:05Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Clojure"
+          },
+          "licenseInfo": {
+            "spdxId": "NOASSERTION"
+          },
+          "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:",
+          "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
+        },
+        {
+          "repo": "paperless-ngx/paperless-ngx",
+          "role_en": "OCR Tax Receipt & Document Archive",
+          "role_id": "Arsip Dokumen, Kwitansi & Faktur Pajak ber-OCR",
+          "why_en": "Automatically scans, OCR-indexes, and organizes all your business receipts, vendor invoices, and tax documents into a searchable archive.",
+          "why_id": "Memindai dengan OCR, mengindeks, dan mengarsipkan seluruh bukti pengeluaran, invoice vendor, serta dokumen pajak secara otomatis.",
+          "nameWithOwner": "paperless-ngx/paperless-ngx",
+          "url": "https://github.com/paperless-ngx/paperless-ngx",
+          "stargazerCount": 47434,
+          "pushedAt": "2026-10-31T12:15:39Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "licenseInfo": {
+            "spdxId": "GPL-3.0"
+          },
+          "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+          "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
+        },
+        {
+          "repo": "juspay/hyperswitch",
+          "role_en": "Composable Multi-Gateway Payment Switch",
+          "role_id": "Payment Switch Orkestrator Multi-Gateway",
+          "why_en": "Open-source payment orchestrator connecting Stripe, PayPal, Adyen, and regional gateways behind one API with smart failover and lower processing fees.",
+          "why_id": "Orkestrator pembayaran open-source yang menyatukan berbagai payment gateway di balik satu API dengan fitur auto-failover jika satu gateway gangguan.",
+          "nameWithOwner": "juspay/hyperswitch",
+          "url": "https://github.com/juspay/hyperswitch",
+          "stargazerCount": 45587,
+          "pushedAt": "2026-10-31T12:26:29Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Rust"
+          },
+          "licenseInfo": {
+            "spdxId": "Apache-2.0"
+          },
+          "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
+          "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
+        },
+        {
+          "repo": "ToolJet/ToolJet",
+          "role_en": "Prompt-to-Admin-Panel Builder (Retool)",
+          "role_id": "Pembuat Dashboard Admin Internal (Pengganti Retool)",
+          "why_en": "Build internal back-office dashboards, customer refund tools, and database CRUD panels visually or via Claude Code/Cursor over MCP.",
+          "why_id": "Bangun panel admin internal untuk operasional back-office dan manajemen user secara visual atau langsung dari perintah agen coding via MCP.",
+          "nameWithOwner": "ToolJet/ToolJet",
+          "url": "https://github.com/ToolJet/ToolJet",
+          "stargazerCount": 41152,
+          "pushedAt": "2026-10-31T06:35:25Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "HTML"
+          },
+          "licenseInfo": {
+            "spdxId": "AGPL-3.0"
+          },
+          "description": "Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀",
+          "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
+        },
+        {
           "repo": "PostHog/posthog",
           "role_en": "All-in-One Product Analytics OS",
           "role_id": "Product OS: Analitik, Session Replay & A/B Test",
@@ -1889,7 +3567,7 @@
           "nameWithOwner": "PostHog/posthog",
           "url": "https://github.com/PostHog/posthog",
           "stargazerCount": 40545,
-          "pushedAt": "2026-10-31T11:09:09Z",
+          "pushedAt": "2026-10-31T12:47:51Z",
           "isArchived": false,
           "primaryLanguage": {
             "name": "Python"
@@ -1908,7 +3586,7 @@
           "why_id": "Pengganti Google Analytics yang sangat ringan, bebas banner cookie, dan menampilkan trafik serta konversi dalam satu layar.",
           "nameWithOwner": "umami-software/umami",
           "url": "https://github.com/umami-software/umami",
-          "stargazerCount": 39823,
+          "stargazerCount": 39826,
           "pushedAt": "2026-10-31T04:31:24Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1928,7 +3606,7 @@
           "why_id": "Alternatif Intercom/Zendesk yang menyatukan kotak masuk live chat website, WhatsApp, Instagram, Telegram, dan Email.",
           "nameWithOwner": "chatwoot/chatwoot",
           "url": "https://github.com/chatwoot/chatwoot",
-          "stargazerCount": 38665,
+          "stargazerCount": 38669,
           "pushedAt": "2026-10-31T01:41:32Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1948,8 +3626,8 @@
           "why_id": "PaaS open-source yang sangat ringan berbasis Docker dan Traefik lengkap dengan fitur backup database otomatis.",
           "nameWithOwner": "Dokploy/dokploy",
           "url": "https://github.com/Dokploy/dokploy",
-          "stargazerCount": 38154,
-          "pushedAt": "2026-10-30T21:13:53Z",
+          "stargazerCount": 38156,
+          "pushedAt": "2026-10-31T12:29:47Z",
           "isArchived": false,
           "primaryLanguage": {
             "name": "TypeScript"
@@ -1961,6 +3639,86 @@
           "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
         },
         {
+          "repo": "langfuse/langfuse",
+          "role_en": "LLM Observability, Tracing & Cost Guard",
+          "role_id": "Observabilitas, Tracing & Audit Biaya Produk AI",
+          "why_en": "Open-source LLM engineering platform to trace agent executions, version prompts, run evals, and track exact AI API costs per customer.",
+          "why_id": "Platform observabilitas untuk melacak eksekusi agen AI, mengevaluasi kualitas jawaban, dan memantau biaya token per pelanggan secara detail.",
+          "nameWithOwner": "langfuse/langfuse",
+          "url": "https://github.com/langfuse/langfuse",
+          "stargazerCount": 36788,
+          "pushedAt": "2026-10-31T12:23:23Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "NOASSERTION"
+          },
+          "description": "🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+          "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
+        },
+        {
+          "repo": "binwiederhier/ntfy",
+          "role_en": "1-Line HTTP Push Notifications to Phone",
+          "role_id": "Notifikasi Push Instan ke HP via HTTP PUT/POST",
+          "why_en": "Send instant push notifications to your phone with a single curl/HTTP request whenever a user upgrades, a cron job fails, or an agent finishes work.",
+          "why_id": "Kirim notifikasi instan ke HP-mu hanya dengan satu request HTTP setiap kali ada pembayaran masuk, error server, atau tugas agen selesai.",
+          "nameWithOwner": "binwiederhier/ntfy",
+          "url": "https://github.com/binwiederhier/ntfy",
+          "stargazerCount": 35193,
+          "pushedAt": "2026-10-31T11:39:40Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Go"
+          },
+          "licenseInfo": {
+            "spdxId": "Apache-2.0"
+          },
+          "description": "Send push notifications to your phone or desktop using PUT/POST",
+          "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
+        },
+        {
+          "repo": "iOfficeAI/OfficeCLI",
+          "role_en": "1-Binary Word/Excel/PPT Engine for Agents",
+          "role_id": "CLI Pengolah Word, Excel & PPT Khusus Agen AI",
+          "why_en": "Single-binary Office suite purpose-built for AI agents to read, edit, and automate real .docx, .xlsx, and .pptx client deliverables without MS Office.",
+          "why_id": "Aplikasi 1-binary khusus agen AI untuk membaca, mengedit, dan membuat laporan klien berformat .docx, .xlsx, dan .pptx secara otomatis.",
+          "nameWithOwner": "iOfficeAI/OfficeCLI",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "stargazerCount": 32857,
+          "pushedAt": "2026-10-30T06:48:51Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "C#"
+          },
+          "licenseInfo": {
+            "spdxId": "Apache-2.0"
+          },
+          "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+          "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
+        },
+        {
+          "repo": "vxcontrol/pentagi",
+          "role_en": "Multi-Agent Autonomous Pentester",
+          "role_id": "Sistem Agen AI Penetration Testing Otonom",
+          "why_en": "Fully autonomous multi-agent system capable of executing end-to-end security audits and penetration testing in isolated sandboxes.",
+          "why_id": "Sistem multi-agen otonom untuk menjalankan pengujian keamanan (pentesting) menyeluruh terhadap infrastruktur dan aplikasi.",
+          "nameWithOwner": "vxcontrol/pentagi",
+          "url": "https://github.com/vxcontrol/pentagi",
+          "stargazerCount": 32841,
+          "pushedAt": "2026-10-22T23:26:13Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Go"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+          "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
+        },
+        {
           "repo": "Zackriya-Solutions/meetily",
           "role_en": "Local AI Meeting Note-Taker",
           "role_id": "Pencatat Notulensi Rapat AI Lokal",
@@ -1968,7 +3726,7 @@
           "why_id": "Asisten pencatat dan perangkum rapat AI yang berjalan lokal (alternatif gratis Fireflies/Otter.ai) dengan privasi terjaga.",
           "nameWithOwner": "Zackriya-Solutions/meetily",
           "url": "https://github.com/Zackriya-Solutions/meetily",
-          "stargazerCount": 32336,
+          "stargazerCount": 32337,
           "pushedAt": "2026-10-31T10:19:40Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -1981,6 +3739,106 @@
           "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
         },
         {
+          "repo": "Infisical/infisical",
+          "role_en": "Secrets, API Keys & Cert Manager",
+          "role_id": "Manajer API Key, ENV Secrets & Sertifikat Terpusat",
+          "why_en": "Open-source platform to centralize, rotate, and inject environment variables and API secrets across your VPS containers, CI/CD, and AI agents.",
+          "why_id": "Platform open-source untuk mengelola, merotasi, dan mengamankan seluruh file .env serta API key lintas server dan agen AI.",
+          "nameWithOwner": "Infisical/infisical",
+          "url": "https://github.com/Infisical/infisical",
+          "stargazerCount": 30186,
+          "pushedAt": "2026-10-31T06:02:23Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "NOASSERTION"
+          },
+          "description": "Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.",
+          "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
+        },
+        {
+          "repo": "t8y2/dbx",
+          "role_en": "25MB AI-Native Database Client + MCP",
+          "role_id": "Klien 100+ Database Super Ringan (25MB) + MCP",
+          "why_en": "Ultra-fast 25 MB database GUI, CLI, and MCP server supporting 100+ databases (Postgres, SQLite, MySQL, Redis, DuckDB) with built-in AI assistant.",
+          "why_id": "Aplikasi manajemen 100+ jenis database (Postgres, SQLite, MySQL, Redis) berukuran hanya 25 MB yang dilengkapi asisten AI dan server MCP.",
+          "nameWithOwner": "t8y2/dbx",
+          "url": "https://github.com/t8y2/dbx",
+          "stargazerCount": 28302,
+          "pushedAt": "2026-10-31T09:56:53Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Rust"
+          },
+          "licenseInfo": {
+            "spdxId": "Apache-2.0"
+          },
+          "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+          "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
+        },
+        {
+          "repo": "henrygd/beszel",
+          "role_en": "Featherweight VPS & Docker Monitor",
+          "role_id": "Monitoring Resource VPS & Kontainer Docker Ringan",
+          "why_en": "Lightweight server monitoring hub recording historical CPU, RAM, disk, and per-container Docker metrics with instant alerts—ideal for a $5 VPS.",
+          "why_id": "Alat monitoring server super ringan untuk memantau pemakaian CPU, RAM, disk, dan tiap kontainer Docker di VPS $5 lengkap dengan histori grafik.",
+          "nameWithOwner": "henrygd/beszel",
+          "url": "https://github.com/henrygd/beszel",
+          "stargazerCount": 26725,
+          "pushedAt": "2026-10-30T23:02:08Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Go"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
+          "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
+        },
+        {
+          "repo": "activepieces/activepieces",
+          "role_en": "MIT-Licensed Zapier + 400 MCP Servers",
+          "role_id": "Otomasi Workflow Berlisensi MIT + 400 Server MCP",
+          "why_en": "Clean, MIT-licensed open-source alternative to Zapier where every integration piece is also available as an MCP tool for your AI agents.",
+          "why_id": "Alternatif Zapier berlisensi MIT yang sangat ramah pengguna, di mana ratusan konektor aplikasinya langsung bisa dipakai sebagai MCP oleh agen AI.",
+          "nameWithOwner": "activepieces/activepieces",
+          "url": "https://github.com/activepieces/activepieces",
+          "stargazerCount": 25306,
+          "pushedAt": "2026-10-31T12:41:27Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "NOASSERTION"
+          },
+          "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+          "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
+        },
+        {
+          "repo": "NVIDIA/SkillSpector",
+          "role_en": "AI Agent Skill Security Scanner",
+          "role_id": "Pemindai Keamanan Skill Agen & MCP (NVIDIA)",
+          "why_en": "NVIDIA's security scanner that audits third-party Claude Code, Codex, and MCP skills for prompt injection, backdoors, and data exfiltration before install.",
+          "why_id": "Alat resmi dari NVIDIA untuk memindai skill agen pihak ketiga dari bahaya pencurian data (exfiltration), backdoor, dan prompt injection sebelum dipasang.",
+          "nameWithOwner": "NVIDIA/SkillSpector",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "stargazerCount": 23625,
+          "pushedAt": "2026-10-30T20:27:17Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "licenseInfo": {
+            "spdxId": "Apache-2.0"
+          },
+          "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+          "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
+        },
+        {
           "repo": "czlonkowski/n8n-mcp",
           "role_en": "AI-Driven n8n Workflow Builder",
           "role_id": "Pembuat Workflow n8n via Agen Coding",
@@ -1988,7 +3846,7 @@
           "why_id": "Server MCP yang memungkinkan agen coding merancang dan merakit workflow n8n secara otomatis untukmu.",
           "nameWithOwner": "czlonkowski/n8n-mcp",
           "url": "https://github.com/czlonkowski/n8n-mcp",
-          "stargazerCount": 23175,
+          "stargazerCount": 23176,
           "pushedAt": "2026-10-27T19:07:26Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -2001,6 +3859,26 @@
           "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
         },
         {
+          "repo": "teableio/teable",
+          "role_en": "Million-Row AI Spreadsheet on Postgres",
+          "role_id": "Spreadsheet AI Berbasis Postgres (Pengganti Airtable)",
+          "why_en": "Next-generation Airtable alternative built directly on PostgreSQL—handles millions of rows at spreadsheet speed with native AI fields and APIs.",
+          "why_id": "Alternatif Airtable generasi baru di atas PostgreSQL yang sanggup menangani jutaan baris data tanpa lemot lengkap dengan kolom AI.",
+          "nameWithOwner": "teableio/teable",
+          "url": "https://github.com/teableio/teable",
+          "stargazerCount": 21942,
+          "pushedAt": "2026-10-30T13:12:46Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "NOASSERTION"
+          },
+          "description": "✨ AI Spreadsheet for Business",
+          "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
+        },
+        {
           "repo": "docusealco/docuseal",
           "role_en": "Fast Open-Source DocuSign",
           "role_id": "Tanda Tangan Dokumen Digital Cepat",
@@ -2008,7 +3886,7 @@
           "why_id": "Platform open-source ringan untuk membuat, mengisi, dan menandatangani kontrak digital serta NDA.",
           "nameWithOwner": "docusealco/docuseal",
           "url": "https://github.com/docusealco/docuseal",
-          "stargazerCount": 18959,
+          "stargazerCount": 18960,
           "pushedAt": "2026-10-26T10:48:06Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -2021,6 +3899,46 @@
           "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
         },
         {
+          "repo": "windmill-labs/windmill",
+          "role_en": "Fastest Code-First Workflow & UI Engine",
+          "role_id": "Engine Orkestrasi Script (Python/TS/Go) & Internal UI",
+          "why_en": "Turns bare Python, TypeScript, Go, or Bash scripts into production webhooks, cron workflows, and internal UIs on a blazing-fast self-hosted worker.",
+          "why_id": "Mengubah script Python, TypeScript, Go, atau Bash biasa menjadi workflow terjadwal, webhook, dan aplikasi internal dengan sangat cepat.",
+          "nameWithOwner": "windmill-labs/windmill",
+          "url": "https://github.com/windmill-labs/windmill",
+          "stargazerCount": 18332,
+          "pushedAt": "2026-10-30T19:29:13Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Rust"
+          },
+          "licenseInfo": {
+            "spdxId": "NOASSERTION"
+          },
+          "description": "Code-first platform for workflows, apps and AI agents, on the fastest self-hostable orchestrator (benchmarked against Airflow, Prefect and Temporal). Business teams build with AI, engineers control what ships. Open-source alternative to Lovable, Retool and n8n.",
+          "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
+        },
+        {
+          "repo": "triggerdotdev/trigger.dev",
+          "role_en": "Durable Long-Running AI Background Jobs",
+          "role_id": "Infrastruktur Background Job AI Tanpa Timeout",
+          "why_en": "Build and deploy durable background jobs and long-running AI agent workflows with automatic retries, queues, and zero serverless timeouts.",
+          "why_id": "Menjalankan proses background job dan eksekusi agen AI berdurasi panjang secara andal tanpa terkena batas waktu (timeout) serverless.",
+          "nameWithOwner": "triggerdotdev/trigger.dev",
+          "url": "https://github.com/triggerdotdev/trigger.dev",
+          "stargazerCount": 16667,
+          "pushedAt": "2026-10-31T11:59:31Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "Apache-2.0"
+          },
+          "description": "Trigger.dev – build and deploy durable AI agents and workflows",
+          "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
+        },
+        {
           "repo": "documenso/documenso",
           "role_en": "Modern E-Signature Infrastructure",
           "role_id": "Infrastruktur Tanda Tangan Elektronik",
@@ -2028,8 +3946,8 @@
           "why_id": "Alternatif DocuSign berbasis Next.js yang mendukung branding kustom dan integrasi webhook.",
           "nameWithOwner": "documenso/documenso",
           "url": "https://github.com/documenso/documenso",
-          "stargazerCount": 15618,
-          "pushedAt": "2026-10-31T10:56:28Z",
+          "stargazerCount": 15619,
+          "pushedAt": "2026-10-31T12:06:13Z",
           "isArchived": false,
           "primaryLanguage": {
             "name": "TypeScript"
@@ -2041,6 +3959,26 @@
           "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
         },
         {
+          "repo": "maillab/cloud-mail",
+          "role_en": "$0 Custom-Domain Business Email (CF)",
+          "role_id": "Email Bisnis Domain Kustom Gratis via Cloudflare",
+          "why_en": "All-in-one custom-domain email inbox and sending platform powered by Cloudflare Workers and D1—replaces $6/user/mo Google Workspace email.",
+          "why_id": "Platform email bisnis dengan domain sendiri yang berjalan 100% gratis di atas Cloudflare Workers—menghemat biaya langganan Google Workspace.",
+          "nameWithOwner": "maillab/cloud-mail",
+          "url": "https://github.com/maillab/cloud-mail",
+          "stargazerCount": 15175,
+          "pushedAt": "2026-10-25T18:37:03Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "JavaScript"
+          },
+          "licenseInfo": {
+            "spdxId": "MIT"
+          },
+          "description": "An all-in-one email service platform powered by Cloudflare  | 基于 Cloudflare 的一站式邮箱服务平台  | Cloudflare Email 邮箱 Mail",
+          "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
+        },
+        {
           "repo": "formbricks/formbricks",
           "role_en": "PMF & Churn Micro-Surveys",
           "role_id": "Survei In-App untuk Ukur PMF & Churn",
@@ -2049,7 +3987,7 @@
           "nameWithOwner": "formbricks/formbricks",
           "url": "https://github.com/formbricks/formbricks",
           "stargazerCount": 13200,
-          "pushedAt": "2026-10-31T09:54:17Z",
+          "pushedAt": "2026-10-31T12:43:44Z",
           "isArchived": false,
           "primaryLanguage": {
             "name": "TypeScript"
@@ -2061,6 +3999,26 @@
           "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
         },
         {
+          "repo": "getlago/lago",
+          "role_en": "Usage-Based & AI Credit Billing Engine",
+          "role_id": "Mesin Billing Berbasis Pemakaian (Kredit/Token AI)",
+          "why_en": "Open-source metering and usage-based billing API—essential for AI SaaS products that charge customers by tokens, credits, seats, or API calls.",
+          "why_id": "Sistem billing open-source untuk menghitung tagihan berbasis pemakaian (usage-based/sistem kredit token)—sangat krusial untuk bisnis AI SaaS.",
+          "nameWithOwner": "getlago/lago",
+          "url": "https://github.com/getlago/lago",
+          "stargazerCount": 10733,
+          "pushedAt": "2026-10-30T17:30:08Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Go"
+          },
+          "licenseInfo": {
+            "spdxId": "AGPL-3.0"
+          },
+          "description": "Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics",
+          "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
+        },
+        {
           "repo": "polarsource/polar",
           "role_en": "Indie Hacker Merchant of Record",
           "role_id": "Platform Monetisasi & Pajak Global (MoR)",
@@ -2069,7 +4027,7 @@
           "nameWithOwner": "polarsource/polar",
           "url": "https://github.com/polarsource/polar",
           "stargazerCount": 10446,
-          "pushedAt": "2026-10-31T06:56:21Z",
+          "pushedAt": "2026-10-31T12:32:36Z",
           "isArchived": false,
           "primaryLanguage": {
             "name": "Python"
@@ -2088,7 +4046,7 @@
           "why_id": "Sistem pembuatan invoice, penawaran harga, pelacakan pengeluaran, dan portal pembayaran klien untuk agensi solo.",
           "nameWithOwner": "invoiceninja/invoiceninja",
           "url": "https://github.com/invoiceninja/invoiceninja",
-          "stargazerCount": 10417,
+          "stargazerCount": 10419,
           "pushedAt": "2026-10-30T20:31:50Z",
           "isArchived": false,
           "primaryLanguage": {
@@ -2098,6 +4056,106 @@
             "spdxId": "NOASSERTION"
           },
           "description": "A source-available invoice, quote, project and time-tracking app built with Laravel",
+          "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
+        },
+        {
+          "repo": "akaunting/akaunting",
+          "role_en": "Self-Hosted Business Bookkeeping",
+          "role_id": "Software Akuntansi & Pembukuan Bisnis Mandiri",
+          "why_en": "Open-source online accounting software (Wave / Xero / QuickBooks alternative) to track solo business cashflow, expenses, tax, and profit/loss.",
+          "why_id": "Aplikasi akuntansi dan pembukuan open-source (pengganti Xero/QuickBooks/Jurnal) untuk mencatat arus kas, pengeluaran, dan laporan laba-rugi.",
+          "nameWithOwner": "akaunting/akaunting",
+          "url": "https://github.com/akaunting/akaunting",
+          "stargazerCount": 10257,
+          "pushedAt": "2026-10-31T12:43:58Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "PHP"
+          },
+          "licenseInfo": {
+            "spdxId": "NOASSERTION"
+          },
+          "description": "Online Accounting Software",
+          "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
+        },
+        {
+          "repo": "openstatusHQ/openstatus",
+          "role_en": "Global Synthetic Monitoring & Status Page",
+          "role_id": "Monitoring Latensi API & Halaman Status Modern",
+          "why_en": "Open-source status page and incident response platform that monitors API latency and uptime across regions.",
+          "why_id": "Platform halaman status publik, manajemen insiden, dan pemantau kecepatan respon API lintas negara.",
+          "nameWithOwner": "openstatusHQ/openstatus",
+          "url": "https://github.com/openstatusHQ/openstatus",
+          "stargazerCount": 9243,
+          "pushedAt": "2026-10-31T10:21:00Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "licenseInfo": {
+            "spdxId": "AGPL-3.0"
+          },
+          "description": "Open-source status page, incident response and uptime monitoring",
+          "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
+        },
+        {
+          "repo": "solidtime-io/solidtime",
+          "role_en": "Modern Agency & Freelance Time Tracker",
+          "role_id": "Pelacak Waktu Kerja & Tagihan Jam Klien (Toggl)",
+          "why_en": "Sleek open-source time-tracking app (Toggl / Harvest alternative) for solo agencies and consultants to track billable hours by project and client.",
+          "why_id": "Aplikasi pencatat jam kerja proyek (pengganti Toggl/Harvest) untuk konsultan dan solo agency yang menagih klien berdasarkan jam kerja.",
+          "nameWithOwner": "solidtime-io/solidtime",
+          "url": "https://github.com/solidtime-io/solidtime",
+          "stargazerCount": 9077,
+          "pushedAt": "2026-10-30T16:59:23Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "PHP"
+          },
+          "licenseInfo": {
+            "spdxId": "AGPL-3.0"
+          },
+          "description": "Modern open-source time-tracking app",
+          "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
+        },
+        {
+          "repo": "ellite/Wallos",
+          "role_en": "Recurring SaaS & Domain Expense Tracker",
+          "role_id": "Pelacak Tagihan Langganan SaaS & Perpanjangan Domain",
+          "why_en": "Self-hosted subscription tracker that alerts you before recurring SaaS tools, APIs, or domains auto-renew so your solo company never bleeds cash.",
+          "why_id": "Aplikasi pelacak langganan bulanan/tahunan yang mengingatkanmu sebelum tagihan SaaS, server, atau domain diperpanjang otomatis.",
+          "nameWithOwner": "ellite/Wallos",
+          "url": "https://github.com/ellite/Wallos",
+          "stargazerCount": 8768,
+          "pushedAt": "2026-10-31T12:46:02Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "PHP"
+          },
+          "licenseInfo": {
+            "spdxId": "GPL-3.0"
+          },
+          "description": "Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.",
+          "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
+        },
+        {
+          "repo": "freescout-help-desk/freescout",
+          "role_en": "Ultra-Light Shared Inbox & Helpdesk",
+          "role_id": "Helpdesk & Kotak Masuk Email CS Super Ringan",
+          "why_en": "Featherweight PHP/MySQL alternative to Help Scout and Zendesk that runs on almost zero RAM for managing customer support emails.",
+          "why_id": "Alternatif Help Scout dan Zendesk yang sangat ringan dan hemat RAM untuk mengelola tiket email dukungan pelanggan di VPS murah.",
+          "nameWithOwner": "freescout-help-desk/freescout",
+          "url": "https://github.com/freescout-help-desk/freescout",
+          "stargazerCount": 4626,
+          "pushedAt": "2026-10-31T10:24:26Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "PHP"
+          },
+          "licenseInfo": {
+            "spdxId": "AGPL-3.0"
+          },
+          "description": "FreeScout — Free self-hosted omnichannel AI-powered helpdesk & shared mailbox",
           "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
         },
         {
@@ -2118,6 +4176,26 @@
             "spdxId": "AGPL-3.0"
           },
           "description": "Open platform to collect and prioritize feedback",
+          "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
+        },
+        {
+          "repo": "keygen-sh/keygen-api",
+          "role_en": "Software License Key & Distribution API",
+          "role_id": "API Lisensi Software & Distribusi Aplikasi Desktop/CLI",
+          "why_en": "Open-source software licensing and distribution API for selling license keys, node-locked activations, and updates for desktop or CLI products.",
+          "why_id": "API manajemen lisensi software open-source untuk memvalidasi serial key dan pembaruan jika kamu menjual aplikasi desktop, plugin, atau CLI.",
+          "nameWithOwner": "keygen-sh/keygen-api",
+          "url": "https://github.com/keygen-sh/keygen-api",
+          "stargazerCount": 1621,
+          "pushedAt": "2026-10-27T21:46:01Z",
+          "isArchived": false,
+          "primaryLanguage": {
+            "name": "Gherkin"
+          },
+          "licenseInfo": {
+            "spdxId": "NOASSERTION"
+          },
+          "description": "Keygen is a modern, fair source software licensing and distribution API. For developers, by developers.",
           "category_en": "7. Downstream & Back-Office: Self-Hosted PaaS, Automation, Pentesting, Billing & Analytics"
         },
         {
@@ -2152,7 +4230,7 @@
       "why_id": "Alat AI pair programming klasik di terminal.",
       "nameWithOwner": "Aider-AI/aider",
       "url": "https://github.com/Aider-AI/aider",
-      "stargazerCount": 49845,
+      "stargazerCount": 49846,
       "pushedAt": "2026-05-22T14:02:20Z",
       "isArchived": false,
       "primaryLanguage": {
@@ -2192,7 +4270,7 @@
       "why_id": "Database SQLite, Auth, File Storage, Realtime API, dan Admin Dashboard dalam 1 file binary Go yang super hemat RAM.",
       "nameWithOwner": "pocketbase/pocketbase",
       "url": "https://github.com/pocketbase/pocketbase",
-      "stargazerCount": 61625,
+      "stargazerCount": 61623,
       "pushedAt": "2026-10-26T18:07:11Z",
       "isArchived": true,
       "primaryLanguage": {
